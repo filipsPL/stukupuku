@@ -1,4 +1,4 @@
-//to należy jeszcze nieco poprawić, bo skonwertowałem jedynie html2docuwiki (fajny konwerter: [html2wiki](http://diberri.dyndns.org/html2wiki.html) - można wybrać dialekt wiki, np właśnie DocuWiki). Czyli generalnie wymaga jeszcze trochę pracy żeby naprawić odnośniki lokalne itp, zdjęcia itd.  --- //[Filip Stefaniak] 2005-05-30 19:59////
+//to należy jeszcze nieco poprawić, bo skonwertowałem jedynie html2docuwiki (fajny konwerter: [html2wiki](http://diberri.dyndns.org/html2wiki.html) - można wybrać dialekt wiki, np właśnie DocuWiki). Czyli generalnie wymaga jeszcze trochę pracy żeby naprawić odnośniki lokalne itp, zdjęcia itd.  --- //[Filips] 2005-05-30 19:59////
 
 # Story p r o j e k t (R)
 

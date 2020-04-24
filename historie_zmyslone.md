@@ -13,7 +13,7 @@
 - Czy ty znasz inne słowa niż "tak"?!<br/>
 - Nie.<br/>
 
- --- //[Filip Stefaniak] 2006-01-20 18:43//
+ --- //[Filips] 2006-01-20 18:43//
 
 ###  Historia 2 (o Zosi co mówi "nie")
 

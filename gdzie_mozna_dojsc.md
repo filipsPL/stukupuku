@@ -1,7 +1,7 @@
 ### Geneza
 
 ```
-From: Filip Stefaniak <filips@...>
+From: Filips <filips@...>
 Date: Fri, 13 Jan 2006 22:42:41 +0100
 Subject: Re: [Neurobiology] Antoni M.
 Reply-To: smutek_podlasia@...
@@ -32,4 +32,4 @@ Duży plik - zawieraja dane dla 1000 lokalizacji (większość większych miast 
 
 * html spakowany gz [filips:dane.html.gz](/.attachments/filips:dane.html.gz) 345k
 
- --- //[Filip Stefaniak] 2006-01-16 20:49//
+ --- //[Filips] 2006-01-16 20:49//

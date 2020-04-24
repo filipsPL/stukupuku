@@ -11,4 +11,4 @@ Czasem zastanawiamy się jak to jest w dzisiejszych czasach --- czy dobro ostate
 
 Tak więc na chwilę obecną (2005-05-20 13:22) w Internecie w zdecydowanej przewadze jest dobro.
 
- --- //[Filip Stefaniak] 2005-05-20 13:22//
+ --- //[Filips] 2005-05-20 13:22//

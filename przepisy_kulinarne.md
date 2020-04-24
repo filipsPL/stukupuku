@@ -7,7 +7,7 @@
  3.  Łaczymy na patelni 1) i 2).
  4.  Jemy z polewą jogurtową niewielką.
  5.  To czego nie zjemy używamy jako pasta do kanapek (chyba się da, tak wyglada, bo jak się ochłodziło to stężniało).
- --- //[Filip Stefaniak] 2005-05-17 20:22//
+ --- //[Filips] 2005-05-17 20:22//
 
 ### grzanki z przecierem pomarańczowym
 

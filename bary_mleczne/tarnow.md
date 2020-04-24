@@ -1,6 +1,6 @@
 Tak. W Tarnowie istnieje conajmniej jeden bar mleczny. Byłem tam kiedyś z mateuszem, lecz niestety był czynny do 17, a jak dotarliśmy na miejsce to było chwile po, więc tylko odbiliśmy się od drzwi.
 
- --- *Filip Stefaniak, 2005-09-14 18:48*
+ --- *Filips, 2005-09-14 18:48*
 
 Szarotka - Waryńskiego 16 Chyba że już jej nie ma. !wciaz jest! i bardzo dobrze sluzy...
 

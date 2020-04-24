@@ -761,7 +761,7 @@ Więcej: http://en.wikipedia.org/wiki/FOCAL_programming_language
 
 ![pomidor-focal.png](/.attachments/pomidor-focal.png)
 
- --- //[Filip Stefaniak] 2006-09-07 16:40//
+ --- //[Filips] 2006-09-07 16:40//
 
 ## QBASIC (zawarty w MS DOS 6.22)
 

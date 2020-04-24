@@ -1,5 +1,5 @@
 ```
-From: Filip Stefaniak <filips@infinit...>
+From: Filips <filips@infinit...>
 Mailing-List: list smutek_podlasia
 Date: Thu, 17 Nov 2005 22:37:28 +0100
 Subject: Re: [Neurobiology] wielcy =?ISO-8859-2?Q?odchodz=B1?=

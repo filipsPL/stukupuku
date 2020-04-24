@@ -6,7 +6,7 @@ W tym miejscu będą zapisywane historie, które zdarzyły się naprawdę.
 
 Do państwa Sz. na świeta zawsze przyjeżdżała mama pana Sz. I zawsze mówiła o swoim synu "oj, jaki on wymizerowany!". Aż w końcu żona pana Sz. nie chciała tego dłuzej słuchać, i jak któregoś razu mama przyjechała na święta, to pani Sz. zaskoczyła mamę i powiedziała "oj zobacz mamo, jaki on wymizerowany". A mama popatrzyła na swojego syna i powiedziała "ee, a skądże!".
 
- --- //[Filip Stefaniak] 2005-05-29 21:14//
+ --- //[Filips] 2005-05-29 21:14//
 
 ### Spotkanie meneli
 
@@ -30,7 +30,7 @@ Zrobili mu zbędną operację, ale kary uniknął.
 Dziś, w pierwszy dzień lata, [zorganizowałem](filips) Pożegnanie Wiosny (trochę na wzór Pożegnania Zimy i topienia Marzanny).
 Tak więc utopiłem w Wiśle (pośrednio, bo przez kanalizację) symbol wiosny -- truskawki (co prawda nieco zepsute).
 
- --- //[Filip Stefaniak] 2005-06-21 00:09//
+ --- //[Filips] 2005-06-21 00:09//
 
 ### Kalendarzowe czereśnie
 
@@ -64,7 +64,7 @@ obcięli jej palec i gołą na tory wyrzucili, skąd zabrało ją pogotowie.
 
 Dziś w pracy, jak zadzwonił telefon, to tak zadzwonił, że aż spadła słuchawka.
 
- --- *Filip Stefaniak, 2005-09-15 17:18*
+ --- *Filips, 2005-09-15 17:18*
 
 
 
@@ -73,14 +73,14 @@ Dziś w pracy, jak zadzwonił telefon, to tak zadzwonił, że aż spadła słuch
 Opowieść z wizyty u rodziny. Znajoma miała w rodzinie drogowca. I go kiedyś spytała, dlaczego zima zaskakuje drogowców. No i on odpowiedział:<br/>
 -- to jest tak, że drogowcy zaczynają wypatrywać zimy w połowie października (żeby nie być zaskoczonym). Ale już w połowie listopada kończy się budżet przeznaczony na obserwatorów, więc kończą się obserwacje. A potem jak przychodzi zima, to drogowcy są zaskoczeni.
 
- --- //[Filip Stefaniak] 2005-09-16 14:29//
+ --- //[Filips] 2005-09-16 14:29//
 
 
 ### Zysk
 
 Znajoma opowiadała, że kieeeedyś w PKP, jak osiągnięta strata była mniejsza niż planowana, to mówiło się o zysku.
 
- --- //[Filip Stefaniak] 2005-09-16 14:30//
+ --- //[Filips] 2005-09-16 14:30//
 
 ### Psotne wnuczki
 
@@ -100,7 +100,7 @@ Głos zabiera Maciej. *"Gdy mój tata był w wojsku..."* (tu wszyscy słuchacze 
 
 Koniec.
 
- --- //[Filip Stefaniak] 2005-10-04 20:46//
+ --- //[Filips] 2005-10-04 20:46//
 
 ### Uderzenie mapą
 
@@ -110,20 +110,20 @@ Jedna koleżanka biła kolegę mapą turystyczną po głowie. Kolega pyta:<br/>
 <br/>
 (ale jak się mówi, to jest śmieszniej, bo można powiedzieć beat-mapa.)
 
- --- //[Filip Stefaniak] 2006-01-02 20:31//
+ --- //[Filips] 2006-01-02 20:31//
 
 ### Pieprz i wanilia
 
 Marcin opowiadał, że jego babcia opowiadała, że kiedyś na wiejskich weselach chłopcy przed tańcami posypywali podłogę pieprzem, co miało powodować większe chęci u niewiast.
 
- --- //[Filip Stefaniak] 2006-01-17 14:50//
+ --- //[Filips] 2006-01-17 14:50//
 
 ### Niekumaty dziadek i technika
 
 Marcin (inny) opowiadał, że pod koniec lat 80-tych kupili wideo. No i tata jakoś w grudniu cyz lutym nagrał film z telewizji. I tak się złożyło, ze film cała rodzina oglądała dopiero w wakacje letnie. A na kasecie, oprócz filmu, nagrało się trochę wiadomości, z prognozą pogody, gdzie mówiono, że w nocy temperatura spadnie do -10 stopni C przy gruncie.
 A jak rodzina oglądała to nagranie w lipcu, to dziadek, który nie skumał, że to jest nagranie, to powiedział "Co to się, k****, porobiło".
 
- --- //[Filip Stefaniak] 2006-02-22 23:49//
+ --- //[Filips] 2006-02-22 23:49//
 
 
 W tym miejscu będą zapisywane historie, które zdarzyły się naprawdę.
@@ -132,7 +132,7 @@ W tym miejscu będą zapisywane historie, które zdarzyły się naprawdę.
 
 Do państwa Sz. na świeta zawsze przyjeżdżała mama pana Sz. I zawsze mówiła o swoim synu "oj, jaki on wymizerowany!". Aż w końcu żona pana Sz. nie chciała tego dłuzej słuchać, i jak któregoś razu mama przyjechała na święta, to pani Sz. zaskoczyła mamę i powiedziała "oj zobacz mamo, jaki on wymizerowany". A mama popatrzyła na swojego syna i powiedziała "ee, a skądże!".
 
- --- //[Filip Stefaniak] 2005-05-29 21:14//
+ --- //[Filips] 2005-05-29 21:14//
 
 ### Spotkanie meneli
 
@@ -156,7 +156,7 @@ Zrobili mu zbędną operację, ale kary uniknął.
 Dziś, w pierwszy dzień lata, [zorganizowałem](filips) Pożegnanie Wiosny (trochę na wzór Pożegnania Zimy i topienia Marzanny).
 Tak więc utopiłem w Wiśle (pośrednio, bo przez kanalizację) symbol wiosny -- truskawki (co prawda nieco zepsute).
 
- --- //[Filip Stefaniak] 2005-06-21 00:09//
+ --- //[Filips] 2005-06-21 00:09//
 
 ### Kalendarzowe czereśnie
 
@@ -190,7 +190,7 @@ obcięli jej palec i gołą na tory wyrzucili, skąd zabrało ją pogotowie.
 
 Dziś w pracy, jak zadzwonił telefon, to tak zadzwonił, że aż spadła słuchawka.
 
- --- *Filip Stefaniak, 2005-09-15 17:18*
+ --- *Filips, 2005-09-15 17:18*
 
 
 
@@ -199,14 +199,14 @@ Dziś w pracy, jak zadzwonił telefon, to tak zadzwonił, że aż spadła słuch
 Opowieść z wizyty u rodziny. Znajoma miała w rodzinie drogowca. I go kiedyś spytała, dlaczego zima zaskakuje drogowców. No i on odpowiedział:<br/>
 -- to jest tak, że drogowcy zaczynają wypatrywać zimy w połowie października (żeby nie być zaskoczonym). Ale już w połowie listopada kończy się budżet przeznaczony na obserwatorów, więc kończą się obserwacje. A potem jak przychodzi zima, to drogowcy są zaskoczeni.
 
- --- //[Filip Stefaniak] 2005-09-16 14:29//
+ --- //[Filips] 2005-09-16 14:29//
 
 
 ### Zysk
 
 Znajoma opowiadała, że kieeeedyś w PKP, jak osiągnięta strata była mniejsza niż planowana, to mówiło się o zysku.
 
- --- //[Filip Stefaniak] 2005-09-16 14:30//
+ --- //[Filips] 2005-09-16 14:30//
 
 ### Psotne wnuczki
 
@@ -226,7 +226,7 @@ Głos zabiera Maciej. *"Gdy mój tata był w wojsku..."* (tu wszyscy słuchacze 
 
 Koniec.
 
- --- //[Filip Stefaniak] 2005-10-04 20:46//
+ --- //[Filips] 2005-10-04 20:46//
 
 ### Uderzenie mapą
 
@@ -236,7 +236,7 @@ Jedna koleżanka biła kolegę mapą turystyczną po głowie. Kolega pyta:<br/>
 <br/>
 (ale jak się mówi, to jest śmieszniej, bo można powiedzieć beat-mapa.)
 
- --- //[Filip Stefaniak] 2006-01-02 20:31//
+ --- //[Filips] 2006-01-02 20:31//
 
 ### Karp bez ogona
 
@@ -295,12 +295,12 @@ Tak to Bożena odwiedziła mnie po raz pierwszy.
 
 (14:08:26) Matti: ostatnio mama opowiadala jak to w kredensie przy lozeczku kingi byla torba z cukierkami, i zawsze tata w nocy wstawal... i ktoregos razu mama zajrzala do torby a tam pusto :)
 
- --- //[Filip Stefaniak] 2007-07-20 16:10//
+ --- //[Filips] 2007-07-20 16:10//
 
 
 ### Jak mama Ani spotkała koleżankę
 
 Pisze Ania: "A propo: moja mama jechala w poniedziałek pociagiem do Warszawy i spotkala znajoma ale nie mogla sobie przypomniec jak się nazywa i gadaja, gadaja, ta pani mowi ze i ja i moja siostra ladnie wygladalysmy na weselu u Justyny. Moja mama podziekowala i się pyta - " A jak się czuja rodzice Justyny?" A ta Pani - "Ja jestem mama Justyny" - i było smiesznie  :)"
 
- --- //[Filip Stefaniak] 2007-07-20 16:10//
+ --- //[Filips] 2007-07-20 16:10//
 
