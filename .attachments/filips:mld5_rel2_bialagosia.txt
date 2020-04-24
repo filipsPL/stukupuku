@@ -1,0 +1,2753 @@
+--------------------------------------------------------------------------------
+     M L D # 5                              miewali¶my lepsze dni numer 5
+--------------------------------------------------------------------------------
+ magazyn m³odzie¿owy rozpowszechniany na dyskietce              release 2
+--------------------------------------------------------------------------------
+ magazyn ascii smutku podlasia xxxxxxxxxxxxxxxxxxx     czyli z poprawkami
+--------------------------------------------------------------------------------
+WWWWWWWWWWWW#WW#W#W#W#WWWWWWWUUUWWUUUUWUZO3%]]%%%3%333XXXOO3"~  ._,.      :3o|x.
+UUUUUUUUUUWWWWWWWWWWWWWWWWUUUUUUUUUUUXO%]+]|uuuxuxxx]x%]"~  ._aummux;,  ..|4Wmu)
+XUX4UUUUWWWWWWWWWWWWWWWWWWUUUUUUXX3%!~--|xgXXXO]!!3x%+` ._;xuXXU4XXGxx;::=?3HXXG
+XXXUXUUUWUWWWWWWUUUWUXXUUXUX4XXO]]:-  .xu33!+|axa;;  .||]%udXXXUX4X3Ox||::.---?3
+OOX4UWUWWWWWWWWUUUUUU4UXXXXO33+|:  . _|]+|xx33333%|,.]]]]3XXXX4XX4XOO33x|||;.::|
+33XXUUUWWWWUUUUUUUUXXXXX333]]:-     ::|]]x]+++~---:| |++x33X44X444XXO33xx]x+nv=|
+333XUUUUUUUWUUUUUXXXXXO33x]+:      ::+||--::.--   .- :xuqmZUUUUZXU4UXO3%%%%x|3xq
+33XXXUUUUU4XUXXXXXXX333%]+=;:... :;;:--  -     ___xx;|U4UWUWUUUU4XUXXO3333%3o|4#
+x33XXUXXXXXX3OX333%%3%%x]+=;:- .::::  .    ._|xu333O:dUUWUWUUWWUUU4XXX333%%3nuW#
+:3XOXXXXX33%%%%x%x%%x%]]+]==: ::... .  ._;x|%%%3ngd]aUWWWWUWUWUUUXXUXXO333%%3XQX
+ %3333!!+++++||++]]+]]]x]]+;.=::.::;._=+|++]+xx3X3ndWWUWWWWWUUUUU44XXX3O333%+x%3
+  +|-        ---::|+++xxu%+`.=::;==+]==|xxxx333*\yXQUWWW#WWWUWU4UXXXOOOOO33]]]3%
+    ._,,.. .. . ..-:|]!~-__; -_.  :xxxxuu333!]|3OXUWWWWWWWWUUUUXXXXXOO3OO33x;::x
+   |x%x|||||:--       .|ummgc, -|_;|x333!!xx%33ZZWWWWWWWWWUUUUXXXXO333O33O3%|:::
+   +x]]]++-._. - .   --xZUWUXmux__|+|||x3uuqXWUWWWWWWUUUXXUXXO3O333333%3333%]; :
+    -|::-:|~       _   ?WW#WWUUXZmggggmXXXUUUUWWWWWUUU4XXXOO3333%%%%xx%%%%%%x>  
+  . . -: -   .._||::.  :WW##WWWWUUUU4UUWUUUUZXUUUU4UXXXO33O3333%%%x]]xx%%x]%]]  
+        ._;xxxx]|:;xx,.xUW###WWWWUUXXX3%!!3333X3X3X3O333333%3%xxx]]+]]]]x]x]+], 
+        |n%]|+||xu33% |dXW#WWWWWWU4X33uux;: -~++]%%%%3%3%%%%x]]]]+]]+]]+x]]+]x; 
+|:   .  .+33m4UXXXX!.xdUU4W#####WW4OXX4UUXu,.;:.:--||+]|+]]+]+]+]++]]]]]]]+]=x|.
+-]u;,....:3XXUXU47`|uXO34WW####WWW4XUXUUUUO]:||=|:;:::-:;;;==+++]+]+++]+]+]++xx,
+  -!3a_;:|%XZW7!|auXX3]+3UWWW#WWWUUXUXXXXO%||xxxxxx|;;:::.--==+]+x]x]]+]]]+++x%|
+  .   ?!*!*3x|uuXXO3%+::dUUWWUWUXX333%%]]+:|xx%33%x]+|=:.::::xxx%%%%x]]]]++=xx%%
+ ..:    :.+333XXOX3%]| :XXXUUUXX3%+||--.::|x333O3O%%]>-   .:=|3%3%3%x]x]+++=x%%%
+.::.;::::._333333%%|=:. 33%3333]|==: ..::|x%33O33]+::.,  _|%]x33%%%%x%xx]++x]x%x
+:.::::::.|33%xxxxx]=;-  -+=|=|:|:::-.:.||x%%]++:::|ux  _|u3%xxx%3%%%x%x%]+|]]x]]
+-  .-.- x%3%%x++++=;;:.  :=]]x|||||;|x+]+=|:-._xmu]]+:xx33333%%3%3%%xx]]++]+]+]+
+       .%x%%3%x;=;;::.   .:|%x%x]]|++|;;--:_adg3X3+]xx333333O3333%%%xx]|+=++]+++
+      ._3xxxxx]|:-::::..  :-+++:::-:---:|a:4UUU3%|xu333333XOOOOO333%x]+==+++]+]+
+    ._3%%]]]+]++;   ::;;;::...  . ;|uxxXZXgdX3]|]xd333333OOOOXXX333x]|====++=++=
+  ._u3%xx+]=++++=.   ;==+]||==x|;,:]!333XZ3%+]xxd33%%%33OOOXXXXOX3%]|=;====+++++
+:|u3%x]]]++===+=;:.  -::=]]x]+x%x+xx|;;==|xugXX3%+]]%3%3OOXX4XX33x||:;;====+==++
+|%%x]]]+=========::   :::::+]xx%3%x+%33OOXO33%]|++]]%%3XXXU44X33]|==============
+%%xx+]=+==;=;;;::::..  .:.;;::+%%33%x+]]+|+||==+]]]]%3OXXUUXX3%]:;;=:;;;:======:
+%]]+]====::::::::::--.   .:::. -+%33ux|x|||++]]]]+%%3OOOOXXO3%|:;;;;:;:==;=;;:- 
+]=++||==;:;:.-::::.--..   -:::..  ~!33uuxxxxxxxu%3%33XOOO333]|;;;;;;;;;;;;;:-   
+|=====;;=;::..  -...::..   -.::.     !XXGg33u33333333333%%%]|:::::;=;=;;=::     
+==;;;::::...       .......   --:      -!XXXX3333%3%%3%%]]++::-::::;;;;;::       
+;;:::-... .          .......    :.       -3%%%%33%%%++||:::::-::::;:;:-         
+:::..... .     .            ..    .        --++++||:|;;;==;;;;:;;;=;:.          
+--------------------------------------------------------------------------------
+ten numer pi±ty  magazynu dyskowego  miewali¶my lepsze dni wychodzi
+jubileuszowo
+podczas czwartych urodzin listy dyskusyjnej smutku podlasia
+--------------------------------------------------------------------------------
+magazyn zawiera poprawki i uaktualnienia dodane    20021217
+--------------------------------------------------------------------------------
+tytu³:      MLD Miewali¶my Lepsze dni
+numer:      5
+redakcja:   Filips Zerro
+            Mateusz Greszta
+            Elmo PachaLux
+            Micha³ Segit
+
+kontakt: smutek_podlasia@yahoogroups.com
+
+na ok³adce: z serii "laski w ascii": Gosia: 
+                                 wersja dla bia³ych czcionek na ciemnym
+                                       na przyk³ad konsola pod Linuksem
+
+(dostêpna jest te¿ wersja z ok³adk± przystosowan± dla czarnej czcionki
+ na bia³ym tle - np do druku)
+
+licencja: standardowy open source - mo¿esz u¿ywaæ do dowolnych celów pod
+          warunkiem nie ograniczania innym dostêpu w ¿aden sposób. W przypadku
+          wykorzystywania prosimy o podanie ¼ród³a:
+          "MLD#5 copyleft Smutek Podlasia 2002
+           all rights perversed"
+
+
+
+-------------------------------------------------------
+| FAJANS VS KONFITURY #12			      |
+| 6 stycznia 2002 - 14 grudnia 2002		      |
+-------------------------------------------------------
+| bezp³atny dodatek do zina miewali¶my lepsze dni     |
+| red nacz: filips				      |
+| www:	  http://www.npz.z.pl			      |
+| e-majl: filips at irc.pl			      |
+| Jabber: filips@jabber.gda.pl			      |
+| C:\Moje dokumenty\filips\mld#5.txt		      |
+-------------------------------------------------------
+
+--------------------------------------------------------
+| "Gdyby g³upota mogla unosiæ, to ta siostra  lata³aby |
+| jak go³êbica" - dr Strosmajer o siostrze Inie, Szpi- |
+| tal na peryferiach (Nemocnice na kraji mesta).       |
+--------------------------------------------------------
+
+Wstêp
+--------------------------------
+Do ¶miechu. Jak psize kolega Rafa³:
+
+dzisiaj napisalem algorytm znajdowania najkrotszej drogi miedzy dwoma miastami
+w sieci N miast.
+algorytm dziala dobrze dla N=2 miast.
+Przy dziesieciu miastach wymaga 36MB RAM dysku albo bedzie sie wykonywal
+przez okolo 4 miliony sekund.
+Przy stu miastach ok 10^149 MB RAM, albo 10^154 s. :) Moze znalezc jakies
+optimum? np. 10^75 MB i 10^79 s?
+kto do cholery i po co wymyslil silnie.
+Coz, musze zajrzec do jakiejs ksiazki o algorytmice.
+Zajrzalem. Wiem mniej niz przedtem.
+Zajrzalem jeszcze raz.
+Chce sie sklonowac.
+
+[przypisek Zerra: ostatnio robi³ to Cieniu algorytmem genetycznym i dobrze
+mu sz³o]
+
+Co zje¶æ?
+--------------------------------
+
+Z tym pytaniem zmaga siê codziennie wielu konsumentów - klientów
+baru mlecznego. D³ugie minuty spêdzaj± przed menu rozwa¿aj±c wszelkie
+zestawienia sk³adników, nierzadko równolegle optymalizuj±c swe
+pomysüy pod k±tem minimalizacji ceny.
+
+Na ³amach tej rubryki przedstawiam moje ulubione zestawy, które
+byæmo¿e pomog± komu¶ neizdecydowanemu.
+
+zestaw (1)
+	- kasza gryczana
+	- fasola po bretoñsku
+	- sa³atka z bia³ej kapusty
+	- budyñ
+
+zestaw (2)
+	- kasza gryczana
+	- 2 jaja sadzone
+	- szpinak
+	- surówka z czerwonej kapusty
+	- kefir
+
+zestaw (3)
+	- ziemniaki
+	- bigos
+	- surówka z pora
+	- budyñ
+
+zestaw (4)
+	- podwójne nale¶niki (albo nale¶niki+leniwe)
+	- surówka z bia³ej kapusty
+	- budyñ
+	- kompot
+
+
+Histoia prawdziwa 1:
+--------------------------------
+
+17 stycznia 2002, 11:05
+Stoje za przystankiem. Czekam na czworke. Od frontu zachdozi emeryt,
+jakies 75 lat, poczciwa twarz. Rozglada sie, podchodzi do ogloszenia
+"Szkola jezyka angielskiego", wyjmuje z klapy kurtki dlugopis Zenit i
+pisze brzydki wyraz w  jezyku angielskim. Rozgladajac sie, czy go
+nikt nie sledzi odchodzi  strone przejscia dla pieszych.
+
+Dla zainteresowanych, co napsial emeryt (ROT13): nff ubyrf
+
+Histoie prawdziwe 2 i 3
+--------------------------------
+
+2) Jak wracalem z ang to spotkalem kominiarza, co roznosil kalendarzyki
+i spiewal "wstan powiedz nie jestem sam".
+
+3) "W gorach zrobilismy pulapke na alieny, bylismy w takiej ambonce (do
+polowania na jelenie) i w srodku F. nakleil od srodka na drzwiach naklejke
+/alien przekreslony/, wiec jesli alien wejdzie do ambonki to nie bedzie mogl
+wyjsc ;-)"
+
+Przeglad prasy
+--------------------------------
+
+*** Zycie Warszawy z Poniedzialku, 7 kwietnia 1975 roku.
+
+Jest o produkcji drukarek mozaikowych w bloniach, o mieszkaniach w
+czechoslowacji /nie jest idealnie ale coraz lepiej/, o wyscigu dzielnych
+ratownikow drogowych pod Girzyckiem oraz PGRrze co zakupil konie i bedzie je
+letnikom wypozyczal. Jeszcze dalej o wyscigu pokoju, felieton o Bulgarii,
+ze eksportuje "kompletne obiekty przemyslowe" /w liczbie 26/. Zrobila dla
+Syrii ferme na 10mln sztuk kurcz±t, dla iraku wielka fabryke krochmalu a 15
+fabryk sztucznego lodu projektu bulgarskiego znajduje sie na Kubie. Ciekawy
+jest tez felieton "Morze zbliza, Leningrad ³±czy" i o nowych tramwajach
+na ulicy Marchlewskiego w Warszawie /na zdjeciu oguras z nr 17/. Jest tez
+notka o rozpoczetym wlanie 18 sezonie autostopu. W tym roku odbywal sie on
+pod haslem zwiedzania szlakow bojowych Ludowego Wojska Polskiego. Spoleczny
+komitet autostopu pzygotowal 40tys ksiazeczek . Koszt ksiazeczki: 55zl,
+dla cudzoziemcow 70zl /"wynika to z roznicy kosztow ubezpieczen"/. Kazdy
+podrozny dostaje: kupony na rpzejazd 1980km, , male vademecum autostopowicza,
+mape samochodowa polski, regulamin i ubezpiecznie w PZU /dzieki przychylnosci
+wladz NRD dziala ono rowniez tam!/. 
+Ogloszenia drobne: Dzieci zdrowe w wieku 3 do 8 lat przyjme pod troskliwa
+opieke do Rabki Zdroju; Obiadow domowych dla 3 osob na Muranowie poszukuje;
+¼wiat³okopia - wyswietlanie rysunkow technicznych, krotkie terminy, Targowa
+44, Falencik; wypozycze od kogos pianino, cena do uzgodnienia.
+Dzial miejski. Harcerskie manewry. [foto] Plonacy w koszu ogien naley
+ugasic azbeztowym kocem. Zadanie to sprawnie wykonuje patrol dziewczat z
+druzyny mlodszoharcerskiej. Eliminacje zakladowe do konkursu "Pracownik
+Roku" rozpoczete. Slodzik zamiast cukru  -w warszawskich kawiarniach /ale
+niektorych/ podawany jest obok cukru - dla diabetykow i osob wiecznie
+gubiacych kalorie. Jest tez artykul /z serii "nowoczesnosc na co dzien"/ nt
+"Jak urzadzic myjnie samochodow na osiedlowym parkingu".
+
+*** Mikroklan - magazyn informatyczny, maj 1988
+
+W numerze m.in.:
+Opis polskiego edytora TAG, ktory poczatki swe ma w roku 1978. Porownanie z
+innymi programami np wordstar, wordperfect, ms word wypada zdecydowanie na
+korzysc TAG-a.
+Auto CAD. "Na komputerach rodziny IBM PC pakiet pracuje pod kontrol± systemu
+MS DOS, do jego dzia³ania wymagane jest m.in 640KB pamiêci. Najnowsza wersja
+ma rozszerzone wymagania sprzêtowe. Najwa¿niejsze to konieczno¶æ posiadania
+koprocesora arytmetycznego (80286 lub 80386 w zalezonosci od systemu)".
+Pakiety matematyczne - muMATH. "... powsta³o wiele systemów algebry
+komputerowej przeznaczonych dla duzych komputerow. Najwazniejszymi byly SAC-2,
+FORMAC, [...] Wymaga³y one od 120KB do 2MB pamieci operacyjnej".
+Opis produku. Ploter ARITMA 0512. "Czechoslowackie zjednoczenie ARITMA
+wyprodukowalo ploter ...".
+W numerze jest tez o komputerze Elwro 800 i budowie sieci Junet. System
+operacyjny: CP/J. "Mozliwosci graficzne porownywalne sa z ZX Spectrum
+[...] Rozdzielczosc grafiki wynosi 256x192 punkty [...]. Sieæ Junet:
+dane przesylane z szybkoscia 55kb/s. Na komputerze - serwerze /nazywanym
+"nauczycielskim"/ jest stacja dyskow dyskietek 5.25" /720KB/. Na dyskietce
+znajduja sie pliki dowakiego rodzaju: "pliki publiczne oraz prywatne. Do plikow
+publicznych maja dostep wszyscy uzytkownicy sieci [...] do pliku prywatnego
+ma dostep tylko jeden uzytkownik - jego wlasciciel". A to wszystko na jednej
+dyskietce! Podsumowuj±c: "Tak niespotykane mozliwosci sieciowe sa niespotykane
+w tej klasie sprzêtu. Niezaprzeczln± zalet± mikrokomputera elwro 800 jest
+jego >polsko¶æ< maj±ca znaczenie tak psychologiczne jak i czysto praktyczne".
+
+Podsluchane:
+--------------------------------
+>> nie wiem jak u Ciebie, ale u mnie to tam jest napisane po japonsku a ja
+tak nie bardzo rozumiem, tzn. pewnie bym rozumial, ale literek nie znam <<
+
+
+¼rodek ciê¿ko¶ci Polski
+--------------------------------
+
+Tak sobie my¶le czasem, ¿e jakby wyznaczyæ ¶rodek ciê¿ko¶ci Polski. Projekt
+mia³ by 2 fazy:
+1) na podstawie badañ geologicznych - po prostu bior±cpod uwagê gêsto¶æ
+czyli masê ziemi, na wycinku np 2499m w g³±b, wg rysunku:
+
+ Rysy
+ /\
+/  \_
+|    \__
+|	\_____
+|	      \____________________  ¯u³awy
+|				   \  _____ Morze
+|___________________________________\/_____|~~~~~~~~~~~~~~|
+
+tzn bierzemy taki wycinek, i patrzymy gdzie jest masy.
+
+2) Faza dok³adna. Jak wy¿ej, tylko z uwzglêdnieniem jeszcze lasu, zabudowy,
+gêsto¶ci zlaudnienia, jezior, mórz i rzek, ubytku wêgla w skutek kopalni itd.:
+
+
+ Rysy
+ /\		     Pa³ac
+/  \_		     Kultury			  Dar
+|    \__   Las	    /\				Pomorza
+|    || \__|||	    ||	  ¼niadrwy		  /|\
+|    ||       \_____||_____   ___  ¯u³awy	 _/|\
+|    ||			   ~~~	 \  _____ Morze  \___/
+|____||___________________________\/_____|~~~~~~~~~~~~~~|
+     ||
+    kopalnia
+ Szombierki-Bytom
+
+
+Meta Geek Code
+--------------------------------
+-> http://alumni.cse.ucsc.edu/~dylan/mgc/
+
+I got sick of seeing Geek Codes everywhere, so I decided to define a simpler,
+higher-level code, Meta Geek Code. The purpose of MGC is to fight "write-only"
+languages like Geek Code and Makefile, while providing all the information
+you really need to know about a person.
+
+Here's how it works:
+
+gc	I have a Geek Code
+!gc	I don't have a Geek Code.
+
+For example, here's my Meta Geek Code:
+
+!gc
+
+Got it?
+This document describes Meta Geek Code version 1. There will be no future
+versions of Meta Geek Code.
+
+Z dziejów Spó³dzielni uczniowskiej "zorza"
+--------------------------------
+
+* 1959/60 r. - pochwa³a dyrektora szko³y i rady pedagogicznej
+* 1770/71 r. - nagroda pieniê¿na Wojewódzkiej Komisji Spó³dzielni Uczniowskich
+(przeznaczona na wycieczki)
+* 1973/74 r. - I miejsce w wojewódzkim konkursie „Ka¿dy cz³onek
+wspó³gospodarzem spó³dzielni" 
+
+Indiana Jones a dobyvatelé ztracené archy
+--------------------------------
+
+Nasza droga Karolino!
+¼pij Ty grzecznie pod pierzyno! :-)
+Nie rozrabiaj i nie brykaj,
+nie skacz, nie krzycz i nie fikaj!
+nie d³ub w nosie i b±d¼ grzeczna,
+rób wycieczki do Piaseczna!
+¯yj weso³o lecz bez stresu
+i strze¿ swego interesu! :-)))
+
+K±cik kulinarny
+--------------------------------
+Szpinak z buraków. (C) Nat 2002
+
+Bierzemy mlode buraki (4-5 sztuk) z nacia (zrodloslow chyba jest jasny?),
+warzywne, nie ludzkie, gotujemy. Wywar moze posluzyc do produkcji barszczu,
+buraki do salatki albo w wersji plain do zzarcia bezposrednio. Sos:
+przeciskamy 2-3 zabki czosnku (chyba, ze grozi nam "wyjscie" - wtedy jest to
+raczej niewskazane), dodajemy ocet(sok cytr) i oliwe, sol. Zwykle nac jest
+na tyle miekka po ugotowaniu, ze nie ma sensu jej kroic, po prostu nalezy
+przystapic do konsumpcji. Mozna jesc reka. Uwazac na piach. Zycze wszystkim
+smacznego. I mocnego oddechu.
+
+
+K±cik ³amacza umys³u
+--------------------------------
+
+1) rebus. Kategoria: chemiczno-imienna
+
+       A N N A
+	  |
+	  |
+	  |
+	 \|/
+
+     --		--  
+     |	 ~`~`~	 |
+     |	~ o o ~  |
+     |	   <	 |
+     |	   -	 |
+     |	 /@ @\	 |
+... _|__/  |  \__|_...
+     |	   |	 |
+     |	  / \	 |
+     |	 /   \	 |
+     | --     -- |
+     --		-- n
+
+
+2) Konkurso-zabawa
+
+Kazdy z nas byl kiedys dzieckiem (oprócz pani z dziekanatu, ona zawsze by³a
+stara i mia³a w±sy) i zbiera³ historyjki z gumy do ¿ucia Donald. Teraz
+te¿ by sobie cz³owiek co pozbiera³, ale ma do wyboru albo pokemony albo
+pi³karzy. A ja np sie pi³k± nie interesuje no¿n±. Jest za tem konkurs
+zbieracko-kolekcjonerski.
+Kupujemy puszki z rybkami - tuñczykiem, w których s± ma³e jego
+fragmenty. Nale¿yw w jak najkrótrzym czasie zebraæ ca³ego tuñczyka. Mo¿na
+siê oczy wi¶cie wymieniaæ, np g³owê za jaki¶ odcinek t³owia itp. Du¿a liczba
+mo¿liwo¶ci zapewnia przedni± zabawê na d³ugie zimowe wieczory.
+
+
+3) Rebusy naukowe
+
+3a) 
+
+  -----------
+  | dyplom  |
+  |  ----   |
+  | kol.    |
+  | Antoni  |
+  | Kowal   |
+  | ......  |
+  | ......  |
+  -----------
+
+3b) 
+
+   O
+  /|\  <--- Dr Andrzej Ant
+  /\
+
+Rozwi±zania: patrz na szarym koñcu zina.
+
+4) Dzis wymyslilismy w zlotej kurce z gosia i markiem gluchy telefon
+matematykow:
+jeden na poczatku wymysla funkcje i mowi na ucho drugiemu, tamten calkuje
+i podaje dalej i tak dalej a ostatni musi powiedziec jaka byla pierwsza
+funkcja. O.
+
+
+Historie prawdziwe 4) i 5)
+--------------------------------
+
+4) wczoraj tak padalo, ze zanim wszedlem do banku to musialem wode z butow
+wylac
+5) znacie ten dowcip o windzie, ze facet wchodzi a tam schody? Mialem
+podobnie. W WC, wchodze do kabiny a tam pisuar.
+
+Rozczarowanie, czyli historia prawdziwa 6)
+--------------------------------
+
+To mia³ byæ zwyk³y obiad. W sto³ówce przyzak³adowej. Czyli wiadomo co. Stoliki
+przykryte cerat±, powietrze stoi, zaduch. Na ¶cianie mozaika, w kuchni slychaæ
+odg³osy "Koncertu ¯yczeñ" w programie 1 polskiego radia. Ka¿dy dostaje tace,
+podchodzi do okienka, zostawia talon i pobiera obiad. Zupa pomidorowa z ry¿em,
+bo wiadomo, ry¿ jest tani, koncentrat pomidorowy te¿, a rosó³ mo¿na zrobic z
+byle czego. Na drugie mia³ byæ kotlet mielony, ziemniaki i surówka z bia³ej
+kapusty. No i oczywi¶cie kompot. Truskawkowy. W obt³uczonym kubeczku, mo¿e z
+pêkniêciem, koniecznie z nadrukiem FWP albo PSS Spo³em. A na dnie wyblak³a
+truskawka. I ewentualnie deser - budyñ z sokiem wi¶niowym, albo kisiel. Do
+tego sztuæce, aluminiowe, z faluj±c± ozdob± na rêkoje¶ci. I ³y¿eczki do
+herbaty - koniecznie powyginane. W okó³ lata sennie mucha a na suficie krêci
+siê wentylator.
+
+I co? I nic. Jedno wielkie rozczarowanie. Nici z kompotu z przydzia³ow±
+truskawk± i wentylatora na suficie. Pan kierownik zak³adu mia³ gest: obiad
+by³ w sali prezydialnej; zafundowa³ przystawki, stalowe sztuæce, wino i
+dewolaja z zestawem surówek. ¯adnych much i obt³uczonych kubków. Kicha i
+buraki jednym s³owem.
+
+Cz³owiek w dzisiejszych czasach nie mo¿e byæ niczego pewnien.
+
+
+Historia prawdziwa 7) i 8)
+--------------------------------
+7) 6 VI 2002. Gosi otworzyly sie same drzwi do pokoju: "byly zamkniete,
+a nagle zaczely sie otwierac - bez nikogo!"
+8) Dzi¶ mi mama kaza³a umyæ myd³o, bo niechc±cy ubrudzi³em smarem.
+
+
+dzia³ korespondencji miejskiej
+--------------------------------
+
+-------- Zamo¶æ
+Poziom £abuñki* podniós³ siê o 1,32 cm.
+*£abuñka - rzeka bêd±ca prawobrze¿nym dop³ywem Wieprza. Moja kolezanka
+widzia³a jak jej wartkim nurtem p³ynê³a sobie kiedy¶ martwa ¶winka. Mar T. a
+Update /2 lipca 2002/: Poziom £abuñki powróci³ do normy - wy³owiono w koñcu
+tê zdech³± ¶winiê
+
+-------- Warszawa
+Wiecie kolego, co to bilbord? Tusze, ze tak. Otoz cecha charakterystyczna
+bilbordow najprzerozniejszej masci jest to, ze czesto sie zmienia  ich
+zawartosc. Ale niedaleko mnie  jest plakat, z  Natalia	Kukulska,  ktory
+13.V  skonczyl	co  najmniej rok, tzn. zapowiadal koncert odbywajacy sie
+13.V.2001. Smieszne, co? gnat
+
+
+Dziwny jest ten ¶wiat - historia prawdziwa 9)
+--------------------------------
+
+Bylem dzis w placowce panstwowej sluzby zdrowia, urzedzie i w sekretariacie,
+we wszystkich instytucjach obsluzono mnie bardzo milo i kompetentnie a
+w sekretariacie uczelni pani przyjela mnie mimo ze juz bylo po godzinach
+pracy. dziwny jest ten swiat.
+
+Samo zycie - historia prawdziwa 10)
+--------------------------------
+
+U nas na laborkach zawsze jest tak: szukam ajkiegos odczynnika i ZAWSZE
+znajduje juz puste butelki po nim. czyli ze musze dymac po odczynnik do
+magazynu.
+Dzis potrzebowalem pustych butelek. I co? w calym laboratoruim nie bylo ANI
+JEDNEJ BUTELKI pustej - wszystkie pelne. Szlag.
+
+
+Szafa gra.
+--------------------------------
+
+Dzis zrobilem porzadki w szafie i szufladach i oto co znalazlem m.in.:
+
+- naboj do kalasznikowa, pelny
+- 4 przyssawki z mydelniczki
+- plansze do gry Gwiezdny Kupiec /chce ktos? ja nei znam regol/
+- ruska bateryjke
+- stare monety z PRL
+- obiektyw do aparatu zenit, f=135mm
+- cukierek krowka
+- mape wyscigu pokoju
+- 50gr z 1923 roku
+- tasme do teleksu
+- przedowjenne pudelko na kredki
+- wyborcza ulotke Jana Olszewskiego o dekomunizacji
+- notatki mojej mamy z czasow studenckich
+- NRDowskie znaczki "MZ" /chce ktos? bo mam wiecej/
+- kartke z pinem mojej karty :)
+- naklejke "Metro - buduj z nami" oraz wedlin Krakus na eksport
+- klodke >>Moskit<< z kompletem kluczy
+- kartke od rodzicow ktora dostalem bedac na koloniach
+- plucienne torebki na pieniadze z NBP
+- oraz kupe srubek, kabelkow, gwozdzikow, pineski, kamyczki, muszelki,
+cyrkiel, linijke, sluchawke do walkmana i wiele, wiele innego dobra...
+
+
+Historia prawdziwa 10) i 11)
+--------------------------------
+
+10) Dziekan D. mia³ ¿ó³wia. Chodzi³ z nim na spacery. Ale ¿eby ¿ó³w nie
+wsi±k³ gdzie¶, wywierci³ ¿ó³wiowi otworek w skorupce, wiertark±. Przez
+otworek przeplut³ ¿y³kê cieniutk± i tak go mia³ na smyczy.
+Raz poszed³ do parku, pu¶ci³ ¿u³wia w trawê, niech sobie pochasa. A siedz±cy na
+³aweczce menele w krzyk - panie! ¿ó³w panu pójdzie w cholere i tyle bedziesz
+go pan widzia³!. A dziekan D. - ¿e spokojna g³owa, bo to tresowany ¿ó³w. ¯e
+wystarczy zagwizadaæ. Menele sie popukali w g³owê. A jak tylko ¿ó³w odszed³
+kawa³ek w krzak, dziekan robi "fiu fiu! teofil! do nogi!" i ukradkiem ci±gnie
+za ¿y³kê, tak ¿e w 3 miga ¿ó³w by³ przy nodze. A menelom ga³y na wierzch
+wysz³y.
+
+
+11) Dzis (Date: Thu, 31 Oct 2002 09:33:48 +0100 (CET)) dostalem przy wyjsciu
+z metra politechnika ulotke:
+
+-------------------------------------
+PREPARAT DLA STUDENTOW I UCZNIOW
+	 AKTIVY
+
+SKLAD: 60 kapsulek po 400mg
+
+o Wzmaga aktywnosc umyslu
+o Pozwala szybko przywajac wiedze
+o Wplywa na latwosc zapamietywania
+o Wzmacnia, pobudza, odzywia komorki
+o Zwieksza sile fizyczna
+o Podnosi aktywnosc i usuwa sennosc
+o Zwieksza odpornosc na bakterie i wirusy
+
+[... tu podany telefon ...]
+
+Ponadto prowadzimy leczenie i profilaktyka
+wszystkich chorob oraz wykonujemy bnadania
+komputerowe calego organizmu.
+-------------------------------------
+
+
+Szary Koniec Zina: rozwi±zania rebusów
+--------------------------------
+
+1)  PoliAnna
+3a) DyplomAntka
+3b) DoktorAnt
+
+W klubie dobrej ksi±¿ki.
+--------------------------------
+W. Sanin. 72 stopni ponizej zera.
+
+Ksiazka o radzieckich polarnikach, a wlasciwie transportowcach, ktorzy
+ciagnikami woza po antarktydzie paliwo z jednej bazy do drugiej. Normalnie
+jezdza, kiedy jest cieplo (tzn minus 40st), ale w  owym roku musieli wyjechac
+inaczej - w zimie, bo czegos tam nei dopatrzono. No i jest tytu³owe -72
+stopnie.
+
+Polecam. Jest polskie wydanie /ja takie czyta³em/ ale ciê¿ko dostaæ. Jest
+zato w internecie:
+http://lib.ru/PROZA/SANIN/72gradusa.txt - bukwami
+Albo jak kto nie zna bukw to jest transkrypcja:
+http://lib.kts.ru/cgi-bin/lat/PROZA/SANIN/72gradusa.txt
+
+
+Kakoj wybrat kinoaparat?
+--------------------------------
+Czyli co w sieci ¶wieci.
+
+* http://www.infinit.com.pl/~filips/kalendarium/
+  Kalendarium czyli wazne daty dla mamy i taty.
+
+* http://www.infinit.com.pl/~filips/story/
+  Story projekt. Czyli opowiadanie hipertekstowe.
+  Kazdy moze sie dopisac, wpisac lub nadpisac.
+  Na razie na to opowiadnaie skladaj± siê min w±tki:
+
+  >[Historia Wojciecha M.] Wojtek umyl sie, wlozyl buty i zjadl
+  sniadanie. poszedl nad rzeke sie wykapac. Potem wrocil do domu i mama dala
+  mu obiad...
+  >[Niewierna rzeka] Byl rok 1943. Nad rzeka okopala sie wlasnie grupa
+  operacyjna AK "Wachlarz"... 
+  >[Leksykoñ] B±k -- inaczej trzmiel. Owad charakterystyczny swoim buczeniem,
+  krêp± budow± cia³a i ¿ó³to-czarnym opaskowaniem. B±ka pu¶ciæ -- mieæ wiatry.
+  >[Babcia Kowalikowa] Babcia Kowalikowa z domu Kminek, aktualnie mia³a
+  65 lat. Za niemca robi³a w ruchu oporu, szyj±c i ceruj±c partyzantom
+  kalesony...
+  >[Lech W.] Lech W - operator wtryskarki w PolGum-ie robi³ na tej maszynie
+  ju¿ ³adnych parêna¶cie lat. Kiedy¶ tu¿ po zawodówce gumiarskiej i wojsku ...
+
+  i wiele innych. Do kazdego watku mozna sie dopisac, wpisac itd. Mozna tez
+  zlaozyc wlasny w±tek. Polecam.
+
+* http://www.infinit.com.pl/~filips/maslanka/
+  Czyli polska strona ma¶lankowa.
+
+* http://www.barmirow.w.pl/
+  bar mleczny mirów. klasyka peerelu. nowo¶æ: mo¿na zamówiæ wirtualny posi³ek.
+
+* http://www.smutekpodlasia.w.pl/
+  smutek podlasia. nei trzeba przedstawiaæ
+
+* http://www.npz.z.pl/
+  Nu Pagadi Zajac! czyli organ my¶li bezsensownej.
+
+Pozdrowienia
+--------------------------------
+
+GosiaA, ja, matti, sibil, Ziutek /za w±ski tor!/, wlod, sobol ula, elmo
+z palermo, smutek podlasia, fabrykakaszlu, marta z  zamo¶cia co s³ysza³a
+o elmie, karol N co siê znów zagubi³, karol karol e., (niech siê szwejk z
+czapki odnajdzie), familia A (K,J,A), marekIkasia+rybka Ignacy,
+
+
+Statystyka
+--------------------------------
+
+nale¶niki...2
+naukowe.....1
+nie.........20
+tak.........10
+zrodloslow..1
+ale.........9
+
+Different words/items counted: 1703
+Total Words: 2601
+Total Punctuation: 578
+Total Other Text: 177
+Total Characters: 19164
+Total Paragraphs: 409
+
+		 _	  
+ ___   _ _    __| |  ___  
+/ -_) | ' \  / _` | / -_)
+\___| |_||_| \__,_| \___|
+
+
+
+
+
+
+
+
+
+
+
+
+.... .........           .......................................................
+G£OS ¼MIETNIKA
+g³os¶mietnikag³os¶mietnikag³os¶mietnikag³os¶mietnikag³o
+................................................................................
+
+ g³os ¶mietnika numer pi±ty bêd±cy jednocze¶nie czê¶ci± metamagazynu dyskowego
+ miewali¶my lepsze dni					 miewalismy lepsze dni
+ glos smietnika numer piaty bedacy jednoczesnie czescia metamagazynu dyskowego
+
+.........!.........!.........!.........!.........!.........!.........!.........!
+
+(11)  Smutek Podlasia - cztery lata z tysi±ca i jednej nocy
+(15)  zapraszam do czytania i zapraszam do wspó³
+(02)  to ju¿ pi±ty numer periodyku
+(03)  wk³adki do asciimaga "miewali¶my lepsze dni"
+(01)  witam w zinie g³os ¶mietnika
+(04)  bêd±cego po³±czeniem mojego "gs" i filipsa "fajans vs konfitury"
+(05)  plus jeszcze czasem kto¶ co¶ dodaje np elmo
+(06)  ten numer jest w pewnym sensie jubileuszowy bo jego premiera nast±pi
+(07)  w "czarn± sobotê"
+(09)  w czwart± rocznicê powstania grupy dyskusyjnej "Smutek Podlasia"
+(08)  to jest czternastego grudnia dwa tysi±ce dwa
+(12)  u mnie czas tworzenia tego zina to czas poszed³em do roboty
+(13)  poniewa¿ pracujê g³ow± to sta³em siê mniej twórczy
+(14)  wiêc zin mo¿e byæ mniej ciekawy od np GMRiLI ale co¶ tam tu znajdziesz
+(10)  dla tych którzy nie wiedz± co to Smutek Podlasia w numerze artyku³
+
+.........!.........!.........!.........!.........!.........!.........!.........!
+File: sms	   Col 0	118 bytes
+100%
+ .  .  .  .  .	.  .  .  .  .  .  .  .	.  .  .  .  .  .  .  .	.  .  .  .
+ .  .
+ Dosta³em niedawno SMS nie wiem od kogo:
+	"ej ja idê spaæ to sobie otworzysz i jak mo¿esz to kup
+	 2 kalafiory i marchewkê /karina"
+ .  .  .  .  .	.  .  .  .  .  .  .  .	.  .  .  .  .  .  .  .	.  .  .  .
+ .  .
+
+
+
+		      w {12}:
+		   w numerze:
+
+lata  siedemdziesi±te,	  zwi±zek     radziecki
+cz³owiek opanowa³ ju¿ ziemiê, morza i powietrze
+co pozosta³o?
+...........................................BUTY
+		  zapraszam do lektury	tekstu
+	 spisanego ze starego m³odego technika
+...................................linia [xxxx]
+
+.................................cyrk linuksowy
+...................................linia [xxxx]
+
+...................................prot i filip
+...................................linia [xxxx]
+
+..kim jest cz³owiek sk±d przybywa dok±d zmierza
+...................................linia [xxxx]
+
+..........jak siê wzbogaciæ na cudzej krzywdzie
+...................................linia [xxxx]
+
+...........................cz³owiek rozproszony
+...................................linia [xxxx]
+
+................................tak tyka fizyka
+...................................linia [xxxx]
+
+
+
+--------------------------------------------------------------------------------
+  B U T Y				 na motywach Bu³ata Okud¿awy
+					 cytat m³ody technik dawno temu
+--------------------------------------------------------------------------------
+
+
+("M³ody Technik", nie wiem który numer i rok)
+Czy dwuno¿na istota ludzka, która opanowa³a ju¿ ziemiê, morza i powietrze,
+która przemieszcza siê w stanie niewa¿ko¶ci w kabinach statków kosmicznych
+i swobodnie p³ywa pod wod±, mo¿e ulepszyæ co¶ w swoim podstawowym sposobie
+poruszania siê, w chodzeniu po ziemi? Odpowied¼ jest twierdz±ca - znamy
+przecie¿ takie ulepszenia jak narty, ³y¿wy, wrotki czy szczud³a. Ale do ci±gle
+nie zrealizowanych marzeñ nale¿± "siedmiomilowe buty" - obuwie pozwalaj±ce
+pokonywaæ przestrzeñ i szybko, i bez wysi³ku. Byæ mo¿e urzeczywistnieniem
+tego bajkowego marzenia stan± siê buty zaprojektowane przez zespó³ radzieckich
+studentów z Instytutu Lotniczego w Ufie.
+Wymy¶lili oni buty napêdzane silniczkami wysokoprê¿nymi i zwiêkszaj±cymi
+moc ich u¿ytkownika o ok. 0,3 kW. Moc ta zreszt± bêdzie wzrastaæ w miarê
+zwiêkszania czêsto¶ci kroków, pomys³ polega bowiem na odpychaniu silniczkami
+buta wraz z nog±, od opartej o ziemiê p³yty (1). Oczywi¶cie, dla równowagi
+ka¿dy z "siedmiomilowych butów" napêdzany jest dwoma silniczkami umieszczonymi
+symetrycznie po obu jego stronach. Poniewa¿ silnik, sk³adaj±cy siê z t³oczka
+i cylindra, a bez uk³adu korbowego, nie mo¿e pracowaæ, urz±dzenie zosta³o
+wyposa¿one w dodatkow± sprê¿arkê t³okow±. Cylindry silniczków i sprê¿arki
+umocowane s± paskami do cholewy buta.
+
+Wykonuj±c krok w takim bucie, cz³owiek opuszcza piêtê na p³ytê(1)(faza
+I). Cylinder silniczka (3) "nadziewa siê" siê na t³ok (2), którego popychacz
+(6) przez sprê¿ynê (9) zwi±zany jest z p³yt±. Samozapalna mieszanka w komorze
+(7) ulega sprê¿eniu. Równocze¶nie na opieraj±cy siê popychaczem (8) o p³yt
+ê t³ok sprê¿arki (5) "nadziewa siê" cylinder (4). Powietrze z górnej czê¶ci
+cylindra zostaje wypchniête na zewn±trz przez otwory umieszczone pod górnym
+denkiem. Pod t³okiem powstaje podci¶nienie. Kiedy t³ok sprê¿arki znajdzie
+siê w górnej czê¶ci cylindra i ods³oni swoj± doln± krawêdzi± wlot z ga¼nika,
+otwiera siê zawór jednokierunkowy (15) i do sprê¿arki wp³ywa mieszanka.
+
+Mieszanka ta powstaje w czasie przep³ywu zasysanego powietrza przez dyszê
+(13), do której doprowadzane jest paliwo ze zbiornika (14), stanowi±cego
+górn± czê¶æ cylindra sprê¿arki.
+
+W chwili zetkniêcia siê obcasa buta z p³yt± (faza II), sprê¿ona w cylindrze (3)
+mieszanka wybucha i ci¶nienie gazów unosi cylinder wraz z butem, odpychaj±c
+go od po³±czonego z p³yt± t³oka (2). Dla z³agodzenia uderzenia popychacz
+(6) nie atakuje bezpo¶rednio p³yty, ale naciska na ni± poprzez sprê¿ynê
+typu resorowego (9) akumuluj±c± czê¶æ si³y P. Ta w³a¶nie si³a P, unosz±ca
+but, powoduje wzmocnienie naturalnej si³y miê¶ni unosz±cej cz³owieka i
+przemieszczaj±cej jego cia³o przy wykonywaniu kroku.
+
+W fazie III t³ok naciska nadal na p³ytê wychylaj±c but do przodu, a
+t³ok sprê¿arki (5) sprê¿a pod swoim dnem ¶wie¿± porcjê mieszanki. T³ok
+ten przytrzymywany jest przez elastyczne ¶ciêgno (10) umocowane do
+p³yty. Sprê¿ona mieszanka naciska na zawór jednokierunkowy (11) w g³owicy
+cylindra (3). Otwarcie tego zaworu nast±pi jednak dopiero w IV fazie ruchu,
+kiedy spaliny z cylindra wyp³yn± ju¿ przez dyszê wylotow± (12), ods³oniêt±
+przez krawêd¼ t³oka (2) w jego skrajnym po³o¿eniu. Ruch buta w górê powoduje
+równie¿, na skutek przesuniêcia siê t³oka sprê¿arki w dó³, zasysanie ¶wie¿ej
+porcji powietrza do górnej czê¶ci cylindra (4).
+
+Po dokonaniu skoku, t³ok (2) silnika sprê¿a now± porcjê mieszanki, a t³ok
+sprê¿arki (5) przet³acza z powrotem w górê czyste powietrze, przygotowuj±c
+siê do zassania nowej dawki paliwa i powietrza.
+
+Prototypy butów zosta³y ju¿ wykonane, by³y pokazane na ubieg³orocznej
+Centralnej Wystawie Technicznej Twórczo¶ci M³odzie¿y Radzieckiej i obecnie
+s± poddawane próbom i badaniom. Wynalazcy maj± jednak jeszcze wiele problemów
+do rozwi±zania. Du¿a si³a t³oku, przekraczaj±ca 1 tonê, nie bêdzie przyjemna
+dla nogi, szerokie podeszwy mog± zaczepiaæ siê wzajemnie, a ha³as i spaliny
+te¿ nie s± korzystn± cech± takich urz±dzeñ. Ale badania nad wzmacnianiem
+si³y cz³owieka mog± przynie¶æ ca³kiem nieoczekiwane wyniki. Pierwsze kroki
+radzieckich studentów w zaczarowanych butach bêd± mo¿e tak¿e pierwszymi krokami
+w nowej dziedzinie techniki wzmacniania energii cz³owieka - z wykorzystaniem
+jego wspania³ego systemu rozpoznawania i sterowania.
+
+................................................................................
+  . . . .				 .. ........ ...... ........
+					 ..... ..... ....... ..... ....
+................................................................................
+
+
+
+
+
+--------------------------------------------------------------------------------
+opowie¶æ Karaluha:
+--------------------------------------------------------------------------------
+
+Jak Karaluh jednemu kolesiowi pokaza³ film o taczkach to on patrzy³ a potem
+spyta³ "i kiedy bêdzie ¶mieszne".
+
+................................................................................
+........ .........
+................................................................................
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+ L I N U X	  C Y R K
+--------------------------------------------------------------------------------
+Ró¿ne g³upie sztuczki z linuksem które wymy¶li³em.  Mo¿na je pokazywaæ
+kolegom w
+			       knajpie albo podrywaæ na nie laski na
+			       imprezie :)
+--------------------------------------------------------------------------------
+
+
+Zagadki:
+1) Zgadnij - co siê stanie kiedy wydam polecenie:
+    - $ yes no
+    - $ cat | less
+    - $ cat | more
+    - $ cat | more | less
+    - najpierw robimy:
+      $ mkdir x && cd x && mkdir a && ln -s a b
+      A potem:
+      $mv b b
+   ? Oczywi¶cie trzeba dok³adnie przewidzieæ zachowanie kompa "na sucho",
+   a dopiero potem wklepaæ je z klawiatury i sprawdziæ czy zgadli¶my.
+
+2) Wnikanie:
+    - podaj jak najwiêcej sensownych poleceñ sk³adaj±cych siê dwa razy z tego
+    samego - czyli postaci "$ x x", gdzie x jest dowolnym ci±giem. Oczywi¶cie
+    musi to byæ takie polecenie, ¿eby ¿aden z wywo³anych programów nie
+    dosta³ argumentu bêd±cego nazw± nieistniej±cego pliku lub katalogu (je¶li
+    spodziewa³ siê ¿a plik lub katalog, którego nazwê otrzyma³ istnieje). I
+    ¿eby to wogóle mia³o jaki¶ sens. Wiêc nieprawid³owe bêdzie polecenie "$
+    cat cat" albo "$ ls ls"
+    - to samo w wersji lajt - mo¿na wstawiaæ znaki "-", spacje i inne
+    takie. Mo¿e np te¿ byæ wiêcej ni¿ jeden ci±g ale za to u³o¿one symetrycznie
+    itepe
+    - wymy¶l jak najwiêcej dzia³aj±cych ci±gów poleceñ sk³adaj±cych siê z
+    pojedynczych s³ów przedzielonych |
+    - wymy¶l jak najwiêcej dzia³aj±cych ci±gów poleceñ tworz±cych (w miarê)
+    prawid³owe sk³adniowo zdanie w dowolnym jêzyku naturalnym
+    - wymy¶l jak najwiêcej takich zagadek
+
+Odpowiedzi do 2):
+    - ja wymy¶li³em takie:
+	$ yes yes
+	$ man man
+	$ info info
+	$ which which
+	$ locate locate
+	$ mkdir mkdir
+    - ja wymy¶li³em:
+	$ ls -ls
+	$ which `which which`
+	$ cat `which cat`
+    - ja wymy¶li³em:
+	$ cat | more | less
+	  (ale nie wiem czy siê liczy - zobacz sam)
+	$ cat | less | more
+	$ ls | head | tail | more | less
+    - nic nie wymy¶li³em
+    - wymy¶li³em nastêpuj±ce: (id¼ do linii 1)
+
+................................................................................
+ . . . . .        . . . .
+................................................................................
+..... ...... ........ . ........ ..... ...........  ..... .. ......... ....... .
+                               ....... .... ........ .. ... ..... .. ........ :)
+................................................................................
+
+
+Prot i Filip lat ju¿ wiele                            Prot i Filip lat ju¿ wiele
+¯yj± razem w jednym ciele                              ¯yj± razem w jednym ciele
+Prot to si³a wyobra¼ni                                    Prot to si³a wyobra¼ni
+Filip - ciemna strona Ja¼ni                          Filip - ciemna strona Ja¼ni
+Prot to dobro i kowboje                                  Prot to dobro i kowboje
+Filip - gwa³ty i rozboje                                Filip - gwa³ty i rozboje
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+pomys³ na zarobienie pewnej kwoty pieniêdzy:
+--------------------------------------------------------------------------------
+
+Mam pomys³ jak kto¶ kto nie ma pracy mo¿e zarobiæ trochê kasy
+
+Trzeba w³amaæ siê do kogo¶ do willi jak jego nie ma w domu i posprz±taæ:
+po¶cieraæ kurze, pozmywaæ naczynia, umyæ wanne, odkurzyæ. A jak ju¿ w³a¶ciciel
+przyjdzie to ¿±daæ ¿eby zap³aci³ za wykonan± us³ugê. Jak nie bêdzie chcia³
+zap³aciæ to mówiæ: "O, ka¿dy chcia³by byæ taki sprytny, ¿eby mu posprz±taæ
+za darmo. Nie ma tak dobrze, ja siê naharowa³em jak wó³ a ten nie chce
+p³aciæ". Jak w³a¶ciciel mieszkania nie zechce p³aciæ to mo¿na urz±dziæ
+g³odówkê. Je¶li z kolei bêdzie siê upiera³, ¿e z³amali¶my prawo w³amuj±c
+siê mu na chatê to my mówimy ¿e okej, mo¿e nie by³o to najw³a¶ciwsze, ale my
+jeste¶my gotowi ponie¶æ konsekwencje -- zap³aciæ mu za wyrz±dzone szkody. Ale
+poniewa¿ w³amali¶my siê bardzo sprytnie i nic nie zniszczyli¶my wiêc nie ma
+za co p³aciæ. W ten sposób kole¶ jest zrobiony na szaro i musi nam zap³aciæ
+za wykonane sprz±tanie.
+
+................................................................................
+...... .. .......... ...... ..... .........:
+................................................................................
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Teksty Zespo³u Pankowego Zag³ada	:	ada³gaZ ogewoknaP u³opseZ
+ytskeT
+--------------------------------------------------------------------------------
+
+
+Tytu³ utworu:
+"Kim jest cz³owiek? Sk±d przybywa i dok±d zmierza?"
+
+1:
+    Jedzie poci±g mkn± wagony
+    Do zak³adu wioz± mnie
+    Sz³a dzieweczka do laseczka
+    do zielonego
+
+    Pora na dobranoc
+    Bo ju¿ ksiê¿yc ¶wieci
+    Rozkwita³y
+    pêki bia³ych bzów
+
+ref:
+    2x {
+	Gdyby kózka nie skaka³a
+	Toby nó¿ki nie z³ama³a
+    }
+
+2:
+    Wlaz³ kotek na p³otek i mruga
+    £adna to piosenka nie d³uga
+    Deszcze niespokojne potarga³y sad
+    A my na tej wojnie
+    £adnych parê lat
+
+    Góralu czy ci nie ¿al
+    Odchodziæ od stron ojczystych
+    £atwopalny szybkoschn±cy
+    Klej Butapren mo¿esz mieæ
+
+ref:
+    2x {
+	Gdyby kózka nie skaka³a
+	Toby nó¿ki nie z³ama³a
+    }
+
+................................................................................
+...... ....... ......... .......	:
+....... ......... ....... ......
+................................................................................
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+cz³owiek rozproszony
+--------------------------------------------------------------------------------
+
+Nieraz mnie to bardzo ¶mieszy jak widzê jak jedzie tramwaj pe³en ludzi a
+zaraz jedzie drugi tramwaj te¿ pe³en ludzi ale jedzie w drug± stronê. Dla
+mnie to jest bez sensu bo po co ich woziæ w tê i wewtê jak i tak ¶rednio
+tyle samo ich bêdzie w obu miejscach bo jak ci przejad± w tê a tamci wtemtê.
+Innym te¿ siê to nie podoba ale oni mówi± ¿eby po prostu nie poruszaæ siê
+fizycznie. Tylko np robiæ zakupy przez internet, pracowac przez internet,
+i wogóle ¿yæ w cyberprzestrzeni.
+Moja koncepcja jest inna moja koncepcja to koncepcja cz³owieka
+rozproszonego. Chodzi o to ¿eby moja egosfera nie by³a ju¿ zwi±zana z tym
+jednym cia³em. A odbywa³o by siê to tak.
+Muszê np wypo¿yczyæ ksi±¿kê z biblioteki. Mi to ca³kiem nie po drodze
+ale kto¶ tam w³a¶nie jest w pobli¿u i ma kwadrans czekania na tramwaj
+albo np dziewczynê. Wiêc zachodzi w tym czasie do biblioteki i bierze
+ksi±¿kê. Przeje¿d¿a tramwaj wiêc on daje j± jednemu kolesiowi w tramwaju. Ten
+wysiada i idzie do domu ale po drodze daje j± lasce co wraca z pracy a mieszka
+ko³o mnie. Jak przechodzi ko³o mojego bloku to ja wychodzê na klatkê i biorê
+od niej ksi±¿kê.
+Oczywi¶cie w tym czasie ja niekoniecznie siedzê ca³y czas w domu - te¿ mogê
+gdzie¶ i¶æ gdzie mam co¶ do roboty albo np chce mi siê pospacerowaæ no i
+ja te¿ po drodze robiê ró¿ne rzeczy dla innych. To kupiê 10 deko dro¿d¿y co
+kto¶ potrzebuje do ciasta to przeka¿ê jak±¶ paczkê z jednego miejca w inne
+to sprawdzê czy czerwony polonez stoi na parkingu w porz±dku dla kogo¶ kto
+w³a¶nie jest na wyje¼dzie. W ten sposób moje czynno¶ci nie s± zwi±zane ze mn±
+tylko rozdzielane w mo¿liwie najekonomiczniejszy sposób pomiêdzy wszystkich
+tak ¿eby nie jechaæ godzinê tramwajem do biblioteki tylko ¿eby siê dowiedzieæ
+¿e nie mogê wypo¿yczyæ "Golema" Meyrinka bo nie jestem studentem UW jak to
+by³o dzisiaj.
+
+................................................................................
+........ ...........
+................................................................................
+
+
+
+
+
+--------------------------------------------------------------------------------
+pawe³ z ¿ycia opowiada ja piszê g³upi czyta bo ciekawy
+--------------------------------------------------------------------------------
+
+Dzi¶ Pawe³ zapyta³ mnie: "Jak my¶lisz, jaki by³ najkrótszy program, jaki
+zrobi³em w asemblerze?
+Podpowiem ci co robi³: bra³ losowe liczby i stawia³ piksle na dole ekranu,
+potem bra³ ich otoczenie, liczy³ ¶redni± (...) i wychodzi³ taki efekt p³omieni
+wychodz±cych z do³u ekranu." Ja strzela³em, ¿e kilo - a Pawe³ ¿e tylko 79
+bajtów. "A robi³em to dnia kiedy poprzedniego dnia spa³em dwie godziny bo
+uczy³em siê do matury z biologii, potem wsta³em, pomaga³em ojcu co¶ robiæ,
+potem pad³em, wsta³em o 1400 i usiad³em do pisania. Kupa pomys³ów jak to
+zrobiæ no i zrobi³em. Najwiêcej miejsca zajmowa³ generator liczb losowych wiêc
+zrobi³em tak ¿e program lecia³ przez pamiêæ i stamt±d bra³ liczby. Czasem
+trafia³ na jak±¶ regularno¶æ i wtedy sz³y p³omienie takie równe a potem
+znowu normalnie. No i mia³o to 280 bajtów. Potem przyszed³ do mnie kumpel,
+pokaza³em mu to i
+on jeszcze popatrzy³ i wysz³o 179 bajtów. No i wydawa³o siê, ¿e ju¿ nie
+da siê nic zoptymalizowaæ; i program trafi³ do szuflady na jakie¶ trzy
+lata. A po trzech latach wróci³ do mnie - pokaza³ mi go jeden kumpel; jaki¶
+m³ody scenowiec go rozpowszechnia³, podpisany przez siebie, z moim kodem i
+komentarzami - ale on go jeszcze bardziej zoptymalizowa³, do 91 bajtów. No
+to siê zawzi±³em i usiad³em i zoptymalizowa³em go jeszcze bardziej, do 79
+bajtów. I w ten sposób pokaza³em kumplowi, ¿e to naprawdê by³ mój kod."
+
+................................................................................
+..... . ..... ........ .. ..... ..... ..... .. .......
+................................................................................
+
+
+
+
+--------------------------------------------------------------------------------
+taktyka fizyka			      fizyka taktyka tak tyka fizyka fi tyka tak
+--------------------------------------------------------------------------------
+
+Powiedzcie mi taka rzecz: czy macie jakas "taktyke" rozwiazywania zadan? Tak
+sobie ostatnio o tym myslalem, ze rozwiazywanie zadan w szkole to zazwyczaj
+chaotyczne wypisywanie wszelkich mozliwych wzorow bez ladu i skladu, taka
+partyzantka.
+
+Chlubnym wyjatkiem byl moj nauczyciel od fizyki w ogolniaku, ktory mial swoja
+metode, ktora od swojego nazwiska nazywal "metoda Zackiewicza", chodzilo w niej
+(z grubsza rzecz ujmujac) o zrobienie rysunku, przeanalizowanie zachodzacych
+zjawisk, napisanie do kazdego rownania...
+
+Ostatnio ja tez wymyslilem swoja metode - polega ona na tym, ze na bialej
+kartce wypisujemy wszystkie wystepujace wielkosci fizyczne, laczymy strzalkami
+te, ktore od siebie zaleza, zaznaczmy to, co jest dane, potem to, co jest
+szukane i patrzymy jak trzeba isc po strzalkach zeby od danych dojsc do
+szukanych. Idac po strzalkach zapisujemy odpowiednie rownania i juz. W
+niektorych sytuacjach ta metoda calkiem niezle sie sprawdza.
+
+................................................................................
+....... ......                        ...... ....... ... .... ...... .. .... ...
+................................................................................
+
+
+
+
+
+--------------------------------------------------------------------------------
+Smutek Podlasia - cztery lata oporu
+--------------------------------------------------------------------------------
+
+Poniewa¿ ten numer G³osu ¼mietnika / Miewali¶my Lepsze Dni ma premierê
+podczas jubileuszowej imprezy Smutku Podlasia, wiêc pomy¶la³em, ¿e warto
+by powiedzieæ w kilku s³owach co to jest Smutek Podlasia i jakie jest jego
+zastosowanie w praktyce.
+
+Cztery lata temu za³o¿y³em listê dyskusyjn± ¿eby by³o gdzie ple¶æ androny
+(takie by³o za³o¿enie grupy) i zacz±³em zapraszaæ na ni± ludzi. Po pewnym
+czasie lista zaczê³a rozwijaæ siê sama.
+
+O czym mówi siê na li¶cie?
+Przyk³adowe tematy rozmów z ostatnich tygodni to:
+- Filips pisa³ ¿e widzia³ w TV Pomys³owego Dobromira i pyta³ czy to film
+  polski czy czeski - dyskusja
+- Zerro pyta³ o której godzinie zaczyna siê wycieczka w±skotorówk± co j±
+  Ziutek organizuje
+- Filips wys³a³ melodiê z "Kosi³ Ja¶ koniczynu" jako muzyczkê do kilku
+  popularnych komórek
+- Zerro og³osi³ ¿e zgubi³ w metrze czapkê i pyta³ czy kto¶ nie widzia³
+- Micha³ Segit informowa³ o imprezie pt "¶piewanki" - dyskusja, czy miejsce,
+gdzie
+  to siê odbywa jest poddaszem czy nie jest
+- Filips informowa³ o wycieczce któr± organizowa³
+- Filips informowa³ co ciekawego w TV za tydzieñ w sobotê
+- Filips przes³a³ przepis na kwas miodowy
+- Zerro zaprasza³ na swoj± parapetówê - dyskusje
+- Filips i Micha³ Segit i inni rozmawiali o rajdzie pieszym do Czerska
+- Tomasz G szuka³ chêtnych do wspó³robienia bimbru
+- Zerro szuka³ chêtnych do gry w podchody
+- Dyskusja czy wiêcej jest prawie wszystko czy nieskoñczenie wiele
+
+i inne
+
+Trzeba tylko uwa¿aæ, bo wielu stosuje zmylaj±ce i tajemnicze tytu³y postów,
+a to:
+- [Neurobiology] X jest tu polem wektorowym, czyli mowiac wulgarnie zbiorem
+  strzalek stycznych
+- [Neurobiology] ole olek wygraj
+- [Neurobiology] varia
+- [Neurobiology] Niby test a niby nie test
+- [Neurobiology] [{UZBAD}] [(5)]
+
+Co dzieje siê na grupie poza emailowaniem?
+Czasem zdarzaj± siê jakie¶ imprezy, wyj¶cia itepe
+Wiêcej o tym w dziale "Raporty z imprez"
+
+Jak siê zapisaæ?
+Wys³aæ pusty mejl na smutek_podlasia-subscribe@yahoogroups.com
+
+Jak poczytaæ archiwa smutku?
+Napisaæ na smutek_podlasia@yahoogroups.com pro¶bê ¿eby ci kto¶ podes³a³ zipa
+
+
+...a poni¿ej statystyki "Smutku"
+Wziête z CD-zina "Zwierciad³o Poczciwo¶ci i Szlachetnego Serca
+                  (daj±ce pewne pojêcie o sprawach obyczajno¶ci
+                   i higieny pszychicznej)"
+
+   From: zerro psobol@skrzynka.getin.pl
+   Date: Fri, 04 Oct 2002 07:15:40 +0200
+   Subject: [Neurobiology] statystyka
+
+   Poni¿ej przedstawiam analizê - zestawienie nadawców postów na "smutek
+   podlasia", na podstawie archiwum ze "Zwierciad³a poczciwo¶ci". Po
+   uwzglêdnieniu osób które pisa³y z kilku adresów wygl±da na to ¿e punktacja
+   jest jak poni¿ej:
+
+   filips  - 451
+   zerro   - 645
+   ziutek  - 168
+   aika    - 179
+   uzbad   - 115
+
+
+   Poza tym mo¿na wspomnieæ ludzi którzy tu byli kiedy¶ kiedy¶:
+
+   - irys - nadal tu jest ale nieaktywnie
+   - bartek felczak - ej, kto to by³? To nie bell de jour czyli kocyk?
+   - elmo co kolegów nie poznaje
+   - besta i zebra
+   - dwie dziewczyny na grupie (oprócz aiki)
+   - henryk morawski - pankowiec ze Szczecina, widzia³em go dwa razy w realu.
+     Raz na koncercie raz na ulicy
+   - qix czyli mhamerski - amigowiec ode mnie z roku
+   - tytus
+
+   ..............
+       432 filips@xacid.ch.pw.edu.ru
+       400 bartek.felczak@xgazeta.ru
+       339 sobol@xwsm.szczecin.ru
+       226 irys@xpnet.ru
+       217 gorzej@xpolmail.com
+       179 aika@xpoczta.fm
+       158 michalka@xacid.ch.pw.edu.ru
+       149 ziutek@xacid.ch.pw.edu.ru
+       148 besztka@xpoczta.onet.ru
+       144 irys@xmain.wsm.szczecin.ru
+       125 wlochaty@xdupa.com
+       120 zero@xspeed.bajt.com.ru
+       120 pater@xfriko3.onet.ru
+       112 uzbad@xsilesianet.ru
+       101 belle@xbelle.art.ru
+       (...) poni¿ej setki uci±³em - wiêcej w CD-magu
+             i na Filipsa stronie Smutku
+
+
+
+................................................................................
+................................................................................
+
+
+
+--------------------------------------------------------------------------------
+Jak zmierzyæ wielko¶æ chmury
+--------------------------------------------------------------------------------
+
+Nieraz my¶la³em jak du¿a mo¿e byæ przeciêtna chmura - sto metrów, kilometr,
+dziesiêæ?
+
+Mam ju¿ teraz obmy¶lony sposób tylko czekam na czas to zmierzê.
+
+Najpierw mierzymy nasz± odleg³o¶æ od chmury.
+W tym celu dwie osoby rozstawiaj± siê w odleg³o¶ci np 100 metrów i ka¿dy
+mierzy k±t miêdzy poziomem a lini± ³±cz±c± obserwatora z wybranym punktem
+chmury. O tak:
+
+      _________
+     ( chmura  )*
+      --------/  \
+	     /	   \
+	    /	     \
+	   /	       \
+	  /		 \
+	 /		   \
+	/		     \
+ O     /		       \	o
+/|\   /				 \     -+-
+ |   /				   \	|
+/ \ /alfa			beta \ / \
+--------------------------------------------
+
+
+Gdzie ludziki - to obserwatorzy
+Na górze - jest chmura
+Gwiazdka - to wybrany punkt
+"alfa" i "beta" to k±ty
+
+Jak ju¿ mamy zmierzone te k±ty i znamy odleg³o¶æ miêdzy obserwatorami to
+rysujemy to sobie w skali na kartce i mo¿emy linijk± zmierzyæ odleg³o¶æ
+od chmury.
+
+Teraz jak znamy odleg³o¶æ od chmury wystarczy w wyci±gniêtej rêce trzymaæ
+patyk na tle chmury. I zaznaczyæ na nim scyzorykiem wielko¶æ chmury.
+
+I teraz znowu - narysowaæ sobie to wszystko w skali i zmierzyæ linijk±
+wielko¶æ chmury.
+Tak jak na rysunku:
+
+
+
+
+
+
+
+				    /
+				  /
+				{~~~~~~~~~~~~}
+			      / {	     }
+			    /	{	     }
+			  /	{	     }
+			/	{	     }
+		      /		{	     }
+	linia	    /		{	     }
+      konstrukcyjna		{	     }
+		/		{	     }
+	      /			{	     }
+	    /			{	     }
+	  /			{	     }
+	/			{	     }
+      / |			{	     }
+    /	|			{	     }
+  /	|			{	     }
+O	| patyk			{  chmura    }
+  \	|			{	     }
+    \	|			{	     }
+      \ |			{	     }
+	\			{	     }
+	  \			{	     }
+	    \			{	     }
+	      \			{	     }
+		\		{	     }
+		  \		{	     }
+		    \		{	     }
+		      \		{	     }
+			\	{	     }
+			  \	{	     }
+			    \	{	     }
+			      \ {	     }
+				{------------}
+				  \
+Na tym rysunku:
+O - to obserwator
+ten prostok±t podpisany "chmura" to chmura
+ta kreska podpisana "patyk" - to patyk
+
+Ten rysunek robi siê tak:
+
+- stawiam kropê - to jestem ja
+- w odpowiedniej odleg³o¶ci ode mnie (tyle, co wyci±gniêta rêka) rysujê patyk,
+a na nim dwie zaznaczone scyzorykiem kreski
+- wiem ju¿ w jakiej odleg³o¶ci ode mnie jest chmura - i w tej odleg³o¶ci od
+kropy rysujê chmurê. D³ugo¶æ chmury dobieram tak, ¿eby jak siê lini± po³±czy
+kropê (czyli mnie, czyli obserwatora) z kresk± zrobion± scyzorykiem na patyku
+to ¿eby przed³u¿enie tej linii trafi³o na krawêd¼ chmury. No bo przecie¿ tak
+by³o jak robi³em scyzorykiem kreskê na patyku - ta kreska na patyku le¿y na
+linii ³±cz±cej moje oko z krawêdzi± chmury.
+- no i teraz jak wszystko jest narysowane w jakiej¶ tam skali to mogê z
+rysunku odczytaæ wielko¶æ chmury
+
+Pozostaje tylko jeszcze jedna rzecz: jak przy pomiarze odleg³o¶ci do chmury
+(na samym pocz±tku) mierzyæ k±t miêdzy poziomem a lini±, która ³±czy mnie z
+danym obiektem? Mo¿na kombinowaæ z k±tomierzem, ciê¿arkiem na nitce itepe,
+ale po co siê mêczyæ.
+
+Pro¶ciej tak:
+		   (========)
+		 /
+	       /
+	     /
+	   /
+	 *
+       /
+     /
+   /
+ o
+-+-
+ |
+/ \
+
+
+Na tym rysunku:
+Ludzik - to ty
+Gwiazdka - to jaki¶ wybrany kawa³ek ga³±zki na drzewie (mo¿esz go sobie
+zaznaczyæ, np zawi±zaæ czerwon± wst±¿eczkê)
+(========) - to chmura
+
+Zauwa¿, ¿e je¶li zmierzysz wysoko¶æ, na jakiej znajduj± siê twoje oczy,
+wysoko¶æ czerwonej wst±¿eczki nad ziemi± i odleg³o¶æ miêdzy tob± a czerwon±
+wst±¿eczk± to mo¿esz to sobie narysowaæ w skali na kartce i odczytaæ k±t.
+
+
+Wszystko proste.
+Tylko i¶æ i mierzyæ.
+
+
+
+---------------------------------
+recenzje:
+zinów:
+---------------------------------
+
+zin Majonez
+autor: Kelvin
+namiar: +48846278346
+
+Zin na cztery kartki ma³o go czyta³em bo jest ciemno a piszê to na imprezie
+Ale podoba³ mi siê tekst o systematyce
+Taki prawdziwy zin schizowy
+Jak chce kto¶ pocztaæ to polecam
+Dzwoñcie do Kelvina na pewno siê ucieszy :) i pytajcie go o tego zina
+
+
+
+
+
+
+
+
+
+--------------------------------
+Tajemniczy Micha³ S zaprasza....
+--------------------------------
+
+
+A to jest czê¶æ Micha³a Segita
+W tej czê¶ci jest opis jego (i o ma³y w³os mojej - Zerro :)) wycieczki w
+Sudety
+
+--------------------------------
+START
+--------------------------------
+
+
+
+
+		 Rajd turystyczno-geologiczny Sudety 2001
+
+   Wstêp:
+
+   To nie jest opis wycieczki jako takiej. Jest to raczej opis
+   krajoznawczy na bazie wycieczki - co mo¿na zobaczyæ, zwiedziæ,
+   do¶wiadczyæ. Wobec mnogo¶ci opisów ró¿nych wypraw, szczególnie
+   bardziej interesuj±cych (przebieg, miejsce) nie ma wiêkszego sensu,
+   aby to te¿ dok³adnie takim by³o; nie by³oby zbyt ciekawe... Mam
+   nadziejê i¿ wobec tego obecna forma bêdzie bardziej interesuj±ca, a
+   przy okazji nios±ca ze sob± "jakie¶ konkrety". Mo¿e Ci siê przyda do
+   zaplanowania podobnej wycieczki, mo¿e zainspiruje do podobnego
+   spojrzenia. Sudety, jak niewiele gór, maj± w sobie trochê wiêcej
+   wymowy, zwi±zanej ze swoj± histori±, a pierwotnie ze swoj± histori±
+   naturaln±... Ale o tym to mo¿e za chwilê. Zapraszam! (wszelkie
+   zauwa¿one b³êdy, inne uwagi, proszê [1]zg³o¶, dziêkujê).
+
+  2001.08.22 (czwartek)
+
+   W poci±gu Wroc³aw-Miêdzylesie, oko³o g. 7 rano, ju¿ siê zrobi³o
+   jasno i zrzed³y mg³y.
+   Jedziemy przez obszar bloku Przedgórza Sudeckiego, powierzchniê
+   zrównania [2]trzeciorzêdowego, modelowan± do dzi¶; wystêpuj± tu
+   niewysokie pagóry ska³ odporniejszych, np. granitowe Wzgórza
+   Strzeliñskie, obok których przeje¿d¿amy. Zbli¿amy siê do Uskoku
+   Brze¿nego Sudeckiego (UBS, SUB), widaæ gwa³town± krawêd¼
+   morfologiczn±, "z równiny wyrastaj± góry" (szczególnie po stronie
+   zachodniej linii kolejowej - Góry Bardzkie i Sowie) - typowy obraz
+   skutków dzia³alno¶ci tektonicznej.
+
+   UBS ma bardzo stare za³o¿enia, ale obecna jego postaæ powsta³a w
+   trzeciorzêdzie. Przedtem nast±pi³o daleko id±ce zrównanie erozyjne.
+   W trzeciorzêdzie podczas fa³dowania alpejskiego nast±pi³o wzglêdne
+   podniesienie bloku sudeckiego (po³udniowo-zachodniego skrzyd³a
+   wisz±cego, uskoku), miejscami ponad 1 km. W ten sposób utworzona
+   zosta³a potê¿na krawêd¼, natomiast czynniki zewnêtrzne (erozyjne)
+   spowodowa³y niszczenie wyniesionej czê¶ci oraz krawêdzi, ci±gle
+   modeluj±c rze¼bê do obecnego stanu. W obrêbie szeroko rozumianego
+   bloku sudeckiego wystêpowa³y te¿ ró¿ne inne ruchy, wyst±pi³y
+   dyslokacje (przemieszczenia), powoduj±c dalsze zró¿nicowanie tego
+   obszaru i powstanie m.in. Niecki ¼ródsudeckiej (N¼S) (a raczej jej
+   pog³êbienie, bo powsta³a ona du¿o wcze¶niej, oko³o dewonu, o czym
+   ¶wiadcz± np. stare karboñskie pok³ady wêgla kamiennego i inne
+   formacje skalne w Niecce siê znajduj±ce) wraz z kredowym Rowem
+   Górnej Nysy (RGN).
+
+   W poci±gu na odcinku K³odzko-Miêdzylesie jedziemy przez obszar RGN,
+   widaæ gdzieniegdzie ¶lady kotlinnego charakteru (równego dna i
+   masywów górskich wokó³), zwraca uwagê erozyjne wciête koryto Nysy
+   K³odzkiej.
+
+   Miêdzylesie - Szklarnia.
+   Wychodzimy z Rowu Górnej Nysy. Charakterystyczny obraz rze¼by
+   bêd±cej wynikiem procesów tektonicznych. Do kredy dolnej by³o tu
+   morze, zbiera³y siê ró¿ne osady. W kredzie górnej (koniak) znaczenie
+   odegra³y uskoki, ¶rodkowy blok zacz±³ siê obni¿aæ. Obecnie osady te
+   le¿± ni¿ej ni¿ po obu stronach Rowu (je¶li nie zosta³y pó¼niej
+   zerodowane - zniszczone np. piaskowce Gór Sto³owych i Adrspasskich
+   Ska³ ("Skalne Mesto") s± praktycznie tymi samymi osadami, le¿±cymi
+   wy¿ej (w widocznym dobrze w terenie po³o¿eniu poziomym). Rysunek
+   schematyczny
+
+   Szklarnia - Jod³ów - pod Ma³ym ¼nie¿nikiem
+   Przekraczamy strefê uskokow± RGN, "czuje siê" nag³e zwiêkszanie
+   wysoko¶ci... Strefa ortognejsów, granitognejsów i migmatytów, potem
+   ³upki ³yszczykowe i paragnejsy, fyllonity (wszystkie to ska³y
+   metamorficzne), od Szklarni obszar ¼nie¿nickiego Parku
+   Krajobrazowego.Nocleg w lesie pod Ma³ym ¼nie¿nikiem (w namiotach
+   rozrzuconych malowniczo w lesie). Pierwszy nocleg, pod Ma³ym
+   ¼nie¿nikiem
+
+   By³ ma³y problem z wod±, której nigdzie nie by³o, ale uda³o siê
+   nabraæ rurk± z wycieku na szlaku (by³o po deszczu); w rejonie tym na
+   stosunkowo p³askim grzbiecie (szeroko¶æ do kilkuset m) zbiera siê
+   woda (s³abo przepuszczalne pod³o¿e jest) i tworzy siê torfowisko
+   wysokie (ro¶linno¶æ, ka³u¿e, jeziorka w lesie, "bagniska"), jest to
+   te¿ ciekawa forma ma³ej retencji, bardzo istotna dla tej
+   ro¶linno¶ci.
+
+  2001.08.03 (pi±tek)
+
+   Po zostawieniu rozstawionych namiotów i ukryciu plecaków w lesie :))
+   idziemy z ma³ymi plecaczkami w trasê naoko³o.
+
+   Ma³y ¼nie¿nik - Goworek - Puchacz - Trójmorski Wierch.
+   Trójmorski Wierch jest punktem spotkania siê 3 wododzia³ów zlewisk
+   mórz, do których nale¿± okoliczne tereny. Z jego masywu poszczególne
+   potoki sp³ywaj± do Morza Pó³nocnego, Ba³tyckiego i Czarnego, jest
+   wiêc szczytem specyficznym, choæ niezbyt siê wyró¿niaj±cym z
+   otoczenia. Widok z Trójmorskiego Wierchu na Ma³y ¼nie¿nik
+
+   Droga zej¶ciowa do Miêdzygórza, trawersuj±c miejscami b. stromy
+   stok, nara¿ona na ostr± erozjê (widoczne s± niekiedy skutki obfitych
+   powodziowych opadów z tego roku, a szczególnie z poprzednich).
+   Wodospad Wilczki w Miêdzygórzu - utworzony przez potok na uskoku
+   tektonicznym (prawdopodobnie z kredy-trzeciorzêdu); w wyniku ruchu
+   ska³ zosta³y one tutaj pokruszone i gwa³townie zmniejszy³a siê ich
+   odporno¶æ na pó¼niejsz± erozyjn± dzia³alno¶æ wód potoku. Do powodzi
+   w 1997 roku by³ on o 9 m wy¿szy, podczas powodzi woda zerwa³a
+   sztuczn± koronê betonow± za³o¿on± kilkadziesi±t lat wcze¶niej przez
+   Niemców.
+
+   Powrót przez Halê pod ¼nie¿nikiem, obok schroniska, do miejsca
+   zostawienia plecaków i namiotów, uda³ siê nam dos³ownie na minuty
+   przez wielk± wieczorn± burz± z piorunami.
+
+  2001.08.04 (sobota)
+
+   Zej¶cie (b. ciê¿kie) przez Halê pod ¼nie¿nikiem do Kletna. Po
+   zostawieniu w ukryciu plecaków w pobli¿u ha³d, eksploracja terenu
+   wokó³. Badania licznikiem G-M na ha³dach w Kletnie
+
+   Kletno i jego okolice s± jednym z niewielu tego typu w Polsce
+   geologicznych (g³ównie mineralogicznych) "Eldorado" - na niewielkim
+   obszarze znajduje siê tu b. du¿o rozmaito¶ci i ciekawostek
+   geologicznych i pokrewnych, w kopalniach tu niegdy¶ usytuowanych
+   wystêpowa³o b. wiele minera³ów. Wynika to m.in. z faktu bardzo
+   du¿ego zró¿nicowania pod³o¿a skalnego (znajduj± siê tu g³ównie
+   ró¿nego typu ska³y metamorficzne), m.in. w wyniku istnienia tu
+   wiêkszych przejawów starego uskoku o charakterze regionalnym (tzw.
+   "nasuniêcie Kletna"), co by³o powodem n. pó¼niejszej dzia³alno¶ci
+   hydrotermalnej (hydrotermalno-pneumatolitycznej; migracji gor±cych
+   wód o temperaturze do kilkuset st. C, na ogó³ bêd±cych zatê¿onymi
+   roztworami wielu substancji mineralnych).
+   Jaskinia Nied¼wiedzia, wraz z innymi mniejszymi, nieudostêpnionymi
+   jaskiniami - za³o¿ona jest w stosunkowo niewielkiej soczewce
+   marmurów (zmetamorfizowanych wapieni zbudowanych g³ównie z kalcytu
+   CaCO[3]) wieku paleozoicznego. Odkryta zosta³a w latach 19'50 w
+   ¶cianie dzia³aj±cego wówczas jeszcze kamienio³omu. W latach 19'60
+   zamkniêto (z powodów ochrony przyrody - aby detonacje nie powodowa³y
+   niszcz±cych jaskiniê wstrz±sów górotworu) ostatni dzia³aj±cy w
+   rejonie k³m - w s±siedniej (oddzielonej tektonicznie) partii takich
+   samych marmurów. Jaskinia Nied¼wiedzia jest jedn± z kilku
+   najwa¿niejszych i najbogatszych przyrodniczo jaskini krasowych
+   Polski.
+   Kopalnie rud polimetalicznych dzia³a³y w Kletnie od czasów
+   ¶redniowiecza. By³y to wówczas kopalnie ¿elaza, równie¿ miedzi,
+   o³owiu i in. oraz ametystu (niebieskiej odmiany kwarcu). Dzia³a³y
+   okresowo b. prê¿nie, historia górnicza regionu jest bardzo bogata; z
+   czasów tych pochodz± jednak m.in. wzmianki o tym ,i¿ "kopalnie te
+   by³y pod kl±tw±, górnicy czêsto chorowali". Ludzko¶æ nie zna³a
+   wówczas pojêcia promieniotwórczo¶ci, obfite wystêpowanie w tych
+   z³o¿ach zwi±zków uranu odkryto dopiero po II Wojnie ¼wiatowej, z
+   wydobycie tego pierwiastka (jak równie¿ wspó³wystêpuj±cego fluorytu
+   - jako topnika w przemy¶le szklarskim) wi±¿e siê ostatni, te¿ bardzo
+   prê¿ny okres górniczy, zakoñczony w latach 19'50 z powodu
+   wyeksploatowania z³o¿a. Kopalnia ta, sk³adaj±ca siê z 3 szybów i
+   ca³ego systemu sztolni (po czê¶ci dziko dostêpnych do dzi¶, lecz ju¿
+   zapadniêtych; jedna ze sztolni bêdzie prawdopodobnie od 2002 r.
+   przystosowana do zorganizowanego zwiedzania turystycznego),
+   najprawdopodobniej ca³o¶æ urobku (jak te¿ z innych polskich kopalni
+   rud uranu) wywo¿ono do ZSRR na potrzeby tamtejszego przemys³u
+   atomowego.
+   Z³o¿a te, jak ju¿ wspomniano, powsta³y w wyniku szeregu procesów
+   opieraj±cych siê na kr±¿±cych po dawnym uskoku roztworach; roztwory
+   te z regu³y nios± ze sob± wiele rozpuszczonych substancji, jednak
+   tak bogate ich wystêpowanie (wykrystalizowanie) jak tutaj
+   (zidentyfikowano ponad 60 minera³ów) jest i tak do¶æ rzadkie; uskok
+   ten ci±gnie siê regionalnie, m.in. wydobycie rud metali mia³o
+   miejsce równie¿ w pobliskiej Siennej, a tak¿e obficie po stronie
+   czeskiej, równie¿ w Marcinkowie odkryto koncentracje (lecz mniejsze)
+   zwi±zków uranu.
+   Na ha³dach w Kletnie mo¿na znale¼æ g³ównie (z bardziej warto¶ciowych
+   minera³ów): kwarc (SiO[2]) krystaliczny (czêsto typowo pasowy, b±d¼
+   ³adnie wykszta³cony krystaliczny, hydrotermalny), równie¿ w postaci
+   ametystu, fluoryt (CaF[2]), szczególnie fioletowy do czarnego (!,
+   ogólnie dla osób niedo¶wiadczonych trudno odró¿nialny od ametystu,
+   najlepszy spo¶ród polskich fluorytów), piryt-markasyt FeS[2], galenê
+   PbS, sfaleryt ZnS, bornit Cu[5]FeS[4], hematyt Fe[2]O[3] (nawet
+   masywny, do wielokilogramowych fragmentów ska³y; by³ przedmiotem
+   wydobycia, j.w.), chryzokolê (potencjalnie najlepsz± spo¶ród
+   polskich lokalizacji), oczywi¶cie minera³y uranu (blenda smolista,
+   torbernit i in.; jednak praktyka wskazuje, ¿e mo¿na ich poszukiwaæ
+   wy³±cznie przy u¿yciu licznika Geigera-Millera, inaczej "trafienie"
+   okazu jest ma³o prawdopodobne; nie odró¿niaj± siê one wyra¼nie od
+   innych sk³adników ska³, a czêsto bywaj± nadmiernie rozproszone, aby
+   mo¿na by³o zauwa¿yæ i jednoznacznie zakwalifikowaæ bez licznika) i
+   inne. Obecnie ha³dy s± powoli rekultywowane (zalesiane, rozsypywane,
+   przekopywane), ich najlepszy czas ju¿ siê powoli koñczy (ostatnie
+   lata).
+   W pobli¿u Kletna na uwagê zas³uguje te¿ dalsze z³o¿e marmurów, w
+   pobli¿u Siennej - Stronia ¼l±skiego, gdzie do dzi¶ prowadzona jest
+   eksploatacja wielokolorowych, warto¶ciowych marmurów wyk³adzinowych
+   (np. "bia³a Marianna" i inne), nawet zdarzaj± siê w nich wrostki
+   innych ciekawych minera³ów. Genetycznie z marmurami tymi K³m
+   marmurów (i ³upków) Stronie ¼l±skie, czê¶æ grzbietowa
+
+   zwi±zane s± ³upki, zawieraj±ce miejscami b. ³adnie wykszta³cone,
+   daj±ce siê dobrze wydzieliæ granaty (o ¶rednicy do 1 cm). K³m tych
+   ³upków znajduje siê na grzbiecie przy wzgórzu Krzy¿nik, kilkaset m
+   nad nowym wysypiskiem ¶mieci, a jego ni¿sza czê¶æ znajduje siê na
+   zachodnim stoku wzgórza.Tyle o Kletnie. Pomimo, i¿ jest ono obecnie
+   ma³± wsi± (kilkana¶cie gospodarstw, kilka prywatnych pensjonatów,
+   schronisko m³odzie¿owe, nie ma nawet sta³ego sklepu spo¿ywczego),
+   jest ono swego rodzaju "Mekk± geologów" w skali Polski.
+
+  2001.08.05 (niedziela)
+
+   Nocleg w "PTSMie" (obecnie chyba powiatowe schronisko m³odzie¿owe) w
+   Kletnie. Po wizycie w odnawianym ko¶ciele w Boles³awowie, dalsze
+   eksplorowanie ha³d, pó¼niej k³m-u ³upków (i marmurów, j.w.). Celowo
+   warto zorganizowaæ sobie wizytê w kamienio³omie w niedzielê (lub
+   ¶wiêto), gdy on nie pracuje (potencjalnie najczê¶ciej wtedy) i mo¿e
+   nawet nie byæ osób dla dozoru. Stronie ¼l±skie czê¶æ górna i zapora
+
+  2001.08.06 (poniedzia³ek)
+
+   Przej¶cie do Stronia ¼l±skiego (zakupy, inne sprawy), potem
+   trawersem Sowiej Kopy i przez K³óbkê w okolice podej¶cia
+   turystycznego szlaku niebieskiego (dalej) pod zamek Karpieñ (nocleg
+   namiotowy tutaj przy szlaku jest zadowalaj±cy, jedynie po wodê
+   trzeba siê przespacerowaæ w okolice le¶niczówki (?) przy drodze
+   asfaltowej po drugiej stronie bagnistej dolinki (bêd±cej na pó³noc
+   od Starego Giera³towa).
+
+  2001.08.07 (wtorek)
+
+   Przej¶cie prze ruiny zamku Karpieñ. Zej¶cie przez okolicê Prze³êczy
+   L±deckiej (nad Lutyni±) do L±dka Zdroju.
+
+   Lutynia - do¶æ ciekawa geologicznie miejscowo¶æ. W jej rejonie
+   znajduje siê kilka intruzji (kominów - "neck'ów") wulkanicznych
+   (bazaltowych z oliwinami), b. rzadkich w tym rejonie Sudetów, wieku
+   kenozoicznego (trzeciorzêd); m.in. czynny k³m bazaltu "Szwedzkie
+   Szañce" przy szlaku zielonym i nowym ¿ó³tym (jeszcze zaznaczonym na
+   mapach).
+   Równie¿ w Lutyni znajdujê siê pozosta³o¶ci kopalni rud Zn, Pb, Ni,
+   Cu (?) (prawdopodobnie pochodzenia hydrotermalno-pneumatolitycznego)
+   z czasów PRLu (?). Mo¿na tu (na niewielkich zaro¶niêtych ha³dach)
+   niekiedy znale¼æ nawet ciekawe okazy galeny (PbS).
+   L±dek Zdrój - miejscowo¶æ uzdrowiskowa (¼ród³a mineralne, czê¶ciowo
+   radoczynne - zawieraj±ce niewielkie koncentracje pierwiastków
+   radioaktywnych, g³ównie radonu), w której znale¼æ mo¿na ró¿ne
+   zabytki (otoczenie rynku, figura ¼w. Jana Nepomucena na mostku na
+   Bia³ej L±deckiej i in.).
+
+   Przej¶cie przez kalwariê na Cierniaku nad Radochowem do bazy
+   namiotowej (AKT Halny - Poznañ) przy [3]Jaskini Radochowskiej.
+
+   Jaskinia ta zosta³a tak¿e za³o¿ona na niewielkiej, jedynej w tym
+   rejonie, soczewce marmurów. Warto równie¿ zaznaczyæ, i¿ znajduj± siê
+   tu w pobli¿u ciekawe odosobnione (podobnie jak marmury) wychodnie
+   granitoidów.
+
+  2001.08.08 (¶roda)
+
+   Po zwiedzeniu Jaskini Radochowskiej (czas ok. 30 min.), przej¶cie
+   (do wieczora) przez Góry Z³ote do Z³otego Stoku (szlakiem zielonym i
+   czerwonym).
+
+   Z³oty Stok - ciekawa, obecnie ju¿ zdewastowana i zubo¿a³a
+   miejscowo¶æ górnicza. Wra¿enie podczas zwiedzania miasteczka nie
+   jest najlepsze, typowe dla upad³ych o¶rodków miejskich jest
+   wykorzystywanie budynków w innych celach, np. niepotrzebny ju¿ wobec
+   zmniejszonej liczby ludno¶ci, jeden z chyba trzech, ko¶cio³ów
+   poewangelicki wraz z budynkami przyleg³ymi zosta³ zamieniony na
+   prywatny hotel (z boiskiem sportowym w hali ko¶cio³a; z dzwonnicy
+   ³adny widok na okolicê).
+
+  2001.08.09 (czwartek)
+
+   Zwiedzanie "kopalni z³ota"
+   Kopalnia z³ota w Z³otym Stoku
+
+   W tej kopalni pocz±tkowo eksploatowana by³a "czapa ¿elazna" (strefa
+   przypowierzchniowa, gdzie w wyniku wietrzenia nast±pi³a przemiana i
+   selekcja minera³ów, minera³y metali szlachetnych uleg³y
+   koncentracji, a jednocze¶nie ta czê¶æ górotworu jest ³atwiej
+   eksploatowana, jest mniej lita) z³o¿a
+   arsenopirytu(FeAsS)-löllingitu(FeAs[2]), zawieraj±cego m.in. niema³e
+   (do kilku gramów na tonê) domieszki z³ota, jednak pó¼niej nast±pi³o
+   równie¿ dr±¿enie (w ¶redniowieczu rêcznie, potem, a¿ do II po³owy XX
+   wieku, gdy kopalniê zamkniêto przy u¿yciu materia³ów wybuchowych)
+   pierwotnych gnejsów (i innych ska³ od nich siê wywodz±cych)
+   chodnikami (wiele z nich zachowa³o siê do dzi¶, nie ma ich
+   dok³adnych planów, co podnosi "tajemniczo¶æ masywu").Znajduje siê
+   ona w wisz±cym (podniesionym) skrzydle wa¿nego regionalnego uskoku -
+   UBS (j.w.)., tylko tam by³a wówczas mo¿liwo¶æ eksploatacji z³o¿a...
+
+   Po uzupe³nieniu zakupów wêdrówka szlakiem czarnym im.
+   J.Szczypiñskiego przez Chwalis³aw (w tym rejonie widaæ na drodze
+   prawdopodobnie miejscowe, lub bliskie, okruchy granitoidów ze
+   znajduj±cej siê tutaj intruzji granitoidowej K³odzko-Z³otostockiej),
+   Góry Z³ote (szlakiem j.w. czarnym i niebieskim), przeciêcie szosy
+   K³odzko-Paczków (na Prze³êczy K³odzkiej), wej¶cie na Podzameck±
+   Kopê, trawers i powrót na szlak obok miejsca rozwidlenia szlaków pod
+   K³odzk± Gór±. Nocleg (po wodê trzeba by³o schodziæ do jarów, kawa³ek
+   drogi).
+
+   Góry Bardzkie s± formacj± g³ównie osadow±, fliszow± (ogólnie;
+   mu³owce, szarog³azy, ³upki ilaste i in. dewoñsko-dolnokarboñskie), z
+   powodu blisko¶ci sporej granitoidowej intruzji K³odzko-Z³otostockiej
+   wyst±pi³ tu strefowo (rzêdu kilkuset m) istotny metamorfizm
+   kontaktowy (np. powsta³y dawniej eksploatowane marmury Podzamka -
+   ciekawa odkrywka w lesie na stokach Jedlaka). Charakterem te góry
+   przypominaj± w pewnym stopniu Karpaty (ogólnie; nie tylko ska³y, ale
+   np. zbiorowisko le¶ne, g³ównie drzewostan bukowy itd.).
+
+  2001.08.10 (pt)
+
+   Wêdrówka dalej przez Góry Bardzkie.
+   Dochodzimy do Kalwarii nad Bardem, gdzie stoi historyczny
+   ko¶ció³ek-kaplica oraz jest Droga Krzy¿owa z wieloma stacjami, na
+   zej¶ciu do Barda. Na szczycie góry widaæ wychodnie ska³ fliszowych
+   charakterystycznie warstwowanych. Podczas schodzenia mo¿na zauwa¿yæ
+   do¶æ jasny rumosz granitoidowy z ciekawej, odizolowanej niewielkiej
+   soczewki znajduj±ce siê w tym miejscu. Po drodze ³adnie
+   ujêcie-kapliczka: ¬ród³o Marii.
+   ¬ród³o Marii w Kalwarii nad Bardem
+
+   Po wej¶ciu do Barda, z okolic starego mostu na Nysie K³odzkiej
+   ³adnie widaæ na stoku z którego schodzili¶my niszê osuwiskow±
+   (szczególnie ³adnie powinna wygl±daæ na jesieni po opadniêciu li¶ci)
+   - wielki zsuw mia³ miejsce 24 sierpnia 1598, w nocy, w czasie du¿ych
+   deszczów i wysokiego stanu Nysy, jêzor spiêtrzaj±c szybko rzekê
+   doprowadzi³ do zatopienia u¶pionego miasteczka. Do obecnych czasów
+   zosta³ przez Nysê silnie rozmyty. Ze starego mostu widaæ te¿ w
+   odleg³o¶ci oko³o 20 m, warstwy fliszowe w podmywanej skarpie, na
+   której stoi miasto, zapadaj±ce prawie pionowo, o zró¿nicowanej
+   odporno¶ci na erozjê rzeczn±, co powoduje powstanie "¿eberek".
+   Bardo, bêd±c starym miasteczkiem po³o¿onym na wa¿nym szlaku
+   komunikacyjnym i handlowym ma bogat± historiê, znajduj± siê tu te¿
+   ciekawe zabytki. Równie¿ znane w ca³ym kraju zak³ady papiernicze.
+   Po wyj¶ciu z Barda poruszamy siê po zalesionych wzgórzach, po
+   których krêci szlak turystyczny. D³ugo jeszcze s³ychaæ liniê
+   kolejow± w prze³omie Nysy.
+
+  2001.08.11 (sob)
+
+   Pod±¿amy dalej w stronê Prze³êczy Srebrnej.
+   W ¯danowie (nale¿y pój¶æ dalej drog± asfaltow± id±c± z Wojbórza
+   przez Prze³. Wilcz± do Srebrnej Góry, nie skrêcaj±c ze szlakiem
+   niebieskim w stronê samego ¯danowa) widzimy przy drodze wychodniê
+   sylursko-dewoñskich ³upków graptolitowych (mo¿na znale¼æ odciski
+   tych paproci). Z tego miejsca jest ju¿ blisko do pierwszego mostu
+   starej kolejki zêbatej (mo¿na siê na niego dostaæ id±c szlakiem
+   zielonym). Widaæ tutaj, jak konsekwentnie przyroda niszczy wszystko,
+   drzewa rosn±ce na regularnym murze skutecznie prowadz± do jego
+   zniszczenia, zapocz±tkowanego przez silnie rozsadzaj±c± dzia³alno¶æ
+   korzeni.
+   W tym rejonie mamy du¿e nagromadzenie ods³oniêæ geologicznych. Id±c
+   przekopem kolejki widzimy w jego wysokiej ¶cianie zmieniaj±ce siê
+   (od tzw. "dzikiego" bezkszta³tnego fliszu - ¶ci¶le rzecz bior±c
+   fliszem jako takim nie bêd±cego - do fliszu wykszta³conego w
+   regularne ³awice) ska³y osadowe karboñskie; mo¿na w nich znale¼æ
+   uwêglone fragmenty drewna.W wykszta³conymi partiami fliszu wi±¿e siê
+   prawdopodobnie jedna z przyczyn zaprzestania eksploatacji kolejki i
+   jej likwidacji. Po³o¿enie warstw jest prawie identyczne ze sk³onem
+   skarpy przekopu, generuj±c wrêcz modelowe osuwisko konsekwentne,
+   skutecznie zasypuj±ce przekop. Osuwisko w przekopie d. kolejki pod
+   Srebrn± Prze³êcz±
+
+   Do tych ciekawostek geologicznych okolicy (³upki graptolitowe, flisz
+   karboñski z wêglem, ideowe osuwiska konsekwentne) dochodzi jeszcze
+   fakt wystêpowania tutaj wa¿nej i do¶æ wyra¼nej granicy (kontaktu)
+   tego karboñskiego fliszu z najstarszymi w Sudetach - prawdopodobnie
+   prekambryjskimi (pó¼niej zmetamorfizowanymi) gnejsami Kry Gnejsowej
+   Gór Sowich (KGGS); fragmenty gnejsów znajduj± siê te¿ miejscami we
+   fliszu) oraz istnienie tutaj miejscami ¿y³owej mineralizacji
+   polimetalicznej, g³ównie galeny PbS (wraz z zawarto¶ci± np. Srebrna,
+   st±d nazwa miasteczka Srebrna Góra oraz Srebrnej Prze³êczy; kruszce
+   by³y dawniej eksploatowane, fragmenty sztolni oraz zape³z³e ha³dy
+   zachowa³y siê do dzi¶).
+
+   Najwy¿szy z mostów d. kolejki pod Srebrn± Prze³êcz±
+
+   Mostek d. kolejki nad szos± na Srebrn± Prze³êcz
+
+  2001.08.12 (ni)
+
+   Dzieñ odpoczynku na Prze³êczy Srebrnej w prywatnym gospodarstwie
+   agroturystycznym. "Regeneracja" sprzêtu, krótka wycieczka do
+   miasteczka; zwiedzanie fortów pruskich z XVIII wieku, spacer torami
+   kolejki. Forty na Prze³. Srebrnej
+
+  2001.08.13 (pon)
+
+   Wymarsz w Góry Sowie. D³ugi monotonny marsz lasami. Na wie¿ê
+   metalow± na Czapli weszli¶my ze strachem, zdawa³o siê, ¿e zaraz siê
+   przewróci od uderzeñ wiatru (i tak dobrze ¿e pada³ niewielki
+   deszczyk, ale nie by³o burzy z piorunami); by³o warto, pomimo
+   pochmurnego dnia mg³y by³y szybko przeganiane i widoczno¶æ, choæ nie
+   najlepsza, dochodzi³a do wielu kilometrów. Na trasie krótki
+   odpoczynek w schronisku Zygmuntówka. Doj¶cie wieczorne do Wielkiej
+   Sowy. (Wieczór i noc by³y spokojne, pogodne, wieczorem po zmroku
+   straszy³ nas kot, normalnie "porz±dkuj±cy" ten teren z odpadków
+   pozostawionych przez turystów - ale sk±d on a¿ tutaj przychodzi??).
+
+   Góry Sowie s± zbudowane z najstarszych znajduj±cych siê w Sudetach
+   na powierzchni ska³ - g³ównie gnejsów (j.w.; paragnejsów - gnejsów
+   powsta³ych przez przeobra¿enie zwiêkszonym ci¶nieniem i temperatur±
+   ska³ osadowych). S± to ogólnie ska³y jedne z najstarszych w Polsce,
+   pochodz±ce z prekambru (m³odszy proterozoik), jednak pó¼niej
+   odm³odzone, przeobra¿one metamorficznie (najprawdopodobniej
+   kilkuetapowo). Miejscami stopieñ tego metamorfizmu by³ daleko
+   posuniêty, ³±cznie z migmatyzacj± - bardzo pogl±dowe migmatyty mo¿na
+   napotkaæ np. w okolicy Lubachowa (j.n.).
+   Jak ju¿ by³o wspomniane na pocz±tku, obecna rze¼ba Gór Sowich jest w
+   du¿ym stopniu wynikiem wydarzeñ tektonicznych, w szczególno¶ci
+   powstania brze¿nego uskoku sudeckiego (UBS); warto zwróciæ uwagê na
+   jego charakterystykê. W niektórych miejscach UBS ma charakter
+   progowego - podzielonego na kilka równoleg³ych uskoków. Istotn±
+   spraw± jest, i¿ w miejscu przechodzenia uskoku nastêpuje zerwanie
+   nie tylko ska³, ale tak¿e zlu¼nienie i zniszczenie ska³ pobli¿a,
+   jednocze¶nie podczas erozji jej czynniki (szczególnie woda
+   atmosferyczna) maj± u³atwion± drogê penetracji przez szczeliny
+   uskokowe i wystêpuj±cy tu druzgot tektoniczny. W wyniku tego
+   powstaj± np. w±wozy, obni¿enia erozyjne o za³o¿eniu tektonicznym
+   (uskokowym). W pobli¿u krawêdzi pó³nocno-wschodniej Gór Sowich w
+   pobli¿u wsi Kamionka mo¿na zauwa¿yæ grupê kilku odizolowanych
+   wierzcho³ków (Kawka-¯ebrak-Wilczyna), których pochodzenie jest
+   najprawdopodobniej w³a¶nie takie - oddziela je od g³ównego masywu
+   Gór Sowich obni¿enie, wg badañ powsta³e przypuszczalnie na uskoku
+   równoleg³ym do UBS.
+
+  2001.08.14 (wt)
+
+   Niezbyt wczesnym rankiem, po wej¶ciu na (otwart± ju¿) wie¿ê widokow±
+   na Wielkiej Sowie, schodzimy do Walimia-Rzeczki. Zakupy, zwiedzanie
+   sztolni niemieckiej hitlerowskiej fabryki (przypuszczalnie) Riese
+   (filia obozu koncentracyjnego GrossRosen).
+   Przej¶cie przez Masyw W³odarza, zej¶cie do Jugowic, pó¼niej szos±
+   (czê¶ciowo "kocie ³by") do Zagórza ¼l±skiego. Nocleg w schronisku
+   m³odzie¿owym, wieczorem jeszcze turystyczne ognisko razem z grup±
+   studenck±, spotkan± rano na Wielkiej Sowie i teraz znów w
+   schronisku.
+
+  2001.08.15 (¶r)
+
+   W ¶wiêto Wniebowziêcia NMP z rana znienacka odwiedzenie ko¶ció³ka w
+   Zagórzu ¼l±skim. Pó¼niej wej¶cie na górê do zamku, gdzie na
+   szczê¶cie uda³o nam siê zostawiæ ciê¿kie plecaki, aby zrobiæ sobie
+   "na lekko" spacer dooko³a zalewu. Wcze¶niej jeszcze zostali¶my
+   oprowadzeni przez przewodnika po zamku, wys³uchali¶my wyk³adu
+   historycznego, legend i bajd... Wej¶cie do zamku w Zagórzu ¼l±skim
+
+   Na zamku w Zagórzu ¼l±skim
+
+   Droga brzegiem jeziora (Zalewu) prowadzi z zamku po bardzo ostrym
+   stoku, szczególnie je¶li chodzi o fragment od o¶rodka wypoczynkowego
+   do zapory; w niejednym miejscu ci±gle czynne osuwiska niszcz±
+   ¶cie¿kê, tak ¿e po naprawieniu mie¶ci siê na niej i tak tylko jedna
+   osoba. Dochodzimy do zapory. Górna cz. zalewu (Jez.Bystrzyckie) z
+   zamku
+
+   Zapora w Lubiechowie zlokalizowana jest w bardzo w±skim prze³omie
+   Bystrzycy (za³o¿onym prawdopodobnie na kilkukilometrowym uskoku),
+   dlatego mo¿e byæ niedu¿a a wysoka (44m), lekka betonowo-kamienna, a
+   spiêtrzenie jest do¶æ du¿e. Ju¿ w samym miejscu, w którym stoi
+   zapora, pod³o¿e skalne jest do¶æ interesuj±ce geologicznie, w miarê
+   oddalania siê od niej mo¿emy byæ ¶wiadkami do¶æ du¿ego jego
+   zró¿nicowania. Zapora w Lubiechowie
+
+   W rejonie zapory wystêpuj± gnejsy (paragnejsy) sowiogórskie smu¿yste
+   i warstewkowe, czê¶ciowo zmigmatyzowane. Migmatyzacja jest to proces
+   czê¶ciowego wytapiania ³atwiej topliwych minera³ów podczas
+   przebywania ska³y w strefie ¶rednio wysokich temperatur (ni¿szych od
+   1000 st.C); jako jeden z pierwszych up³ynnieniu ulega wystêpuj±cy w
+   du¿ych ilo¶ciach kwarc, tworz±c po pó¼niej zastygniêciu (po
+   milionach lat...) jasne smu¿ki, uk³adaj±ce siê nierzadko w
+   malownicze "szlaczki". Przechodz±c koron± zapory mo¿na znale¼æ wiele
+   wmurowanych okazów pobliskich gnejsów z takimi w³a¶nie formami,
+   u¿ytych przez budowniczych zapory jako dobry materia³
+   budowlany.Stadium migmatyzacji, poprzedzaj±ce stadium magmatyzacji
+   (praktycznie ca³kowitego up³ynnienia ska³y) jest te¿ do¶æ
+   zró¿nicowane; w wyniku czêsto wspó³wystêpuj±cych z wysok±
+   temperatur± naprê¿eñ mo¿e do¶æ do przemieszczenia tych minera³ów,
+   które jako ciecz (w przybli¿eniu) po up³ynnieniu mog± ³atwiej
+   migrowaæ do stref mniejszych ci¶nieñ. W ten sposób np. mo¿e do¶æ do
+   ich akumulacji z rejonach zlu¼nieñ tektonicznych b±d¼ starych
+   szczelin. Przypuszcza siê, ¿e tak± w³a¶nie genezê ma specyficzny
+   wytopnieniowy pegmatyt wystêpuj±cy m.in. w³a¶nie te¿ w pobli¿u
+   zapory.
+
+   Pegmatyt jest ska³± grubokrystaliczn±, ¿y³ow±, czyli utworzon±
+   poprzez iniekcjê - wtry¶niêcie p³ynu w szczelinê, lukê w¶ród
+   otaczaj±cych ska³; poniewa¿ zawiera minera³y w ni¿szych, od
+   pozosta³ych, temperaturach ulegaj±ce wytopieniu, prowadzi to w ten
+   sposób do selekcji mineralnej sk³adników ska³, w efekcie wyj±tkowo
+   wiele ciekawych minera³ów mo¿na czêsto w nim spotkaæ w stosunkowo
+   du¿ej koncentracji, ³±cznie z pierwiastkami ziem rzadkich itd..
+   Niektóre pegmatyty s± gospodarczym ¼ród³em tych minera³ów i
+   pierwiastków.
+
+   Podobne pegmatyty mo¿na spotkaæ te¿ w Bystrzycy Górnej, kilka
+   kilometrów w dó³ dolin± rzeki Bystrzycy. W ogóle ta miejscowo¶æ
+   stanowi swego rodzaju "Eldorado" geologiczne, jedno z niewielu tak
+   bogatych w Polsce, podobnie jak ju¿ zwiedzane wcze¶niej Kletno,
+   tylko ¿e tym razem bardziej petrograficzne - wystêpuje tu na
+   stosunkowo ma³ym obszarze szczególnie du¿o ciekawych i przydatnych
+   równie¿ pod wzglêdem dydaktycznym wyst±pieñ ska³. Wspomniany
+   pegmatyt, te¿ trochê ró¿ni±cy siê od typowych (najczêstszych)
+   pegmatytów, jest szczególnie ods³oniêty w rowie pomiêdzy torem
+   kolejowym (ju¿ od kilku lat nie u¿ywanym i zaro¶niêtym) a dró¿k±
+   przechodz±c± przez niego i odchodz±c± w kierunku po³udniowym, w
+   górnej czê¶ci miejscowo¶ci, oko³o 700 metrów powy¿ej (w stronê
+   Zagórza ¼l±skiego) mostu szosy nad torami. Podana powy¿ej
+   lokalizacja mo¿e swoj± banalno¶ci± wzbudzaæ u¶miech, w przypadku
+   szczególnie Bystrzycy Górnej jest to jak najbardziej na miejscu,
+   bowiem... to dopiero pocz±tek takich opisów. W pobli¿u tego
+   pegmatytu, w odleg³o¶ci mo¿e kilkudziesiêciu metrów widzimy przy
+   drodze w du¿ym stopniu zaro¶niêt± ¶cianê starego niewielkiego
+   kamienio³omu. Znale¼æ w nim mo¿na bardzo ciekawe okazy do¶æ ró¿nej
+   ska³y - serpentynitu, z wyra¼nie widocznymi warstewkami minera³ów:
+   ciemnozielonego (ziemistego) antygorytu i ja¶niejszego, zielonkawego
+   chryzotylu. Id±c torem w stronê w.w. mostu mijamy tu¿ obok odkrywkê
+   z rzadk± ska³± piribolitem, zbli¿on± do granulitów (dawniej ska³y w
+   tym miejscu by³y nieprawid³owo uwa¿ane za eklogit); znaleziono w
+   niej okazy granatów o ¶rednicy do 5 cm, co jak na warunki polskie (i
+   nie tylko) stanowi bardzo du¿o. Oko³o 50 m (?) od w.w. mostu,
+   zbli¿aj±c siê do niego, mijamy po drugiej (pó³nocnej) stronie toru
+   wychodniê granulitów z niewielkimi, lecz do¶æ licznymi granatami
+   (pirop, almandyn). Pod samym mostem wystêpuj± kilka metrów od siebie
+   (!), po przeciwnym stronach toru, dwa ods³oniêcia z do¶æ ró¿nymi
+   ska³ami: od strony po³udniowej nietypowy gnejs, czyli ska³a
+   metamorficzna, ze skaleniami, zbli¿ony do granulitów (lecz nie
+   posiadaj±cy granatów), o sk³adzie mineralnym podobnym do granitów, a
+   wieku rzêdu 440 milionów lat. Po drugiej (pó³nocno-zachodniej)
+   stronie toru widzimy wychodniê magmowego (wyj±tkowo) hornblendytu,
+   nale¿±cego do ska³ silnie zasadowych (ma³o kwarcu), sk³adaj±cego siê
+   g³ównie z hornblendy zielonej oraz amfiboli szeregu
+   antofyllit-gedryt, o wieku rzêdu 1340 (!) milionów lat, czyli o
+   wiele starszego (jest to jedna z najstarszych ska³ w Sudetach i w
+   Polsce). Dodatkowo jeszcze np. w lesie na zachód od miejscowo¶ci
+   znajduj± siê ha³dy po starej kopalni o³owiu, na których znale¼æ
+   mo¿na okazy galeny. Na tym wyje¼dzie nie uda³o nam siê z ró¿nych
+   przyczyn dotrzeæ do Bystrzycy Górnej, mia³o to jednak miejsce
+   podczas innych wyjazdów, a ten opis do¶æ pasuje do ca³okszta³tu
+   charakterystyki okolicy powy¿ej opisanych miejscowo¶ci.
+
+   Po przej¶ciu przez koronê zapory w Lubiechowie i przechodzimy oko³o
+   500 metrów dalej, gdzie z bocznej dolinki (te¿ prawdopodobnie
+   za³o¿onej na uskoku) wyp³ywa ma³y strumyczek, a stosunkowo niedaleko
+   od jeziora jest specyficzne "¼ród³o", z betonowego obmurowania
+   wyp³ywa z metalowej rury zimna woda. Liczni wczasowicze od czasu do
+   czasu nabieraj± tej wody do butelek do picia i och³ody, podczas gdy
+   jest du¿a szansa, ¿e jest ona... truj±ca, a w ka¿dym razie niezdatna
+   do picia. Uwa¿na analiza bowiem tego miejsca doprowadza do wniosku,
+   ¿e nad tym ujêciem znajduje siê stara zaro¶niêta ha³da kopalniana
+   starej kopalni o³owiu (galeny), a ujêcie mo¿e byæ wyp³ywem z
+   zamkniêtej starej sztolni kopalnianej. Na ha³dzie tej jak i w
+   potoczku pod ni± znale¼æ mo¿na srebrzyste (b±d¼ zwietrza³e ciemne)
+   okazy galeny w bia³ym ciê¿kim barycie. Jest to jedna z wielu sztolni
+   w tej okolicy, z których czê¶æ zosta³a zalana przez jezioro, a które
+   nale¿a³y do w³a¶cicieli zamku; czerpali oni korzy¶ci z wydobycia
+   o³owiu i wspó³wystêpuj±cego srebra. Od strony geologicznej - mo¿na
+   podejrzewaæ, i¿ z³o¿a te utworzy³y siê te¿ z odmieszania, podobnie
+   jak pegmatyty, lecz du¿o pó¼niej, gdy górotwór by³ ju¿ mocno
+   sch³odzony, a kr±¿y³y z nim jedynie roztwory wodne nios±ce
+   rozpuszczone minera³y (siarczki jak galena, baryt i inne), s± to
+   bowiem przewa¿nie z³o¿a pneumatolityczno-hydrotermalne.
+   Obchodz± jezioro dalej (patrz±c na planie - zgodnie z ruchem
+   wskazówek zegara), dochodzimy powoli w±sk± spokojn± szos± do jego
+   górnej koñca, gdzie jest zlokalizowany o¶rodek wczasowy z domkami i
+   jest wej¶cie na pieszy most wisz±cy. Stanowi on nie lada atrakcjê
+   dla dzieci i m³odzie¿y, ze wzglêdu na swoj± konstrukcjê i stosunkowo
+   niewielk± masê ju¿ nawet kilkuosobowa grupa mo¿e go niema³o
+   rozbujaæ, jak i¿ przechodzenie zaczyna byæ utrudnieniem... Id±c
+   dalej przechodzimy znów obok o¶rodka na lewym brzegu i wspinaj±c siê
+   ¶cie¿k± le¶na (któr± kilka godzin wcze¶niej schodzili¶my) do zamku,
+   zastanawiamy nad dalszymi planami na ten dzieñ. Czeka nas jeszcze
+   trochê popo³udniowej wêdrówki, co w po³±czeniu dodatkowo z ma³± lecz
+   kosztown± czasowo awari± jednego z plecaków, musi mobilizowaæ.
+   Jeszcze tego dnia odchodzimy z Zagórza ¼l±skiego szlakiem niebieskim
+   na zachód, w do¶æ szybkim tempie przekraczaj±c wzgórze Klasztorzysko
+   i prze³êcz Nied¼wiedzi±, nocujemy w namiotach na skraju lasu trochê
+   dalej. Jak siê ma okazaæ, bêdzie to ostatnia noc w namiotach na tym
+   wyje¼dzie.
+
+  2001.08.16 (czwartek)
+
+   Nastêpnego dnia pod±¿amy dalej przez Rusinow±, Nowy Poniatów, do
+   Wa³brzycha, przez wzgórza Lisi Kamieñ i Ptasi± Kopê, aby skoñczyæ w
+   schronisku m³odzie¿owym Daisy w pobli¿u stacji Wa³brzych-Miasto. Po
+   drodze "zwiedzamy" ha³dy po dawnych kopalniach wêgla Teresa i
+   Krakus, co zabiera trochê czasu, pomimo ¿e efekty poszukiwañ
+   geologicznych na nich to bardziej ni¿ mizerne. Có¿, ju¿ tak to jest,
+   ¿e zró¿nicowanie z³ó¿ jest bardzo du¿e i niektóre pok³ady zawieraj±
+   liczne tak nielubiane przez górników a kochane przez
+   geologów-poszukiwaczy domieszki i wtr±cenia, a inne tylko
+   bezpostaciowy wêgiel, ³upki i piaskowce. Na szlaku w pobli¿u w.w.
+   wzgórz (stanowi±cych "wianuszek" wychodni odporniejszych na erozjê
+   karboñskich piaskowców, zlepieñców i mu³owców) doznajemy daleko
+   posuniêtego uczucia zagubienia... Szlak jest bowiem poprowadzony w
+   sposób tak skomplikowany, jak to w niewielu miejscach mo¿na znale¼æ.
+   Nied³ugo po wyj¶ciu z Nowego Poniatowa skrêca w±sk± ¶cie¿k± w las,
+   po czym nastêpuje w¶ród trudno przebie¿nych krzaków, na pochy³ym
+   terenie, szybka seria kilku zakrêtów o 90 stopni i krótkich prostych
+   (rzêdu kilkudziesiêciu metrów), tak, i¿ nie wiadomo w któr± stronê w
+   zasadzie zamierza on ostatecznie siê udaæ, a mapa nic nie pomaga z
+   uwagi na kilkukrotnie zbyt ma³± skalê. Sytuacja jest zabawna (lub
+   niemi³a, zale¿nie od okoliczno¶ci), na szczê¶cie udaje nam siê go
+   znale¼æ trochê dalej, w pl±taninie krzaków i ledwo widocznych
+   ¶cie¿ek (prawdopodobnie nie tylko my siê delikatnie gubimy, ka¿dy
+   idzie jak uwa¿a, wiêc zamiast jednej ¶cie¿ki jest kilkadziesi±t
+   niewyra¼nych). Pó¼niejsza malowniczo¶æ trasy, pomimo nawet bardzo
+   upalnego dnia, poprawia bardzo szybko humor. Przez drzewa widzimy
+   panoramê Wa³brzycha, a ¶cie¿ka trochê kr±¿±c, ci±gle zmieniaj±c
+   kierunek i wysoko¶æ, "zrzuca" nas wreszcie w mie¶cie, po krótkiej
+   chwili znajdujemy schronisko.
+
+  2001.08.17 (pi±tek)
+
+   Ambitne plany budz± nas oko³o godziny 6. Po siódmej, z ma³ymi
+   plecakami (du¿e zosta³y w schronisku, bêdziemy tu jeszcze raz
+   nocowaæ) wsiadamy ju¿ do poci±gu, pierwszego ¶rodka lokomocji a¿ od
+   Miêdzylesia, jedziemy do stacji Boguszów-Gorce Zachód, "podziwiaj±c"
+   krajobraz czê¶ciowo zamar³ego górniczego miasta i pilnie siê go
+   ucz±c z okien poci±gu... Bêdzie to mia³o niebagatelne znaczenie w
+   ci±gu tych 2 dni.
+   Po opuszczeniu poci±gu wskakujemy na poblisk± ha³dê kopalni Witold
+   (trudno powiedzieæ, czy zamkniêtej, wg naszych danych ju¿ od kilku
+   lat, niemniej urz±dzenia wyci±gowe s± ci±gle nie zdemontowane,
+   inaczej ni¿ to jest w przypadku innych kopalni). Ha³da jest
+   niego¶cinna, nic na niej ciekawego nie ma, zwiedzamy wiêc pobliski
+   widoczny z niej kamienio³om czerwonawych ryolitów i ryodacytów; tu
+   wyniki s± trochê lepsze, choæ te¿ nie rewelacyjne. W tym stadium
+   wyjazdu nie musimy ju¿ du¿o zastanawiaæ siê nad minimalizowaniem
+   znalezisk, bo ju¿ nie grozi nam ich d³ugie noszenie w wielkim
+   plecaku, wiêc chcia³oby siê co¶ ciekawego znale¼æ...
+   Szybko wracamy do centrum, przechodzimy przez równie¿
+   nieinteresuj±co po bli¿szym kontakcie ha³dê kopalni Klara, stokiem
+   Mniszka i idziemy do dzielnicy Ko³o, w kierunku kopalni barytu.
+   Zastany na miejscu widok wprawia nas w ma³e os³upienie.
+   Wiemy ¿e od czasu powodzi w 1997, gdy zosta³a (na krótko przed i tak
+   planowanym zamkniêciem) zalana tak, i¿ ju¿ op³aca³o siê j± tylko i
+   wy³±cznie szybko zamkn±æ, kopalnia barytu w Boguszowie-Gorcach,
+   s³awna na ca³y kraj, jest nieczynna. Niemniej po przyj¶ciu na
+   miejsce zobaczyli¶my tylko w dolince ¶rednio rozleg³± kamienist±
+   ³±kê, jakby rozsypan± ha³dê. Dalej sta³ jaki¶ dom, zamieszka³y, pan
+   wyrywaj±cy na polecenie ¿ony sa³atê z przydomowego ogródka
+   zainteresowa³ siê naszym niezdecydowaniem i zapyta³, czego szukamy.
+   Kopalni? "O tam jest, musicie siê trochê cofn±æ. O tam pod tym
+   drzewem jest dó³, tam jest zasypany szyb, trochê tylko osiada. Ja
+   te¿ pracowa³em w tej kopalni... Teraz nic tu nie ma, tylko ha³da
+   zosta³a. Id¼cie sobie, poszukajcie, mo¿e co¶ znajdziecie. Tu jest
+   trochê inaczej, tam w Stanis³awowie to by³o wiêcej fluorytu (?), ty
+   raczej baryt...". Krótka i bardzo przyjacielska rozmowa nie
+   zniwelowa³a jednak uczucia smutku. A wiêc to to...
+   Na miejscu kopalni nie zosta³y prawie ¿adne budynki, ani nawet
+   praktycznie ¶lady po nich. ¯adne urz±dzenia. Kamienista pustynia.
+   Poszli¶my na ha³dê, lecz nic szczególnie ciekawego nie uda³o siê
+   znale¼æ. W stosunku do Stanis³awowa, gdzie we wcze¶niejszych latach
+   mieli¶my okazjê byæ, a przed laty nawet zjechaæ na dó³ (wprowadzaj±c
+   tym pewn± konsternacjê bo czyni±c problem ze zrealizowaniem
+   dziennego napiêtego planu wydobycia), przedstawia³o siê to trochê
+   inaczej. Tamta kopalnia by³a mniejsza, podlega³a gospodarczo tej,
+   ale by³a du¿o bogatsza mineralogicznie. Ile rozmaitych i
+   niejednokrotnie ciekawych okazów z niej do dzi¶ geolodzy
+   posiadaj±...
+   Nagl±cy czas rzuci³ nas przez t± czê¶æ Boguszowa, do Starego
+   Lesieñca. Tam, po krótkiej rozmowie ze starszym mieszkañcem, "przez
+   p³ot", wobec ci±g³ego niespokojnego spogl±dania na zegarki
+   zdecydowali¶my siê obejrzeæ trzy widoczne na mapie (i w terenie)
+   kamienio³omy tylko z odleg³o¶ci kilkuset metrów ("Co tam kopali?",
+   "A, taki kamieñ, tam to jeszcze kilka lat temu, a w tamtym to ju¿ za
+   Niemców przestali, zaro¶niêty jest. To jest to co tam dalej, w
+   Czerwonym Borze"). Kamienio³om w Czerwonym Borze znamy, sprzed kilku
+   lat, jest nawet do¶æ ciekawy, czasem mo¿na tam niejedna ³adn± rzecz
+   znale¼æ. Je¶li uda siê do niego wej¶æ, bo pracuje ci±gle.
+   Po drodze mijaj±c zaro¶niêt± ha³dê kopalni Wiktor (nawet je¶li na
+   niej co¶ mo¿na ciekawego znale¼æ, to i tak jest to trudne, grzebanie
+   w ciemnych krzakach w¶ród korzeni drzew ma ma³e szanse powodzenia),
+   chcieli¶my przej¶æ obok samej kopalni (czynnej obecnie lub
+   niedawno), na mapie bowiem by³a tam zaznaczona droga przelotowa.
+   Jednak wchodz±c, mijaj±c jedn± i drug± bramê po pewnym czasie
+   zorientowali¶my siê, ¿e jeste¶my na terenie... Zak³adu Przeróbki
+   Barytu. Dodatkowo ma³o zniszczone i niestare tablice informowa³y i
+   reklamowa³y zak³ad na drodze dojazdowej. Zak³ad dzia³a³, ta¶moci±g
+   pracowa³, ale jak otwarte i pusto, to wchodzimy. Po chwili wyszed³ z
+   hali mê¿czyzna, zobaczywszy nas zbli¿aj±cych zapyta³ siê co tu
+   robimy. "Mo¿na przej¶æ? Na mapie jest droga...", "Nie, to zamkniêty
+   zak³ad", "Zak³ad? Barytu? My¶leli¶my, ¿e zak³ad nie dzia³a, tam
+   widzieli¶my kopalnie, dawno zamkniêta...?", "Hm... Dzia³a, pracuje.
+   No dobrze, to przejd¼cie, ale je¶li kto¶ was bêdzie pyta³ jak tu
+   weszli¶cie - to nie widzia³em was". Dopiero pó¼niej od niezale¿nej
+   osoby (ale spoza "zawodu") dowiedzieli¶my siê, ¿e baryt do tego
+   zak³adu sprowadzaj± z Czech.
+   Docieramy do Ku¼nic ¼widnickich, nastêpnie przez las, wyj±tkowo
+   dziki na t± zindustrializowan± okolicê, przez Glinik Nowy szybko
+   idziemy w stronê stacji Wa³brzych G³ówny. Malowniczo wygl±da na
+   wielkim torowisku "w powietrzu" (zabudowano ma³± dolinkê schodz±c±
+   ze wzgórza Barbarka) rz±dek zielonych lokomotyw spalinowych SU-45 i
+   in.. Mijamy stacjê i kierujemy siê szybko, wzd³u¿ torów na Jedlinê,
+   stadionu i przez osiedle Podgórze II w stronê tunelu. Prawie
+   biegniemy. Jest wczesne popo³udnie, gdy doñ docieramy i wchodzimy do
+   ¶rodka. To dlatego tak siê spieszyli¶my! Za kilka minut (ale
+   precyzja...!) ma równoleg³a nitk± (tunel wybudowano bodaj¿e w 1908
+   roku jako 2 niezale¿ne równoleg³e i idealnie proste nitki, na
+   przestrzeni prawie 2 km po³±czone tylko 3 ³±cznikami o d³ugo¶ci
+   oko³o 20 metrów) przeje¿d¿aæ poci±g osobowy. Ostatni planowy poci±g
+   o którym wiemy, pó¼niej ma byæ przerwa, a nie mamy czasu. Chwila
+   oczekiwania i - jest! Pomimo tego, ¿e stoimy w odrêbnym, niezale¿nym
+   tunelu przy pierwszym ³±czniku, efekty wentylacyjne, sprawdzone ju¿
+   kiedy¶ wcze¶niej, s± warte prze¿ycia. Po seansie wychodzimy na t±
+   sam± stronê. Przy wyje¼dzie k³±b spalin (na tej linii nie ma trakcji
+   elektrycznej) wyci±gniêty "efektem t³oka" z tunelu za poci±giem,
+   który przez sekund± ucich³ w dali. Siadamy na murku, strumyk
+   szemrze, mo¿emy zje¶æ mocno opó¼nione drugie ¶niadanie... Jeszcze
+   mijaj± nas 2 czy 3 poci±gi towarowe. Mo¿e jednak nie zamkn±, w dobie
+   powszechnej "restrukturyzacji", tej linii do K³odzka (takie by³y
+   kiedy¶ "pog³oski"), w przeciwieñstwie do wielu innych...Wchodzimy
+   wy¿ej do kamienio³omu (tury ryolitowe itd., dla budownictwa raczej,
+   prawdopodobnie na kruszywo), bo pobie¿nym obejrzeniu dwóch dolnych
+   poziomów wydobywczych odechcia³o nam siê. Schodzimy obok cmentarza,
+   w kierunku Wa³brzycha. Poni¿ej cmentarza, w okolicy skrzy¿owania
+   szos, supermarket Biedronka. ¼rodek dnia roboczego, a tu pusto,
+   ¶wiat³a w ¶rodku wygaszone...? Z ciekawo¶ci podchodzimy bli¿ej, na
+   drzwiach kartka "Zamkniête. Brak pr±du". Jakie proste? A niektórzy
+   wymy¶laj±, jak walczyæ z supermarketami...
+   Kierujemy siê czê¶ciowo szos±, potem poprzez straszne krzaki
+   (inaczej nie damy rady "uderzyæ") na nasyp kolejowy i dalej torami,
+   w ci±g³ym strachu przed poci±giem (têdy przeje¿d¿a po³owa Dolnego
+   ¼l±ska) przez okolice kopalni Staszic (³adnie wygl±da z góry z
+   bardzo wysokiego w tym miejscu nasypu, ale nie zachêca do odwiedzin)
+   a nastêpnie na wielk± ha³dê kopalni Boles³aw Chrobry. Ha³dy w
+   Wa³brzychu
+
+   Ta ha³da wzbudzi³a dzi¶ rano nasz± ciekawo¶æ, swoim ogromem chyba
+   przyt³acza inne, a z okien poci±gu z nasypu wielkie ciê¿arówki w
+   trudzie wdrapuj±ce siê pylist± drog± na jej szczyt wygl±da³y jak
+   ma³e mróweczki. Musimy to zobaczyæ z bliska. Po przej¶ciu jednego
+   wzgórza (bardzo stara ha³da? chyba nie... wygl±da inaczej) i
+   przekroczeniu kana³ka wchodzimy widzian± rano drog± na szczyt.
+   Trzeba szybko, jeszcze zbli¿aj±c siê widzieli¶my je¿d¿±ce samochody,
+   zaraz co¶ nas mo¿e rozjechaæ (i zadusiæ py³em). Nic takiego jednak
+   siê nie dzieje, pó¼niej oka¿e siê, ¿e w³a¶nie skoñczyli pracê,
+   popo³udnie zaczyna ju¿ byæ pó¼ne. Co oni tu jednak wwo¿±? Ha³dê tê
+   znamy sprzed kilku lat, mo¿na tu by³o znale¼æ bardzo ciekawe okazy,
+   jej kopalniê (antracytu - to jeden z najcenniejszych wêgli) Boles³aw
+   Chrobry te¿, tu¿ sprzed jej zamkniêcia i zasypania w 1998. Natomiast
+   teraz przywo¿± oni tu jaki¶ mia³, a mo¿e popio³y z elektrowni.
+   Strasznie siê to pyli, zasypali tym ju¿ ca³o¶æ okazy mineralogiczne
+   i paleontologiczne zaginê³y bezpowrotnie... Z niesmakiem i
+   rozgoryczeniem, schodzimy na szosê z drugiej strony, porz±dnie
+   utyt³ani py³em. Gubimy go czê¶ciowo w kilkudziesiêciominutowej
+   drodze pieszo przez prawie ca³e miasto do schroniska...
+
+  2001.08.18 (sobota)
+
+   Znów rano jeste¶my przy stacji. Dzisiaj ma miejsce podzia³ grupy.
+   Kto nie zna zamku (pa³acu, rezydencji) w Ksi±¿u, ten jedzie go
+   zwiedziæ, reszta idzie zwiedziæ wzgórze króluj±ce nad Wa³brzychem
+   niczym Giewont nad Zakopanem - czyli Che³miec; spotkaæ mamy siê w
+   dzielnicy Bia³y Kamieñ, na skrzy¿owaniu, o czternastej . Pod±¿ymy z
+   t± drug± czê¶ci±... Wysiadamy z tego samego poci±gu na tej samej
+   stacji, co dnia poprzedniego. Przechodzimy przez miasteczko i
+   spokojnym szlakiem w¶ród mokrych jeszcze ³±k a potem lasów (z
+   absolutnie nieprzyzwoit± ilo¶ci± niewidocznych wielkich pajêczyn
+   rozpiêtych w poprzek ¶cie¿ki) na stromych zboczach Che³mca wchodzimy
+   do¶æ szybko na szczyt. Tam ju¿ jest trochê ludzi, dzieci graj± w
+   pi³kê (jak kto¶ mocniej kopnie, to j± chyba znajd± w samym
+   Wa³brzychu...), przyszli szlakiem z innej strony. W zasadzie to
+   pozostaje nam tylko kibicowaæ, bo z widoku "nici" - pomimo ju¿ do¶æ
+   pó¼nego przedpo³udnia zalega mg³a, widoczno¶æ kilkaset metrów.
+   Robimy jakie¶ mgliste zdjêcia monumentalnego krzy¿a i stacji
+   nadawczej (¶miesznie wygl±da) i po krótkim ¶niadaniu schodzimy.
+   Dopiero teraz zaczynaj± nas strasznie boleæ nogi, ju¿ lepiej by³o
+   podchodziæ... Na chwilê gubimy szlak, co pozwala nam szerzej
+   zobaczyæ, co siê tutaj dzieje; czy te wyrêby lasu nie spowoduj±, ¿e
+   którego¶ piêknego d¿d¿ystego lata stromy Che³miec nam sp³ynie...?
+   Dochodzimy do podnó¿a, stary wykop kolejowy zastanawia. I przy
+   okazji ma³a humorystyczna scena, grupka 4 flirtuj±cych ra¼no
+   peda³uj±cych osób mija nas podje¿d¿aj±c ³agodn± ju¿ w tym miejscu
+   drog±. Nie wygl±daj± na wytrawnych podró¿ników rowerowych, co po
+   chwili jest wrêcz namacalne... Po up³ywie dos³ownie 3 minut
+   przeje¿d¿aj±, ju¿ w dó³. Podjazd by³ zbyt stromy...
+
+   Góra Che³miec jest do¶æ ciekaw± form± morfologiczn±, szczególnie
+   wzglêdem otoczenia, podobny jest do niej "mniejszy brat", góra
+   Mniszek. Che³miec nie jest wulkanem, lecz jest form± do¶æ podobn±
+   genetycznie, w tym sensie wcze¶niejsz±. Jest to wzniesienie powsta³e
+   w wyniku wypiêtrzaj±cego dzia³ania wystêpuj±cej pod du¿ym ci¶nieniem
+   lawy (na tak niewielkich g³êboko¶ciach, tutaj maksymalnie kilkuset
+   metrów, mówimy ju¿ raczej o lawie a nie magmie), która powoduje
+   podniesienie ska³ (w tym wypadku osadowych - piaskowców, zlepieñców
+   karboñskich i in.). Na prze³omie karbonu i permu lawa ryolitowa i
+   ryodacytowa intrudowa³a w tym rejonie. Dlaczego nie doprowadzi³o to
+   do powstania wulkanu jak w innych miejscach? Przypuszczalnie
+   dlatego, ¿e taka kwa¶na lawa ma stosunkowo du¿± lepko¶æ i przy
+   spadku temperatury szybko traci p³ynno¶æ i plastyczno¶æ, tworz±c
+   "czop" uniemo¿liwiaj±cy dalszy wyp³yw. Wulkany (jako takie) o takim
+   sk³adzie mineralnym wystêpuj± na ¶wiecie bardzo rzadko, na ogó³
+   w³a¶nie materia³ zastyga jeszcze pod ziemi±. Od tego czasu (kilkaset
+   milionów lat), wierzchnie warstwy zosta³y w du¿ym stopniu
+   zerodowane, ods³aniaj±c ryolity i ryodacyty.
+
+   Grupa z Ksi±¿a mia³a w tym czasie okazjê zwiedziæ malowniczy w±wóz
+   Pe³cznicy pod zamkiem. Spotkali¶my siê na skrzy¿owaniu, aby
+   zrealizowaæ ostatni geologiczny punkt wyjazdu - ha³dê przy dawnej
+   kopalni Wies³aw. Ha³da ta jest obecnie chyba jedyn± rokuj±c±
+   jakiekolwiek nadzieje dla zbieraczy, my te¿ postanowili¶my j±
+   zwiedziæ, co te¿ siê uda³o. Okazy ³adnie zachowanych odcisków flory
+   górnokarboñskiej w ³upkach i piaskowcach a tak¿e kryszta³y dolomitu
+   z konkrecji, oraz innych minera³ów (np. baryt, piryt, gips)
+   doci±¿y³y ma³e plecaki porz±dnie. Znów szybki powrót przez miasto do
+   schroniska, gdzie jeszcze raz zosta³y du¿e plecaki, tam szybki
+   prysznic i przepakowanie i uginaj±c siê pod ju¿ niemo¿liwie ciê¿kim
+   baga¿em znale¼li¶my siê na (na szczê¶cie bliskim) dworcu. Jako¶
+   nawet uda³o siê wsi±¶æ do nocnego poci±gu po¶piesznego...
+   Wyjazd mo¿na uznaæ za udany, uda³o siê po³±czyæ przyjemne z
+   po¿ytecznym. Zainspirowa³ do nastêpnych podobnych wyjazdów, byle nie
+   za czêsto, ca³y czas siê usilnie uczyæ to chyba trochê...
+   niezdrowo...
+
+References
+
+   1. mailto:msegit@w.pl?subject=www:sudety01
+   2. http://www.segu.prv.pl/geol/tabstrat.htm
+   3. http://halny.put.poznan.pl/baza/jrad.html
+
+
+
+</Micha³ Segit>
+
+
+
+
+
+
+
+--------------
+Elmo Kluska aka PachaLux pisze:
+--------------
+
+
+dzieñ dobry pañstwu. dzisiaj jestesmy u piotrka na zabawie, a ¶ci¶lej rzecz
+bior±c na 4 urodzinach smutku podlasia. kropka.
+
+w dobie internetu coraz mniej dzieci bawi siê w zabawy jakie my bawilismy siê
+onegdaj. id±c z duchenm czasu bardzo dobrym pomys³em jest po³±czyæ klasykê
+zabaw z  nowczesno¶ci±.  mój pomys³ to zabawa w chowanego w internecie.
+instrukcja: ka¿dy chêtny do zabawy dostaje plan miejsca, gdzie odbywaæ
+siê zabawa ma. na planie sa standardowe miejsca do chowania: stodo³a, pod
+schodami, za szaf± i miêdzy firank± a ¶cian±, albo w ciemnej ³azience. na
+poczatku wszyscy spotykaja sie na wspólnym kanale #zaklepywanka. i tam
+jest administrator, który moderuje zabawê. jedna osoba jest szukaj±c±, która
+szuka. zabawa sie zaczyna gdy wszyscy opuszczaj± kana³ zaklepywanka, zmieniaja
+sobie nicka na podobny postaci np. elmo1425 i chowaj± siê na kana³ach, czyli
+miejscach zaznaczonych na mapce. w tym samym czasie osoba szukaj±ca na kanale
+#zaklepywanka odlicza od 10 do 1, pisze siê "pa³ka zapa³ka dwa kije kto siê nie
+schowa ten kryje" i osoba szukaj±ca odwiedza kana³y, czyli takie miejsca, które
+sa na mapce. jesli osoba szukaj±ca wejdzie na kana³, gdzie jest kto¶ schowany,
+to szybko wraca na kana³ zaklepywanka i zaklepuje np. zaklepuje elmo1425.
+i koniec zabawy, bo piotrek chce ju¿ slajdy, albo filmy, albo co pu¶ciæ.
+
+dawny elmo czyli obecnie pachaLux
+
+
+
+
+
+
+--------------
+Mateusz Greszta pisze
+--------------
+
+
+
+<reality_check by="Mateusz">
+
+dzi¶ u piotrka przednia zabawa. z tej okazji, oraz widz±c bawi±cych siê tu
+ludzi postanowi³em napisac o ¶wiecie ;))).
+
+¶wiat nie jest taki okrutny (wbrew pozorom). ¶wiat ma swoj utajony cel...
+[pieprzenie]
+wielu ludzi odrywa siê od 'naszego' ¶wiata, ¿yj±c we w³asnym 'mikro-¶wiecie'
+[patrz "¶wiat wewnêtrzny"]. tak samo, jak wychodz±c na mróz zak³adasz ciep³e
+rêkawice i nie czujesz otaczajacego ciê ¶wiata -- zabawnie, ale po chwili
+rêkawice przemarzaj± i znów czujesz swoje rêce "zimno zimno..".
+
+tak samo jest z naszym ¶wiatem (naszymi ¶wiatkami ;). ¿yje sobie tu
+spokojnie we w³asnej ¶wiadomo¶ci, chodze czasem na jakies wyk³ady... a¿
+tu w sobotê urodzin smutku przysz³o mi (z w³asnej woli) odwiedziæ dêtystê
+(pani± dentystkê). nie, nie zrobi³a mi krzywdy (znam ludzi robi±cych wiecej
+zamieszania), ale kilka sprawnych 'ruchów' wiert³em i kleszczami, a 'slodki'
+ból sprowadza Ciê na ³ono Demeter (heh, swoj± drog± -- "profesjonalna lecznica"
+w której 'znajduje siê' Ta pamni stomatolog nazywa siê Demeter).
+[pieprzenie].
+mniejsza o to -- niezale¿nie od okrutno¶ci ¶wiata, trochê bólu 'od czasu,
+do czasu' pomo¿e tobie pozostaæ 'normalnym', czy raczej czasami 'po³±czonym'
+ze ¶wiatem.
+
+nie gwarantuje oczywi¶cie, ¿e pozostaniesz wtedy zdrowy.
+dlugie przebywanie w 'smutku' gwarantuje za to niezdrowo¶æ.
+
+</reality_check>
+
+
+
+
+
+
+
+
+
+
+
+---------------------------
+Raporty:
+---------------------------
+
+By³ plan ¿eby tu by³y raporty z imprez
+W wersji podstawowej by³ tu tylko raport z impy na której odby³a siê
+premiera zina. W niniejszym rel2 jest trochê wiêcej raportów
+
+
+
+
+
+--------------
+4 urodziny Smutku Podlasia
+--------------
+
+<report background="honeydew">
+<pre>
+
+Ogólna koncepcja imprezy:
+ - czwarte urodziny Smutki Podlasia
+     -- co tu wiêcej mówiæ..?
+
+Czas:
+ - wieczór, 14.gru.2002 -- czyli urodziny Smutku Podlasia
+
+Miejsce
+ - mieszkanie u Zerra, Praga Po³udnie
+
+Przyszli:
+ - Zerro + Ula (gospodarz + ¶nie¿ynka)
+ - Filips (przyszed³ ze swoimi papciami) + Gosia (bez.. kapci)
+ - Matusz + Lucyna (bez kompromituj±cych informacji o sobie)
+ - Karaluh + Ania
+ - V.Ziutek, Stront, £ukasz
+ - Elmo (z materia³ami papierowymi) + Kasia (dziewczyna z MLD 1)
+ - Marta, Justyna, Kasia
+ - Uzbad (tym razem bez roweru)
+ - Micha³ Segit (ju¿ go chyba wszyscy znaja)
+ - Tomek G³owacki + kole¿anka + kolega (szybko poszli)
+ - Kuba (przyszed³ po wszystkim -- "woda po kisielu")
+
+Nie przyszli:
+ - Klay i Aiczka
+ - Misiek
+
+Akcje:
+ - gadka o komunikacji miejskiej i edytorze textu (o 1910, wg zegarka VZiutka)
+ - VZiutek koniecznie chcia³ zacz±æ sok jab³kowy przed imprez± (o 1912)
+ - ogl±danie filmów edukacyjnych ("Ruch obrotowy Ziemi")
+   i innych ("Bataliony Ch³opskie")
+ - rozdawanie prezentów przez Dziadka Mroza
+ - Dziadek Mróz okazuje siê byæ tak naprawdê Zerrem -- w przebraniu
+ - Zerro naprawia rower przy pomocy szczotki
+ - naprawianie (i spieprzenie) roweru
+ - Zerro zabra³ siê do "spieprzenia" pralki,
+   jako ¿e uda³o im siê ju¿ "spieprzyæ" rower.
+   ("mam tylko nadziejê, ¿e nikogo wiêcej nie 'spieprz±'" -- Mateusz)
+ - pranie brudnych ubran Zerra, na ¶rodku pokoju, w pralce "Frania"
+ - moczenie w³osów w pior±cych siê ubraniach (w skarpetkach i majtkach Zerra)
+ - ¶piewanie "Sto lat" do pralki, aby siê lepiej pra³o
+ - Mateusz pisze ten raport
+ - krojenie tortu brzeszczotem (godz. 000 -- wg MSegita)
+ - VZiutek wali (je) tort z "babciowego" (1950) garnka
+
+Teksty:
+ - Stront, Ziutek i £ukasz siedz± w kó³ku i czytaj± delty (o 1903),
+   VZiutek do kolegów: "o, fraktale!"
+ - "¶wiat jest ironiczny. na Smutku nie zdarzaj± siê pesymi¶ci.."
+     -- MSegit
+ - "ja nie lubiê Emacsa, bo bardzo lubiê Notatnik" -- Zerro
+ - "gdzie na tym zdjêciu jest Marek..?"
+   "Marek -- student pi±tego roku chemii"
+ - "my¶lê, ¿e nie raz jeszcze zobaczymy Marka -- studenta pi±tego roku
+ chemii.."
+     -- Filips
+ - "a za rok bedziemy zgadywaæ, na którym roku jest teraz Marek?"
+    [student pi±tego roku chemii]
+ - "nie¼le krêci" -- Elmo do Frani
+
+Alkohole:
+ - kilka win Sophia, Melnik
+ - 4 ¿ywce
+ - ruski szampan
+ - wino Dziadkowe (1990) z Rajskich Jablek doprawione miodem (VZiutek)
+
+Potrawy:
+ - ¶wietne chrupki
+ - koreczki serowo-paprykowe
+ - strucla serowa
+ - pierogi ruskie
+ - ciastka "Pieguski"
+ - czekolada z orzachami
+ - orzechy z rodzynkami (albo rodzynki z orzechami..?)
+ - mandarynki
+ - sa³atka z tuñczykiem i sa³atka bez tuñczyka
+
+Ubylo:
+ - brudnych ubrañ
+ - pr±du w gniazdku
+ - ¿arcia i picia
+
+Party place po imprezie:
+ - syfki i syfaczki
+
+Dokumentacja:
+ - Video -- Filips
+ - Foto  -- MSegit
+
+</pre>
+</report>
+
+
+
+
+
+--------------
+I spotkanie robocze Smutku Podlasia
+w Z³otej Kurce
+--------------
+
+   Smutek Podlasia
+     _________________________________________________________________
+
+   W dniu 26.10.2001 odby³o sie spotkanie robocze Smutku Podlasia, w
+   ktorym uczestniczyli: ja, Gosia, V.Ziutek, MSegit, Klay, kolezanka
+   Zerra i Zerro. Stalismy z godzine pod Zlota kurka, czekajac wlasnie na
+   Sega i Uzbada /z tym, ¿e ten pierwszy przyszedl a drugi nie/.
+   Zrobili¶my seriê pami±tkowych zdjêæ i bawili¶my siê w przeskoki, przy
+   czym kol. Micha³ S. wsadzi³ palec pod budkê a potem siê wycofa³ z gry.
+
+   W kurce zjedli¶my co nastêpuje:
+
+     * Ja: nale¶niki i sa³atkê s kapusty bia³ej
+     * Gosia: tylko sa³atkê
+     * Ziutek: podwójne ziemniaki z kapust± zasma¿an±
+     * Klay: kurde, zapomnia³em!!! Co jad³e¶?!
+     * Seg: pomidorowa i nale¶niki, ale bez surówki,
+     * Kole¿anka zerra: fasolka po bretoñsku i piwo /choæ mówi³a ¿e to
+       soczek jab³kowy/
+     * zerro: kisiel z cukrem
+
+
+
+
+===========================
+
+Sobota z Kinem Edukacyjnym
+         Raport
+
+===========================
+
+Czas:
+ - 2002.11.24, godz. 9:50-12.50
+
+Miejsce:
+ - nowe mieszkanie Zerra, Praga Po³udnie
+
+Uczestnicy:
+ - zerro - gospodarz, operator projektora, kucharz
+ - filips - widz, operator d¼wiêku
+ - Ula - widz
+
+ - Maszyna >>Elew<< produkcji krajowej, 1964, £ódzkie Zak³ady Kinotechniczne,
+   seria 10, typ AP22, nr 4525. Rok produkcji 1964
+
+Nie przyszli:
+ - micha³ segit
+ - ziutek
+ - mateusz greszta
+ - Gosia, bo by³a chora
+
+Alkohole:
+ - stare wino z korkiem w ¶rodku, ale nikt go nie pi³
+
+Jedzono:
+ - ciecierzyca ze ¶mietan±, mas³em, oliw±, ogórkiem kiszonym,
+   groszkiem zielonym, opcjonalnie z przyprawami i majonezem.
+ - orzeszki z rodzynkami
+
+Po imprezie zosta³o:
+ - otwarta klapa od sedesu
+
+Po imprezie uby³o:
+ - po¿ywienie (cieciorka w sosie ¶mietanowym - czê¶æ)
+
+Teksty:
+ - z filmów:
+   - "p³uca zabezpieczaj± szybk± wymianê gazow±"
+   - "mama kiedy¶ ubija³a pianê trzepaczk±, ale trwa³o to d³ugo
+   i mamê bola³y rêce"
+   - "dzieci najchêtniej bawi± siê zabawkami zasilanymi pr±dem
+   elektrycznym"
+
+Akcje:
+ - skreczowanie ta¶m± filmow±
+ - nagrywanie co ciekawszych fragmentów filmu na dyktafon
+ - próba naprawy korby w rowerze zerra /filips mia³ klucze, ale do peda³u a NIE
+ do KORBY!/
+ - degustacja w/w dania
+
+Rozrywki:
+ - ogl±danie filmów na w/w maszynie >>Elew<< prod krajowej 1964 rok. Filmy:
+   - Przek³±dnie - film edukacyjny dla dzieci z klasy 4 SP
+   - Zbiór i element zbioru film edukacyjny dla dzieci z cyklu Zbiory
+   - Technika pomaga w domu - film edukacyjny dla dzieci
+   - Sk±d p³ynie pr±d? - film edukacyjny dla dzieci
+   - Proces wymiany gazowej u ro¶lin i zwierz±t - film edukacyjny dla dzieci
+   i m³odzie¿y
+ - obmy¶lanie planów na przysz³o¶æ:
+   - napsiania tego raportu
+   - szczegó³y dot. 4 urodzin Smutku Podlasia
+   - wys³anie telgramu do elma celem zawiadomeinai o w/w urodzinach
+   - wydania 5 numeru MLD na w/w 4-lecie Smutku Podlasia
+
+Party place po imprezie:
+ - pot³uczonych naczyñ - 0
+ - pustych butelek     - 0
+ - niepustych butelek  - 0
+ - pustych puszek      - 0
+
+ - wygl±d ogólny: Bez wiekszych zmian w stosunku do stanu "przed"
+
+Dokumentacja:
+ - [na Filipsa stronie Smutku]
+
+
+
+
+--------------
+Raport nieimprezowy
+Test  zniszczeniowy
+--------------
+
+File: raport_mld5       Col 0             4529 bytes   [grow]                               67%
+On Tue, Dec 17, 2002 at 09:47:14PM +0000, Tomasz Glowacki wrote:
+> Witam!
+>
+> W zwi±zku z tem ¿e mrozy nasta³y ciê¿kie, postanowi³em przetestowaæ sprzêt
+> komputerowy rodem z krajów ciep³ych (Tajwanu, Chin itp.) w warunkach
+> rodzimych.
+>
+> Testowaniu zosta³ poddany napêd Mitsumi 24x niedzia³aj±cy.
+>
+> Mój pierwszy test polega³ na nalaniu wody do miednicy, w³o¿eniu do ¶rodka
+> CDRomu i wywaleniu tego na mróz. Zamarz³o na kamieñ, wygl±da ¶wietnie,
+> jednak napêd nie zdrzier¿y³ si³y lodu który go od wewn±trz paskudnie
+> rozsadza³ i wygi±³ siê nieco. W³a¶nie go odmara¿am, zobaczymy jak w ¶rodku
+> bêdzie wygl±da³o... raport wkrótce :)
+>
+>
+> acha, ostatnio te¿ w ramach eksperymentów, rozpu¶ci³em w kwasie solnym
+> stê¿onym resoraka, zosta³a tylko farba i kó³ka, a kwas siê na szaro wzi±³ i
+> zabarwi³.
+>
+> p.s: na prezent zapomnia³em wzi±æ instrukcji obs³ugi do maszyny £ucznik z
+> 1979 roku.. :(
+
+Twój raport do³±czê do MLD#5rel2 które wyjdzie za 2 dni
+jak od filipsa dostanê  raporty a od MtGresz poprawiony asciiart
+
+>
+>
+> Pozdr,
+> Tomek
+
+
+
+
+--------------
+Parapetówa u Zerra
+raport  z  imprezy
+--------------
+
+     _________________________________________________________________
+
+   Ja znam Micha³a Segita, wiêc siê ju¿ niczego nie brzydzê...
+
+                                                                    Uzbad
+
+   Z okazji dziadów 2002 mai³a miejsce z dnia 2 na 3 listopada parapetówa
+   u sobola.
+   Ilustracj± muzyczn± do tej strony niech bêdzie zestaw plików audio w
+   formacie mp3.
+
+    i. [1]D¼wiêk 1
+   ii. [2]D¼wiêk 2
+   iii. [3]D¼wiêk 3
+   iv. [4]D¼wiêk 4
+    v. [5]D¼wiêk 5
+
+   Poni¿ej: raport z parapetówy sporz±dzony przez zerra
+--------------------------------------------------------------------------
+
+X-Sender: piotr@software.com.pl
+X-Apparently-To: smutek_podlasia@yahoogroups.com
+To: smutek_podlasia@yahoogroups.com
+X-Mailer: KMail [version 1.2]
+From: Piotr Sobolewski
+Date: Mon, 4 Nov 2002 09:16:05 +0100
+Subject: [Neurobiology] =?iso-8859-2?q?parapet=F3wa=20-?= raport
+Reply-To: smutek_podlasia@yahoogroups.com
+X-Virus-Scanned: by AMaViS perl-11
+
+
+pytanie nr kolejny: czy kto¶ nie ma po¿yczyæ farelki? Takiej na pr±d do
+ogrzewania mieszkania.
+
+Klay: genialne s± te czo³ówki. Fajnie ¿eby kto¶ (mi siê nie bardzo chce)
+spisa³ trochê tekstów piosenek z czo³ówek toby by³o do mld#5
+
+--------------------------------------------------------------------------
+
+Parapetówa u Zerra
+Raport
+
+Czas: 2002.11.01-02
+Miejsce: nowe mieszkanie Zerra, Praga Po³udnie
+
+Uczestnicy:
+  - Mariolka aka Aga - spoza smutku
+  - Pawe³ £. - spoza smutku
+  - Tomek G³owacki - przyniós³ dziewczynê i kolegê Jarka. W trakcie imprezy
+uciekli ale potem wrócili z gitar±
+  - Klay - przyniós³ i zapomnia³ zabraæ z powrotem p³ytkê z mp3 czo³ówkami
+seriali i programów z lat 80-tych
+  - Aika - przynios³a Bena i ciastka. Razem z Benem i Klayem przyszli pierwsi
+na imprezê
+  - Belle z koleg±
+  - Enenek - krótko by³
+  - Filips - przyniós³ ciasto i obrazek na ¶cianê (ze ¶mietnika)
+  - Gosia - by³a na imprezie blada
+  - Micha³ Segit - podobno przyniós³ jakie¶ ciastka. Razem z Uzbadem zostali
+najd³u¿ej
+  - Uzbad - przyjecha³ rowerem, przyniós³ zestaw kluczy do roweru i sprzêt do
+lutowania kabla od czajnika. Image: 100% dworzec centralny, porwane spodnie,
+pobita g³owa
+  - Zerro - gospodarz
+
+Nie przyszli:
+  - Ziutek, Stront, Mateusz Greszta
+
+Alkohole: piwo, wino czerwone, miód pitny
+
+Jedzono: przyniesione ciasta i ciastka, sma¿ony ser zgliwia³y
+
+Po imprezie zosta³o: sporo wina, nawet jedno ca³e, sajgon w mieszkaniu, p³yta
+z mp3-kami Klaya, naprawiono czajnik (kabel)
+Po imprezie uby³o: wody w kranie nie ma, zjedzono ma³± czê¶æ zaplanowanego
+prowiantu.
+
+Teksty:
+- "Ciekawe czy ju¿ wytrze¼wia³em" - Uzbad o 0700, bo mia³ wracaæ rowerem do
+domu
+- "Ja znam Micha³a Segita wiêc niczego siê nie brzydzê" - ok. 2300
+- Uzbad ma daæ Micha³owi Segitowi "Twój Styl". "Mo¿e dam Elle?" - pyta Uzbad.
+"Co ty, przecie¿ to jest dla kobiet"
+
+Akcje:
+- ¶piewanie "sto lat" du¿o razy mimo ¿e to nie s± urodziny
+- ¶piewanie "sto lat" czajnikowi elektrycznemu. "Niech mu gniazdko
+pomy¶lno¶ci nigdy nie zaga¶nie". Na stoj±co w kó³ku, z podawaniem czajnika z
+r±k do r±k.
+- w³o¿enie kolumny do lodówki ¿eby by³a lepsza akustyka
+- robienie zdjêæ przez okno w toalecie z zaskoczenia
+
+Rozrywki:
+- ¶piewanie "Sema Force" z muzyk± z kompa.
+- rano: Zerro (ja) pisze raport (ten), Micha³ Segit czyta "Elle" (wywiad z
+siostr± dziennikarki skandalistki podobnej kubek w kubek do kogo¶ tam) a
+Uzbad "Deltê". W radio "Sema Force"
+
+Party place po imprezie:
+- pot³uczonych naczyñ - 0
+- pustych butelek - 13
+- niepustych butelek - 3
+- pustych puszek - 2
+- wygl±d ogólny: filia Dworca Wschodniego, okolice kaloryferów.
+
+Poprawka: chyba jednak nie zosta³a p³yta Klaya
+
+--------------------------------------------------------------------------
+
+   My¶l± przewodni± by³o "Stoolat! stolat niech ¿yje ¿yje nam."
+
+
+
+
+
+
+
+
+
+
+--------------
+Wlepianie
+raport Ziutka
+--------------
+
+Raport Vlepkowy z dnia 15.12.2002
+
+Przybyli: Aika, Ziutek, Stront (w/g kolejno¶ci przybywania)
+Nieprzybyli usprawiedliwieni wcze¶niej: Frekozoid, YonY, Klay
+Pozostali nieprzybyli: Qwaser, Uzbad, FilipS, Sobol
+
+Plan: Z³apaæ 305, powlapiaæ, nie zmarzn±æ
+Dlaczego: Bo to ostatni dzieñ kursowania mia³ byæ
+
+Trasa: ¦ródmie¶cie-Mokotów- Ursynów-Mokotów-
+¦ródmie¶cie-Vlepkowisko ASP-¦ródmie¶cie
+
+Akcja: 519, 524, 515, 522, 4, 505, 179, 185, 505, 179, 136, 174, 15
+(ostatni przejazd ju¿ bez Aiki)
+
+Potem jeszcze 520 jak Ziutek jecha³ do Jazzgotu na koncert Kroke
+
+Realizacja celu: vlepkowanie +, z³apanie 305 -, niezmarzniêcie +/-
+
+Powód : Bo 305 nie je¼dzi od 14.12. a nie 16.12. jak obiecywa³o ZTM
+: bo by³o zimno i wia³ psotny wiatr
+
+Ciekawostki: Ziutek mia³ nowe vlepki, które wydrukowa³ Stront,
+Aika mia³a zaplecione warkoczyki
+
+Teksty: - "Czyli natura jest vlepkark±?" (Stront filozoficznie na
+ziutkowy tekst
+"Zrobione przez przyrodê, vlepione przez Aikê" dotycz±cy parafrazy
+vlepkowej
+reklamy Hortexu, chodzi³o o przyrodnicze vlepki Aiki).
+- "Nie wiem, czy ten krzywy napis na reklamie Hortexu to przypadek
+czy specjalne
+dzia³anie opto-psychologiczne" (Aika)
+- "Nie mam brzozy w ogródku ale ro¶nie ko³o domu" (Aika na tekst o
+tym, ¿e trzeba
+by do tej vlepki daæ li¶æ brzozy, bo Pani Przyroda by³a w Kajku i
+Kokoszu brzoz±)
+- "W moim palcu u nogi zaczyna siê pewne kr±¿enie" (Aika ogólnie na
+zimno w
+okolicach pêtli Ursynów P³n.)
+- "Jedzie jaki¶ jelly, to mo¿e byæ 179" (Stront na widok
+nadje¿d¿aj±cego autobusu na
+ul. I.Ghandi)
+- "Wszystkie z Che³mskiej" (Stront na widok 503 i 185 na pêtli
+Ursynów P³n.)
+- "Ale Tatu to jest Tatu, wiadomo" (Ziutek w dyskusji o partnerkach
+Bonda i nie tylko
+o nich w 505)
+- "306, to mnie rozczula!" (Stront na widok krañca Ursynów P³n. dla
+306)
+- " I jeszcze ³aweczkê mu dali ¿eby sobie poczeka³" (odpowied¼ Ziutka)
+- "No ba!" (pada³o kilka razy w ró¿nych okoliczno¶ciach)
+
+Ocena dnia ogólna: Raczej gites.
+ 
+
+
+
+
+
+
+
+
+
+-+-+-+-+-+-+-----------------------------------------------------
+: STOPKA
+: wiêcej infiomacji o waszych idolach, zdjêcia z koncertów i
+: niepublikowane nagrania znale¼æ mo¿na pod adresem internetowym:
+: http://www.smutekpodlasia.w.pl/
+-+-+-+-+-+-+------------------------------------------------------
+
+KKKK+

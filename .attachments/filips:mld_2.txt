@@ -1,0 +1,916 @@
+  3:40pm  up  4:06,  3 users,  load average: 0.47, 0.25, 0.20
+32 processes: 29 sleeping, 3 running, 0 zombie, 0 stopped
+CPU states: 17.7% user,  8.6% system,  0.0% nice, 73.6% ugly
+Mem:    46976K av,   45812K used,    1164K free,   35464K shrd,     980K buff
+Swap:   34268K av,    1060K used,   33208K free                   23868K cached
+
+  PID USER     PRI  NI  SIZE  RSS SHARE STAT  LIB %CPU %MEM   TIME COMMAND
+   86 root      13   0   296  272   240 R       0 16.4 20.5   0:51 mld_2
+ 1290 filips    17   0 12020  11M 11876 S       0  7.1  5.5   0:08 chemiogeneza
+ 1296 filips     4   0  1104 1104   916 R       0  1.7  2.3   0:00 kalendarium
+ 1291 elmo       2   0 10640  10M 10512 R       0  1.1 22.6   0:02 rebusy
+    1 filips     0   0   100   96    76 S       0  0.0  0.2   0:04 pleonazmy
+    2 zerro      0   0     0    0     0 SW      0  0.0  0.0   0:04 chlop_fizycy
+    3 elmo       0   0     0    0     0 SW      0  0.0  0.0   0:03 anikieta
+    4 root       0   0     0    0     0 SW      0  0.0  0.0   0:00 kpiod
+    5 zerro      0   0     0    0     0 SW      0  0.0  0.0   0:05 zenek
+    6 zerro      0   0     0    0     0 SW      0  0.0  0.0   0:00 eqinox3
+    7 root       0   0     0    0     0 SW      0  0.0  0.0   0:00 i2oblock
+   53 root       0   0   148    0     0 SW      0  0.0  0.0   0:00 cardmgr
+   66 root       0   0   264  212   180 S       0  0.0  0.4   0:00 syslogd
+   69 root       0   0   524  172   144 S       0  0.0  0.3   0:00 klogd
+   71 root       0   0   100    0     0 SW      0  0.0  0.0   0:00 lpd
+   73 root       0   0   304  280   232 S       0  0.0  0.5   0:00 crond
+   76 daemon     0   0   132   60    52 S       0  0.0  0.1   0:00 atd
+   84 root       0   0   360  348   308 S       0  0.0  0.7   0:00 apmd
+
++----------------+
+|                |
+|  MIEWALIŒMY    | <---latawiec
+|    lepsze dni  |
++----------------+-------------------------xxxxxxxxxxxxxxxxxxx
+
+
+Zin to jest co sie sk³ada z trzech czêœci: FiLipos tutaj coœ pisze a w swojej czêœci Zerro cz³owiek w masce od syreny 105 L a tak¿e swoj¹ czêœæ ma elmo z palermo o którym w gazetach ju¿ pisuj¹ ¿e po œcianach smaruje szablony o treœci takjej jak tytu³ tego zina i ¿e ma chyba racjê to dla nich chodzi³o ¿e kiepskie szablony chyba no nie wiem.
+
+by³a œwietna co tu kryæ jak spikerka lub mis ca³¹ noc nie mog³em spaæ gdy zgodzi³a siê przyjœæ kto móg³ przeczuæ wtedy ¿e tak fatalnie pomyli dni KRZYSZTOF ANTKOWIAK ZWARIOWANE SAM NA SAM TRZECIE MIEJSCE W PLEBISCYCIE MAGAZYNU MUZYCZNEGO RYTM nie dzwoni³em wœciek³y dumny ca³y na nie kto dziœ mo¿e myliæ dni kiedy spotkaæ siê chce a tymczasem lejdi ma ju¿ na zajutrz przyby³a na
+
+a tu filips:
+
+Tytu³  :  Fajans vs. Konfitury / Nu Pagadi Zajac / Fabryka Kaszlu
+Autor  :  filips, filips@irc.pl
+Nak³ad :  1000 + 300 egz.
+
+[ Przed wstêpem: obrazek 1 ]
+
+-------------------------------------------------
+Wstêp wzbroniony
+-------------------------------------------------
+
+Kurde, kicha trochê, bo nie wyrobi³em siê ze wsztskim; a w³aœciwie to jest tylko to co mia³em wczeœniej, czyli: cd. pleonazmów, spis rocznic i obchdów dni ró¿nych, poradnik jak poderwaæ fajn¹ laskê, %recenzja baru mlecznego SADY%, kilka tru story, jak dokuczyæ siostrze?, i g³upie opowiadanie, które jest ma³o œmieszne ale daje do myœlenia (przynajmniej mi). Nie ma natomiast felietonu o namna¿aniu siê wirusów umys³owych. A rysunek to rufusa i mój czêœciowo.
+Przy okazji trochê siê u¿alê na pogodê: ¿e te¿ u nas nie mo¿e siê zkorelowaæ mróz z opadem œniegu: jak jest jedno to nie ma drugiego - i na odwrót.
+I jeszcze uwaga: dodatkowe materia³y dŸwiêkowe do zina bêdzie mo¿na sobie zci¹gn¹æ ze strony http://acid.ch.pw.edu.pl/~filips/npz i dalej -> "materia³y do zina MLD#2" czy coœ takiego. W ka¿dym razie bêdzie wyraŸnie wskazane.
+I proœba jeszcze: nie palcie fajek w windzie, bo potem jak sie jedzie tak¹ wind¹ to mo¿e cz³owieka szlag trafiæ.
+
+Pleonazmy cz II
+--------------------------------------------------------
+* napisane na pismie 
+* napoj do picia 
+* niepijacy abstynent 
+* niewierzacy ateista 
+* niewypelniona luka 
+* ochotniczy wolontariusz 
+* okres czasu 
+* pelny komplet 
+* perwersyjny zboczeniec 
+* plyta kompaktowa CD 
+* podgrzac termicznie 
+* powtorzyc ponownie 
+* prace robocze 
+* realna rzeczywistosc 
+* rekrut z poboru 
+* rezystor oporowy 
+* rownowazny ekwiwalent 
+* sztuczna proteza 
+* w parach po 2 osoby 
+* wadliwy bubel 
+* zadebiutowac po raz pierwszy 
+* zakaczyc sie szczesliwym happyendem 
+* kartka papieru (nowe)
+
+Rocznice:
+--------------------------------------------------------
+
+20 XI 2000 zmar³ Kienoczkin, radz. twórca "Nu Pagadi Zajac"
+27 VI 1954 Uruchomienie 1 elektrowni j¹drowej w Obiñsku w ZSRR
+6  XI 1951 0 14:00 w hali nr 1 FSO - pocz¹tek produkcji samochodu osobowego Syrena albo Warszawa (niewyraŸne notatki)
+20 II 1986 pocz¹tek pracy bazy satelitarnej MIR
+19 IV 1971 pocz¹tek pracy pierwszej bazy satelitarnej Salut 1
+23 IV 2001 Mir koñczy marnie
+
+7  IV   Dzieñ Zdrowia
+20-26 III Œwiatowy tydzieñ M³odzie¿y
+27 III  Miêdzynarodowy Dzieñ Teatru
+7  V    Dzieñ Hutnika
+9  V    Dzieñ Zwyciêstwa
+22 VI   Dzieñ Kultury Fizycznej
+25 VI   Dzieñ Stoczniowca
+2  VII  Dzieñ Spó³dzielczoœci
+27 VIII Dzieñ Energetyka/ te¿ 7 IX
+1  IX   Dzieñ Lotnictwa Polskiego
+10 IX   Dzieñ Kolejarza
+12 X    Dzieñ Wojska Polskiego
+7  XI   Rocznica Wilekiej Rewolucji PaŸdziernikowej
+11-17XI Miêdzynarodowy Tydzieñ Studenta
+20 XI   Dzieñ Nauczyciela
+4  XII  Dzieñ Górnika
+7  VI   Dzieñ Chemika
+2i13 IV Dzieñ Leœnika i Drzewiarza
+
+Tru story 1. Jak S. wysy³a³ fax.
+--------------------------------------------------------
+
+Mia³ S. wys³aæ fax do goœcia gdzieœ w polsce. Zadzwonil do tego goœcia na komórkê, dosta³ numer faxu i wys³a³ to co mia³ wys³aæ. Wszysko posz³o ³adnie. Chwile potem dzwoni ten goœæ i mówi, ¿e ¿adnego faxu nie dosta³. A S. na to, ¿e przecie¿ przed chwil¹ wys³a³. Goœæ przedyktowa³ S. jeszcze raz nr. faksu i okaza³o siê, ¿e S. wys³a³ pod numer ró¿ni¹cy siê ostatni¹ cyfr¹. No to nato koleœ, ¿eby jeszcze raz wys³a³ pod ten w³aœciwy. A S., ¿e mu siê niechce, i ¿e jeœli goœæ chce mieæ te papiery to niech zadzwoni pod ten omy³kowy numer (tam gdzie poszed³ faks od S.), dowie siê, gdzie to jest, pojedzie i odbierze stamt¹d swój faks. I goœæ tak zrobi³, bo mu na tych papierach zale¿a³o.
+
+
+G³upie, jak kto ma czas to niech przeczyta.
+--------------------------------------------------------
+
+Podczas nauki chemii zastanawialem siê zawsze, ze tak na prawde nikt ze studentow, którzy ucz¹ siê wzorów, równañ reakcjii itede nie jest w stanie stwierdziæ, czy ta nauka nie jest jak¹œ bredni¹. No bo co mo¿na powiedzieæ o reakcji np. spalania wêgla: C + O2 -> CO2?  Zbiór literek i cyferek. Czy to ma coœ wspólnego z rzeczywistoœci¹? Mo¿liwe, ¿e nie. Mo¿liwe, ¿e przez lata, ba, nawet setki lat, od zamieszch³ych czasów, kiedy to chemia by³a jeszcze alchemi¹, chemicy wciskaj¹ swoim uczniom przys³owiowy kit. Ca³¹ histria mg³a mieæ np. taki przebieg:
+Dawno dawno temu, kiedy nikt nie wiedzia³ co to jest chemia czy nawet alchemia, a ludziom  tylo bitwy i wojny by³y w g³owie, jeden cz³owiek, Nowak Jakób, syn Wac³awa w wyniku zwolnieñ grupowych znalaz³ siê na przys³owiowym bruku. "Kurde" zakl¹³ "z czegosp³ce kredyt, jaki zaci¹gn¹³em na motorynkê i telewizor w zesz³ym roku?" zatroska³ siê. maj¹c jednak zmys³ do kombinacji i lewych interesów wpad³ na szatañski plan. Zaszed³ na dwór króla i powiedzia³: "Drogi królu! Sypnij grosiwem na badania naukowe, a ja (w wyniku owych badañ) uczyniê ciê najbogatszym cz³owiekiem na œwiecie." "Wietrze przekrêt" odpar³ król "zesz³ej zimy byli u mnie astronomowie. Przyza³em im grant bo obiecali, i¿ zeœl¹ kometê na jednego z moich najwiêkszych wrogów z s¹siedniego królestwa". "Wzywam ich po jakimœ czasie, bo widze, ¿e s¹siednie królestwo nie doœæ ¿e nie znik³o z powierzchni ziemi, to  jeszcze podwoi³o swój PKB/osobê" "Ale¿ królu" - rzekli astronomowie, "odkryliœmy soczewki grawitacyjne, dziêki którym bêdziesz móg³ podgl¹daæ królewnê Honoratê z zamku nieopodal". Lecz nie wiedzieli, i¿ król by³ wierz¹cym-praktykuj¹cym katolikiem i gorszy³y go takie g³upoty, kaza³ wiêc astronomów zci¹æ, a kwestia soczewek grawitacyjnych pozosta³a niewyjaœniona przez najbi¿sze kilkaset lat. Lecz nasz Jakub nie ustawa³ w proœbach i obiecankach: "drogi królu" nalega³, "obiecujê, ¿e w ci¹gu 3 miesiêcy odkryjê gaz musztardowy lub inne podobne paskudztwo, dziêki któremu bêdziesz jeszcze bardzie wszechmocny" - improwizowa³ na poczekaniu. Król przysta³ na te proœby, poniewa¿ bardzo lubi³ jeœæ, a musztarda  z owym w³aœnie mu siê kojarzy³a. Kaza³ wyp³aciæ m³odzieñcowi 300talarów z³otem i zawezwaæ za 3 miesi¹ce celem przedstawienia wyników badañ. I tak siê zaczê³o, król, ¿e by³ stary, nied³ugo zmar³, Jakubowi osta³a siê kanciapa w zamku, w której przeprowadza³ rzekome eksperymenty. Nowy król nie by³ zbytnio zorientowany w kwestii finansów a i popszedni zapomnia³ skreœliæ z listy p³ac naszego Jakuba. Dostawa³ wiêc on raz na 3 miesi¹ce po 300talarów z³otem. Nikt ju¿ nie pamiêta³, co Jakub obieca³ królowi i co mia³ robiæ w owej kanciapie. Generalnie po królestwie chodzi³y ploty, ¿e jest taki jeden co nic nie robi i dostaje kasê. Nie minê³o wiele czasu a do Jakuba zaczêli zg³aszaæ siê czeladnicy na praktykê. Có¿ mia³ biedy zrobiæ - ¿eby prawda nie wysz³a na jaw, naucza³ czeladników g³upot typu A + B -> C itede. Na potwierdzenie swoich teorii od czasu do czasu przelewa³ zielony p³yn z jednego naczynia do drugiego i jego ewentualna zmiana koloru czy nawet brak tej zmiany potwierdzaæ mia³ teoriê. Machina zaczê³a siê rozrastaæ - powstawa³y nowe teorie, wyniki eksperymentów naginano. Uczniowie poszli w œwiat i nauczali kolejne pokolenia nieœwiadomych manipulacji praktykantów. Jak jest dziœ - ka¿dy widzi: miliony chemików (bo tak¹ nazwê przybrali uczniowie wielkiego Jakuba) pracuj¹cy w tysi¹cach laboratoriów na ca³ym globie. Pañstwo utrzymuje wydzia³y chemiczne wy¿szych uczelni, ca³e zastêpy kwazinaukowców przekazuj¹ tê nikomu niepotrzebn¹ i ca³kowicie zmyœlon¹ wiedzê. Jedynie wy¿sza kadra profesorska, która zorientowa³a siê w fikcyjnoœci tej nauki,  kontynuuje maskaradê swoich poprzedników, kszta³c¹c coraz to nowe rzesze adeptów tej, m¿na by rzec, szatañskiej dyscypliny."
+
+
+Tzw Rzeczywistoœæ.
+--------------------------------------------------------
+
+Ciekawym rozdzia³em rzeczywstoœci s¹ teksty które umieszczli sobie kierowcy MZK w kabinach swoich ikarusów. Np. "¿¹dasz czystoœci zachowaj j¹ sam" albo "twoja czystoœæ œwiadectwem twojej kultury". itede.
+Jeszcze jedn¹ fajn¹ rzecz¹ by³o by robienie bazy danych g³upich pytañ nie zadanych na laborkach. Bo wiecie pewnie, ¿e czêsto przychodz¹ wtedy g³upie rzeczy do ³ba, jak siê nie wie, jaki kabel gdzie pod³¹czyæ albo co do czego dodaæ i w jakiej kolejnoœci. No i potem przedstawiæ to prowadz¹cemu i obserwowaæ jak go trafia szlag.
+
+Tru story 2
+--------------------------------------------------------
+
+* na klatce schodowej u brata widzialem ladnie wydrukowany napis:
+"nie trzep workow od odkurzacza - szanuj prace gospodarza"
+* wiele osób nie wie co to jest kompot. nie wiedz¹ oni, ¿e mo¿na obraæ owoce, pogotowaæ w ocukrzonej wodzie i otrzymaæ w³aœnie kompot.
+* jak sobol przys³a³ smsa, ¿e ktoœtam zjad³ 15 deko szynki bez chleba, to ja nabiera³em znajomych ¿e mam w komórce centrum dowodzenia œwiatem i wiem co siê gdzie dzieje.
+* "Ja myslalem, ze dzisiaj na wykladzie umre. Wracajac zasnalem w kolejce i dralowalem na piechote kilka stacji przez ciemny bagnisty las." pisze rufus.
+
+
+Depesza
+----------------------------------------
+
+PAP, 20.XI.2000
+Wiaczes³aw Kotienoczkin, twórca s³ynnego rosyjskiego filmu rysunkowego "Nu, pogodi", zmar³ w Moskwie po ciê¿kiej chorobie w wieku 74 lat.
+
+
+Poradnik m³odzie¿owy #1 - Jak poderwaæ fajn¹ laskê
+------------------------------------------------------------
+
+¯adna laska nie da siê ju¿ poderwaæ "na litoœæ", "na kase", "na woln¹ chatê" itede. Takie oto plugawe czasy nasta³y. I tu odpowiemy na zapotrzebowanie spo³eczne i przedstawimy niepublikowany dot¹d nowatorski sposób podrywania "na sokoli wzrok".
+Otórz: umawiamy siê z lask¹ na przystanku komunikacji miejskiej. Na spotkanie przychodzimy nieco wczeœniej i uczymy siê na pamiêæ rozk³adu autobusów maj¹cych przyjechaæ w ci¹gu nastêpnych 30 minut od momentu spotkania. Gdy laska przychodzi przystêpujemy do dzia³ania. Gdy tylko na horyzoncie zaczyna majaczyæ kszta³t autobusu, my dyskretnie spogl¹damy na zegarek, przypominamy sobie rozk³ad - co o tej porze mia³o przyjechaæ i mówimy niby od niechcenia "116" (na przyk³ad). Gdy rzeczywiœcie podje¿d¿a 116 laska jest nasza ("Kotku, jaki masz wspania³y wzrok!"). ¯eby jeszcze bardziej przechyliæ szalê zwyciêstwa na nasz¹ stronê i zaimponowaæ niewiaœcie wiedz¹ fahow¹ uczymy siê dodatkowo tras maj¹cych nadjechaæ autobusów i w kluczowym momêcie dodajemy sucho "116 jedzie z Woli na Goc³aw. Staje przy elektrociep³owni". I laska nasza.
+
+We/Wy cz 1
+------------------------------------------------------------
+
+filips:
+>Mam Q: czy wiesz, gdzie mozna kupic talezyki do kijkow od biegowek? bo z 
+>tego co pa3lem to jest ich jak na lekarstwo.
+
+seg:
+>Nie wiem, ale trzeba poszukac.
+
+filips:
+>ja bylem na gieldzie, ale nie bylo, w ogole nendznie z biegowkami, kilka i 
+>to uzywanych i stare wiazania. pytalem po sklepach ale nigdzie nie ma.
+
+seg:
+>To moze zamien fabryke kaszlu na manufakture talerzykow, bedzie z
+>pozytkiem dla spoleczenstwa ;/
+
+
+Manual: jak dokuczyæ siostrze?
+------------------------------------------------------------
+Sobol pisa³ ¿e przezywa siostrê "cienkopis". Ja robie co innego. Np. udaje ¿e nie rozumiem dowcipów które opowiada. Tzn gdy ona skoñczy, ja zaczynam siê œmiaæ, ale potem mówie coœ z czego wynika ¿e nie zrozumia³em dowcipu. Na przyk³ad dowcip "przychodi baba do lekarza a lekarz te¿ baba". "Hahaha - dobre!" - zaczynam siê œmiaæ (tu siostra zadowolona ¿e siê jej uda³o opowiedzieæ dowcip) lecz ja od razu dodaje "hahaha, dobre! Bo ten lekarz by³ mê¿em tej baby! hahaha!". No i siostra siê wkurza, mówi "g³upi jesteœ" i wychodzi.
+Sposób drugi: tandetnie udaje ró¿ne rzeczy. Np. tandetnie udaje ¿e chcê j¹ przestraszyæ: chowam siê za drzwiami, ale tak niezdarnie (niby) ¿eby mnie by³o widaæ i s³ychaæ. No i stoje i udaje ¿e chcê j¹ przestraszyæ. I siostra siê wtedy wkurza, mówi "g³upi jesteœ" i wychodzi.
+
+We/Wy cz. 2
+----------------------------------------
+
+> >wiec jak ktos chce to moge nagrac na szpule lub na MC (ewentulanie na
+> >CD)
+ 
+> a wypalarki do winyli nie masz?
+
+nie.. ale moge wytloczyc blache do katarynki...
+
+
+Opowiadanie m³odzie¿owe
+----------------------------------------
+
+Dawno, dawno temu, kiedy na ziemi dopiero rodzi³o siê ¿ycie, w odleg³ej galaktyce alfa-g-140041238/223b istnia³a ma³a planeta, rozmiarami przypominaj¹ca ziemiê. Zamieszkiwa³y j¹ istoty wielce rozumne, o œrednim IQ=3467,3; W takiej sytuacji, spo³eczeñstwo to by³o bardzo rozwiniête - ju¿ dawno wymyœlili ko³o, telewizor, l¹dowanie cz³owieka w kosmosie, LP, MC, CD itede. Jeszcze wczeœniej odkryli, ¿e a^2+b^2=c^2 i ¿e E=mc^2. W takiej sytuacji, po pewnym czasie ich naukowcy prawie nie mieli ju¿ co odkrywaæ, bo prawie wszystko, co by³o do wymyœlenia i odkrycia ju¿ dawno by³o wiadomo. Zatroskali siê wszyscy wielce, a zw³aszcza Komitet Badañ Naukowych. Prezes KBN zakl¹³ "do licha, jak nie bêdzie badañ to nam rz¹d obetnie dotacje, wszyscy pójdziemy z torbami i do koñca ¿ycia bêdziemy makulature ze œmietników zbieraæ coby nam na chleb starczy³o". Zebra³a siê rada naukowa i poczê³a radziæ co z tym problemem uczyniæ. Poniewa¿ jak ju¿ pisa³em istoty te mia³y wysokie IQ to ju¿ po 1,32E-02 sekundzie mieli gotowe rozwi¹zanie: nale¿y centralnie planowaæ postêp techniczny. I tak zaplanowano ¿e np. (bo nale¿y nadmieniæ, ¿e w³aœnie trwa³y prace nad niebieskim laserem i p³yt¹ DVD) najpierw p³yty DVD bêd¹ kwadratowe, potem natomiast naukowcy odkryj¹, ¿e p³yty powinny byæ okr¹g³e. itede.
+
+
+Z cyklu "Jad³em w": "Jad³em w Barze Mlecznym >>SADY<<"
+--------------------------------------------------------
+
+Wracaj¹c z wycieczki do Polfy Tarchomin zachaczyliœmy o Sady ¯oliborskie - taki park na ¯oliborzu. Idziemy w stronê parku, a tam... bar mleczny!!! Od³o¿yliœmy zatem wizytê w parku i natychmiast udaliœmy siê zlustrowaæ ów punkt gastronomiczny.
+
+Ca³oœæ znajduje siê w parterowym budynku o ciekawej architekturze i spadzistym dachu. Nad drzwiami - zamiast modnego onegdaj neonu - wyciête z blachy logo "SADY". W œrodku wita nas mi³a atmosfera - wieszak na ubrania wraz z utrzymajk¹ na parasole, 4osobowe stoliki przykryte szk³em i du¿o zieleni. Po pobraniu tacki udajemy siê po odbiór posi³ku, a nastêpnie do kasy (a nie jak to jest zwykle na odwrót). Wybór jest b. du¿y - od koktajlu owocowo-kefirowego do tradycyjnych dañ barowych. Po uiszczeniu rachunku w kasie zasiadamy w wygodnych krzes³ach i oddajemy siê konsumpcji. W s³oneczne przedpo³udnia klimat nie ma sobie równych - cisza i spokój, z dala od wielkomiejskiego poœpiechu. Bardzo dobrze dobrana kolorystyka wnêtrza.
+Ceny umiarkowane: 
+Fasolka po bret. 3,01
+kasza gryczana z t³uszczem 1,63
+koktajl œmiet-wiœniowy 3,26
+koktajl kefirowo-truskawkowy 2,74
+bigos 3,18
+mleko ciep³e 0,70
+galaretka 1,10
+pomidorowa z ry¿em 1,36
+Co wa¿nie i ciekawe: nie ma pierogów ruskich
+Na korzyœæ baru dzia³a mi³a obs³uga która pomo¿e niezdecydowanym dobraæ po¿ywne i zdrowe menu.
+
+Namiary:
+BAR SADY, WSS Spo³em ¯oliborz. Krasiñskiego 36 - dojazd tramwajem (nr 16,19,22,29,33,35) do ul Broniewskiego - przystanek Sady ¯oliborskie.
+czynny Pon-Pi¹ 7-19, Nie-Œwiê 9-17
+
+Z³oœci Sega odcinek 1
+--------------------------------------------------------
+
+> ej, ja ich nie mam!!!!!!!!!! (powaga)
+
+to masz je miec
+jak nie, to osobiscie sie pojawie na pw i przemodeluje ci tylek!!!
+(powaga!) to ma za duza wartosc, zebys sobie lache kladl!!!
+
+
+Zadanie dla pogramistów
+--------------------------------------------------------
+
+¯eby tak napisaæ program do rozwi¹zywania sup³ow. Wprowadza siê dane dot. sup³a a on mówi jak najlepiej taki supe³ rozwi¹zaæ.
+
+
+Pos³owie
+--------------------------------------------------------
+
+Przesy³am pozdrowienia: Gosi, Fabryce Kaszlu, Smutkowi podlasia, grupie japoñskie_fotosy i zarys psychiki karola N., Marioli ¿e tak ³adnie siê nagra³, Micha³owi Segitowi (wiemy za co?), sibilowi za wyt³oczenie blach, rufusowi ("...? - to by³a by patologia w moim domu").
+
+
+======================dr¿yjcie-bo-oto-nadchodzi
+
+                -^-
+               {   } ZERRO tu jego czêœæ
+                \ /
+                     SIÊ ZACZYNA!!!
+
+\begin {ZERRO}
+
+
+\* JAK CH£OP MAGISTRÓW PRZECHYTRZY£
+   --------------------------------  *\
+
+Dziœ w dzia³ce "Jak ch³op magistrów przechytrzy³" bêd¹ moje przemyœlenia fizyczne.
+
+\begin {fizyka {1.fiz altern}}
+
+(*) 16 Sep 2000 napisa³em na pl.sci.fizyka:
+From sobol@main.wsm.szczecin.pl Sat Sep 16 13:27:40 2000
+
+Od ca³kiem dawna zastanawia³em siê, czy mo¿liwe by³oby stworzenie
+alternatywnej fizyki. Tj. fizyki która by³aby inna ni¿ ta nasza ale
+dawa³aby generalnie nie gorsze przewidywania.
+SoBoL
+
+(*) Na co vdron_@ent__.___.pl  dnia Sat Sep 16 22:41:18 2000 odpisa³:
+
+Hehe!
+Pomys³ mi siê podoba. :)) Wywali³bym teorie Einsteina i wprowadzi³
+jednolity pomiar czasu dla wszystkich uk³adów. ;))
+Co ty na to Delfino D.? :))
+
+Pozdrawiam
+Marcin
+
+(*) Wspomniany Delfino odpisa³:
+From Delfino@______.com Sun Sep 17 01:28:22 2000
+
+lol :)
+
+uhmm... ale zawsze mi sie wydawalo, ze fizyka ma opisywac
+rzeczywistosc, a nie j¹ kreowaæ
+                   Delfino
+
+(*) Na co ja odpisa³em:
+From sobol@main.wsm.szczecin.pl Tue Sep 19 14:14:10 2000
+>uhmm... ale zawsze mi sie wydawalo, ze fizyka ma opisywac
+>rzeczywistosc, a nie ja kreowac=20
+Przypuœæmy.
+Ale opisuje tworz¹c modele.
+Modele nie s¹ rzeczywistoœci¹.
+Dla przyk³adu: w fizyce czêsto mówi siê o si³ach. Ale si³y nie s¹
+przecie¿ realnymi bytami (cokolwiek by to oznacza³o)(chyba).
+Zastanawiam siê tylko czy nie jesteœmy tu ograniczeni naszymi mózgami,
+których sposób dzia³ania (mo¿e) nie pozwala nam tworzyæ jakichœ modeli
+i narzuca inne. Ale nie wiem.
+S0B0L
+
+(*) I w koñcu ktoœ odpowiedzia³ z g³ow¹:
+From gora@__.__.edu.pl Mon Sep 18 14:11:52 2000
+Sobol wrote:
+> 
+> od ca³kiem dawna zastanawia³em siê, czy mo¿liwe by³oby stworzenie
+> alternatywnej fizyki. Tj fizyki która by³aby inna ni¿ ta nasza ale
+> dawa³aby generalnie nie gorsze przewidywania.
+
+In principio, mo¿liwe. W praktyce mog³oby to jednak byæ doœæ trudne
+(uzyskaæ "generalnie niegorsze przewidywania" w przypadku takiej QED
+by³oby bardzo nietrywialne). Najlepsz¹ odpowiedzi¹ na pytanie "czy
+mo¿na" jest spróbowaæ j¹ zrobiæ.
+
+Tu jednak ma³a uwaga: Trzeba mieæ dobry pukt wyjœcia. Konstatacja
+w rodzaju "obalmy STW, bo nie podoba mi siê sta³oœæ prêdkoœci
+œwiat³a" _na_ogó³_ nie jest dobrym punktem wyjœcia - ale oczywiœcie
+nie mozna niczego wykluczyæ. Tylko trzeba osi¹gn¹æ "generalnie
+niegorsze przewidywania" na BARDZO szczegó³owym poziomie ;-)
+
+Pawe³ G____
+Institute of Physics, Jagellonian University, Cracow, Poland
+
+(*) Dalej nast¹pi³ post taki:
+From mck_y@____.wroc.pl Mon Sep 18 15:09:58 2000
+Sobol wrote:
+ 
+> od ca³kiem dawna zastanawia³em siê, czy mo¿liwe by³oby stworzenie
+> alternatywnej fizyki. Tj fizyki która by³aby inna ni¿ ta nasza ale
+> dawa³aby generalnie nie gorsze przewidywania.
+
+Proby takie juz sa, wystarczy nieco sie rozejrzec w roznych pracach,
+bibliotekach oraz oczywiscie na sieci :)
+
+- teoria "zero-point energy"
+- teoria miedzywymiarowosci
+- teorie nowoczesnego eteru
+
+Jest tego kilka co najmniej.
+Problem w tym, ze aby je uznano potrzebne sa fundusze na badania je
+potwierdzajace. Niestety - fundusze przeznacza sie na badania teorii
+obowiazujacych, wiec nalezy uzyc jakiegos fortelu.
+
+> SoBoL
+ 
+Szanowanko
+                -=+McKey+=-
+
+(*) Dyskusjê zakoñczy³ niejaki n stwierdzaj¹c (nie uzasadniaj¹c jednak swojej wypowiedzi), ¿e:
+From n@___.krakow.pl Tue Sep 19 13:45:20 2000
+"Sobol" <sobol@main.wsm.szczecin.pl> wrote:
+> od ca³kiem dawna zastanawia³em siê, czy mo¿liwe by³oby stworzenie
+> alternatywnej fizyki. Tj fizyki która by³aby inna ni¿ ta nasza ale
+> dawa³aby generalnie nie gorsze przewidywania.
+
+I owszem!
+
+Tylko ze taka, jaka jest, poki co jest najprostsza
+(chociaz dla wiekszosci zbyt zagmatwana).
+
+[0:07] Decoding of bijelo dugme -  milicija trenira strogocu.mp3 finished.
+
+dwa dni dwa dni na topie serce jest znów na tak jej twarz jej g³os jej dotyk sprawia ¿e pojaœnia³ œwiat ta gra te¿ ma swych fanów PAPA DANCE MAXI SINGIEL ach gdzie te dni na topie ¿ycie tonie bilbord znów szaro jak w nonstopie intryg sieæ trochê starych zdjêæ
+
+Title  : Maxi singiel                    Artist: Papa dance
+Album  :                                 Year  :
+Comment: Made by D.J. Dzier¿awa Jacek    Genre : Unknown
+
+Directory: /cdrom/papa dance/
+Playing MPEG stream from Papa Dance - Maxi singiel.mp3 ...
+MPEG 1.0 layer III, 160 kbit/s, 44100 Hz stereo
+
+
+---------------[Z]-----[0]
+                |       |               /---------------|
+                |       |             /                |
+                |       +-------------  nasi faworyci  |
+                |                     \                |
+                |                       \---------------|
+NASI-FAWORYCI---+
+------------+
+
+Dziœ w dziale "Nasi faworyci" chcia³bym opisaæ cygañski zespó³ "Ka³e Ba³a". Dla mnie siê on spodoba³ zaraz jak go zobaczy³em w telewizorze. Jak wiêc z tego wynika, jest to powa¿ny zespó³, wystêpuj¹cy w "Telewizji Polonia". Zespó³ ten ma œwietny ima¿, i za to ich lubiê. (Graj¹ te¿ nieŸle, ale to nie wszystko). Zacznijmy wed³ug wieku: Na g³owê zaspo³u wygl¹da tam dla mnie koleœ co gra na dzbanie, bo jest najstarszy. Siedzi na krzeœle, ma swoje lata i gra na glinianym dzbanie, ale wygl¹da jak goœæ co w drewutni klepie miedziane patelnie, s¹siedzi dzwoni¹ na policjê: "Panie, spokoju z tym cyganem nie ma, ci¹gle ha³asy a tu przecie¿ ludzie z ma³ymi dzieæmi mieszkaj¹", a co on ma robiæ, z tych patelni ¿yje, sprzedaje je potem na rynku, nie ma to w³aœnie jak taka solidna cygañska patelnia, rêcznie wyklepana, co ma swój ciê¿ar; nie to, co te aluminiowe z supersamu, niby z teflonem a ci¹gle przypalaj¹, lekkie z cienkiej blachy jakby cz³owiek na puszce od mielonki sma¿y³. Syn wymyœli³, ¿e ojciec bêdzie gra³ na dzbanie, bo to dobry instrument, ojciec ca³e ¿ycie w te patelnie klepa³ to ca³kiem zrêcznie teraz rytm trzyma, a jak siê nawet zgubi na chwilê, to po prostu tylko udaje, ¿e stuka, ró¿nicy i tak od razu nie s³ychaæ, ¿e dzban umilk³.
+ ¯ona (z tego co pamiêtam) gra na ³y¿kach (bo ktoœ gra³, wiêc tak mi wychodzi, ¿e to ta ¿ona, taka konkretna przy sobie Cyganka, co wygl¹da jakby ci¹ga³a co popo³udnie za w³osy swoj¹ córkê, co nie ma zbyt bystrej miny, skoñczy³a tylko dwie klasy podstawówki, gdzie siê w³óczy³aœ ca³y dzieñ? krzyczy na ni¹ w³aœnie matka, znowu dziœ nie posz³a wró¿yæ, zreszt¹ nie ma g³owy ¿eby siê nauczyæ wró¿yæ, tylko do ch³opaków to ma g³owê). No a ta córka œpiewa na wokalu. 
+Ale najlepszy to jest chyba syn bez zêba z prawej z góry; ubrany jest w coœ dresopodobnego i mokasyny; gra na kontrabasie. On to chyba po koncercie znowu wraca pod sklep jubilerski z³ote obr¹czki sprzedawaæ.
+ Zespó³ "Ka³e Ba³a" jest bardzo fajnym zespo³em i ka¿demu polecam obejrzeæ go w telewizorze jak znowu bêdzie. 
+
+
+---------------------------------------
+                                [w³aœnie tutaj piszê o machinie
+                                                     cierpienia]
+
+            Zag³ada cywilizacji Equinox 3
+------------                             -----------------
+
+Pamiêtacie cywilizacjê Equinox? To ona posiada³a i utraci³a kupê, która nastêpnie przynios³a z³o i cierpienie na Ziemiê (patrz slajdofilm "Porwanie Kupy"). By³a te¿ cywilizacja Equinox2 czyli cywilizacja meneli, wywodz¹ca siê od rebeliantów od mutanta Edwarda (patrz zin "GMRiLA#3 czy 4").
+Parê miliardów lat póŸniej, kiedy o tamtych cywilizacjach nikt ju¿ niemal nie pamiêta³ (mo¿e wymar³y, mo¿e wyewoluowa³y w coœ innego, a mo¿e po prostu doros³y i ka¿dy poszed³ swoj¹ drog¹ - tak zwykle koñcz¹ cywilizacje); no wiêc dawno dawno potem powsta³a cywilizacja Equinox3. Tak jak ka¿da cywilizacja mia³a ona swój czas m³odzieñczy, czas budowy zrêbów cywilizacji, czas tworzenia kultury i wzorców; póŸniej przyszed³ wiek doros³y - czas poddawania próbie podstaw, na których stoi cywilizacja, czas odrzucania i zaprzeczania, czas tworzenia czegoœ nowego, czas ca³onocnego picia wódki i domalowywania w¹sów pos¹gom. A potem przysz³a zag³ada.
+Kiedy sta³o siê jasne, ¿e bliska jest chwila zag³ady cywilizacja Equinox3 postanowi³a stworzyæ coœ, co uczyni j¹ nieœmierteln¹ - postanowi³a zemœciæ siê, a poniewa¿ ich zag³adzie nikt nie by³ winny, postanowi³a zemœciæ siê na niewinnych - stworzyli wiêc machinê cierpienia.
+Machina cierpienia zbudowana na ksiê¿ycu K1, kr¹¿¹cym wokó³ legendarnej planety Equinox2, (czyli Brignatki) jest wielkim bioagregatem. Na podstawie informacji zgromadzonych w banku genów, mieszcz¹cym siê w samym j¹drze ksiê¿yca, tworzone s¹ w embrionariach p³ody wszelkich mo¿liwych gatunków czuj¹cych. P³ody te rozwijaj¹ siê pod³¹czone do od¿ywiaczy pompuj¹cych w ich cia³a niezbêdne œrodki od¿ywcze, rosn¹ i ca³e d³ugie ¿ycie spêdzaj¹ zamkniête w komorach istnienia, pod³¹czone do elektrod parali¿uj¹cych ich miêœnie uniemo¿liwiaj¹c ka¿d¹ próbê ucieczki. Jeden jest cel ich ¿ycia - cierpienie; cierpienie które dzieñ i noc zadaj¹ im roboty torturuj¹ce, które bez przerwy przypalaj¹ ich cia³o ogniem i substancjami chemicznymi, dra¿ni¹ pr¹dem, wierc¹ koœci i zêby, mia¿d¿¹ i rozrywaj¹ miêœnie i œciêgna, zmieniaj¹ skórê w zwêglon¹ szmatê, podczas kiedy komputery medyczne na bie¿¹co badaj¹ stan zdrowia obiektów t³ocz¹c w ich ¿y³y lekarstwo tak, by ca³y czas utrzymywaæ ich przy ¿yciu i œwiadomoœci, by nawet krótkie omdlenie nie przerwa³o ich udrêki. I istot tych s¹ miliardy - ca³y ksiê¿yc pokryty niekoñcz¹cymi siê polami egzystencjonarii.
+W ten sposób imiê cywilizacji Equinox3 nigdy nie zostanie zapomniane - w nieskoñczonoœæ przeklinane miliardami ust.
+
+
+#kto to jest franek hafka sk¹d siê wzi¹³ i jaka jest jego rola w dziejach œwiata kto go obudzi³ pewnej jesiennej nocy
+
+
+Franek Hafka, czyli 18:tka u Elma  \index {18tka uelma}
+------------
+
+Trzeba wspomnieæ o Franku Hafce, którego nie znam. Los zetkn¹³ nas ze sob¹ pewnego jesiennego wieczoru i prawdopodobnie na tym nasza znajomoœæ siê skoñczy³a.
+By³o to wtedy, kiedy Elmo zaprosi³ ¿eby do niego przye¿d¿aæ na osiemnastkê. Pojechaliœmy z Filipsem i Gosi¹ poci¹giem przez Lublin i Che³m, ró¿ne przygody, to jakiegoœ poci¹gu nie by³o, to jakiœ okaza³o siê ¿e rozdzielany a my wsiedliœmy do niew³aœciwej czêœci; koniec koñców - utknêliœmy w Che³mie, 60 km od party place. Dzwonimy na komórkê, oni mówi¹: "No co wy, ch³opaki, przyje¿d¿ajcie, tu impreza w toku, jest weso³o", ale my utkniêci. Wtedy w³aœnie jeden ch³opak z imprezy powiedzia³: "IdŸcie wy na ulicê Graniczn¹ 6/3 i znajdŸcie Franka Hafkê, ona was dowiezie do Zamoœcia" (a to 60 km), pytamy "No jak to dowiezie?" - "A, bo jemu matka mia³a w zesz³e wakacje kupiæ samochód, to jak kupi³a to was dowiezie". A to by³a godzina 2200. Zaszliœmy tam, by³a 2230, jakaœ kamieniczka, na klatce ciemno wiêc oœwietlam sobie twarz zapalniczk¹ i dzwoniê. Otwiera jakiœ kolo "Dzieñ dobry, czy jest Franek" - "Tak" - "Czy moglibyœmy z nim porozmawiaæ" - "A w jakiej sprawie" - "A czy Franek œpi" - "Tak" - "A to my nie bêdziemy przeszkadzaæ, to nic wa¿nego". I idziemy sobie, a tam z okna "Czekajcie!", no i wychodzi Franek Hafka, ale nie poznaje nas (bo jak mia³by poznaæ).
+E, nie chce mi siê ju¿ dalej pisaæ. Ot taka to historia z ¿ycia.
+
+cat /dev/urandom > /dev/dsp
+
+      )(__)(__)(
+     {          }
+--------------------PrzEGL¹D MONARchISTYczNY
+Dynastia Jagiellonów nigdy nie przesta³a panowaæ. Po dziœ dzieñ kolejni potomkowie W³adys³awa Jagie³³y s¹ królami, ale przemiany polityczne stopniowo doprowadza³y do tego, ¿e król mia³ coraz mniejsz¹ w³adzê; w miarê jak traci³ j¹ na rzecz rz¹du, parlamentu i rad ziemskich stawa³ siê jedynie ozdobnym dodatkiem do imprez pañstwowych; w miarê postêpów tego procesu kolejni królowie ulegali coraz to dalej id¹cej degeneracji.
+Obecnie mi³oœciwie panuje nam król menel.
+Król menel ca³e dni spêdza za winklem z innymi menelami i tak jak oni jest brudny, zaroœniêty i pachnie sikami. Od innych meneli odró¿nia go to, ¿e ma z³ot¹ koronê, ber³o i purpurowy p³aszcz. Nieraz jak siê napije to zdarzy mu siê gdzieœ u dziwek zapodziaæ ber³o i koronê, ale zaraz na drugi dzieñ jak tylko ktoœ znajdzie insygnia to mu oddaje; bo wszyscy maj¹ dla niego uwa¿anie jako dla króla. Król menel ma dobrze, bo od pañstwa co miesi¹c dostaje 3000 z³otych, wiêc nigdy jeszcze nie chodzi³ do roboty. Bywa, ¿e przyje¿d¿a delegacja z innego kraju, np. z USA i trzeba znaleŸæ króla, ¿eby ich przywita³ - wtedy policja zwija go z dworca albo z jakiejœ mety i dostarcza go na miejsce uroczystoœci.
+Jak¿e piêkny i majestatyczny jest król menel, kiedy zamroczony alkoholem zatacza siê na ulicy, w przekrzywionej koronie i ob³oconym purpurowym p³aszczu! Ludzie z podziwem patrz¹, jak w bia³y dzieñ le¿y na œmietniku, rzyga marchewk¹ i bluŸnierczo œpiewa hymn pañstwowy. W takich chwilach uosabia on ka¿dego obywatela swojego pañstwa - wiêcej - ka¿dego cz³owieka, zawieszonego miêdzy wznios³ym szaleñstwem ducha a upodleniem które przynosi materia...
+
+--piosenka-króla-menela
+{
+	król menel ju¿ siê zbli¿a
+	ju¿ puka do mych drzwi
+	o suchy chleb mnie prosi
+	a w rêku ber³o tkwi
+}
+
+......................................................
+Z cyklu:               .................dziadek.gada..
+                       .................oma³yszu......
+<Z dziadkowych bajañ>  .................historie......
+...czyli spotkania z podaniami co kr¹¿¹ wœród gminu
+
+Dzisiaj bêdzie:
+
+-( Legendy i powiastki ludowe o Adamie Ma³yszu )-
+
+Rozmawiam z Antonim K. z Bia³egostoku:
+- Pan to m³ody jeszcze jest, to pan tego nie pamiêta, ale mi mój dziadek nieraz o tym opowiada³ jak¿eœmy z mlekiem do mleczarni jeŸdzili (siedzia³em obok niego na furze i jak wracaliœmy to mi nieraz dziadek dawa³ lejce ¿ebym trochê pokierowa³; bo koniem to i dziecko pokieruje, nie to co samochodem; koñ to i sam do domu nawet trafi jak woŸnica pijany zaœnie. A wczeœnie rano to by³o - bo o takiej porze trzeba by³o mleko zawoziæ, no to jak wróciliœmy toœmy zawsze kluski lane jedli. A ile ja wtedy mog³em mieæ lat - piêæ? E, chyba nie czwarty rok mi szed³ jak babka nogê z³ama³a i dziedek musia³ ostatni¹ krowê sprzedaæ...).
+Bo dziwi¹ siê nieraz ludzie sk¹d siê wzi¹³ ten hydrant na Lipowej, tam naprzeciw poczty. A nie ka¿dy wie (jak to mi mój dziadek opowiada³, ten w³aœnie co o nim mówi³em, ¿e te mleko z nim wozi³em) o tym, ¿e kiedyœ Adam Ma³ysz trenowa³ pod Bia³ymstokiem, bo tu do dziewczyny jeŸdzi³. No i wraca³ on kiedyœ z treningu, a strasznie by³ zmordowany i piæ mu siê chcia³o - a tu wszystkie sklepy pozamykane i nie by³o gdzie orê¿ady kupiæ. Wtedy Adam Ma³ysz uderzy³ kijem narciarskim w ziemiê, a w tym miejscu, gdzie uderzy³, wytrysnê³o Ÿróde³ko. Niezad³ugo potem ludzie postawili tam hydrant, no i stoi on do dziœ. 
+A jak ktoœ jest chory albo niedomaga to jak siê tej wody napije to zaraz mu przechodzi.
+
+.ELF...................................................................
+---telewizor fotel fotel stó³ krzes³o kawa³ek krzes³a mp3 laptop lustra
+---wszystko przejdzie
+---na heñka miklasa
+
+-rwxr-xr-x   1 root     bin         55247 May 13  2000 setup.tty
+-rwxr-xr-x   1 root     bin         14744 May 17  2000 shutdown
+-rwxr-xr-x   1 root     root       978823 Mar 20  2000 sln
+-rwxr-xr-x   1 root     root        16416 Jun 18  2000 sulogin
+lrwxrwxrwx   1 root     root            4 Apr  8 06:05 swapdev -> rdev
+lrwxrwxrwx   1 root     root            6 Apr  8 06:05 swapoff -> swapon
+
+
+Kiedyœ w serialu "Serce Clarity" ("Luz Clarita") panem domu by³ pan Mariano de la Fuente; a jego syn nazywa³ siê Jose Mariano de la Fuente. Nasunê³o mi to myœl, ¿eby przerobiæ "Paw³a i Gaw³a" na wersjê serialu brazylijskiego.
+
+
+Pan Mariano de la Fuente i Jose Mariano de la Fuente w jednym stali domu
+Pan Mariano de la Fuente na górze a Jose Mariano de la Fuente na dole
+Pan Mariano de la Fuente spokojny, nie wadzil nikomu
+Jose Mariano de la Fuente najdziksze wyprawia³ swawole
+(..)
+To pies to zaj¹c miedzy stoly sto³ki
+Biega poluje wywraca kozio³ki
+Znosi³ to Pan Mariano de la Fuente - nareszcie nie moze
+Schodzi wiec na dol i mowi w pokorze
+"Zmiluj sie Jose, poluj ciszej nieco
+Bo mi na górze szyby z okien lec¹"
+A Jose Mariano de la Fuente na to "Wolnoæ Tomku w swoim domku"
+
+Nazajutrz Jose Mariano de la Fuente smacznie sobie chrapie
+A tu z powa³y coœ mu na ³eb kapie
+Wstaje wiec z ³ó¿ka i biegnie na górê
+Stuk-puk - zamkniête. Spogl¹da przez dziurê
+I có¿ tam widzi. Ca³y pokój w wodzie
+A pan Mariano de la Fuente z wêdk¹ siedzi na komodzie.
+"Coz wacpan robisz?" - "Ryby sobie lowie"
+"Alez mospanie! Mnie kapie po glowie"
+"Wolno-æ Tomku w swoim domku"
+
+Z tej to powiastki mora³ w tym sposobie:
+Jak kto komu tak on tobie.
+
+
+/sprawdzy
+{
+    exch dup height gt
+    {
+        exch
+        (... ) pisz
+
+
+\begin {fizyka {2}}
+
+From p____@skrzynka.getin.pl Sun Oct 22 21:48:53 2000
+Newsgroups: pl.sci.fizyka
+Subject: przeswietlanie
+From: p_____@skrzynka.getin.pl (0)
+Date: Sun, 22 Oct 2000 19:48:53 GMT
+
+Mam czasem takie rozne pomysly, ktorych nie mam czasu rozwinac, i po
+prostu przechowuje je w glowie w stanie poniekad embrionalnym. Jednym
+z nich chcialbym sie z Wami podzielic, byc moze was zainteresuje.
+Wiem, bo uczono mnie tego w szkole, ze moment bezwladnosci ciala
+zalezy od rozkladu masy w tym ciele. Mogloby wiec istniec urzadzenie,
+ktore kiwalo by cialem wokol roznych osi i mierzyloby moment
+bezwladnosci dla tychze roznych osi obrotu. Nastepnie po prostych
+wyliczeniach :| otrzymywalibysmy ladny trojwymiarowy obraz ciala.
+Jesli ktos z was to opatentuje i zarobi kupe forsy to prosilbym
+chociaz o pocztowke.
+
+-----0
+
+From g.jast_____@zgrudna.kghm.com.pl Mon Oct 23 09:18:26 2000
+Newsgroups: pl.sci.fizyka
+Subject: Re: przeswietlanie
+From: "Grzegorz J______" <g.jas______@zgrudna.kghm.com.pl>
+Date: Mon, 23 Oct 2000 09:18:26 +0200
+
+0 napisa³(a) w wiadomo&#182;ci: <39f336ec.838190@news.tpi.pl>...
+>Wiem, bo uczono mnie tego w szkole, ze moment bezwladnosci ciala
+>zalezy od rozkladu masy w tym ciele. Mogloby wiec istniec urzadzenie,
+>ktore kiwalo by cialem wokol roznych osi i mierzyloby moment
+>bezwladnosci dla tychze roznych osi obrotu. Nastepnie po prostych
+>wyliczeniach :| otrzymywalibysmy ladny trojwymiarowy obraz ciala.
+
+Sam tego nigdy nie wyprowadzalem, ale pamietam
+jeszcze z egzaminu z mechaniki klasycznej:
+moment bezwladno&#182;ci mo¿e byc co najwyzej wielkoscia
+tensorowa, tzn charakteryzuje go dziewiec liczb.
+Jak latwo sie domyslic 9 liczb nie jest w stanie
+opisac wygladu ciala, ktore ma nieskonczenie
+wiele (w teorii) punktow, kazde o innej masie.
+Oznacza to, ze rozne ciala o roznych rozkladach
+nas moga miec takie same momenty bezwladnosci.
+
+Najprostszy przyklad: sfera o danym promieniu
+i inna sfera o dwa razy wiekszym promieniu a cztery
+razy mniejszej masie.
+
+From k___@moko.lodz.tpsa.pl Mon Oct 23 19:32:01 2000
+Newsgroups: pl.sci.fizyka
+Subject: Re: przeswietlanie
+From: Krzysztof M____ <k___@moko.lodz.tpsa.pl>
+Date: Mon, 23 Oct 2000 10:32:01 -0700
+
+0 wrote:
+> Mogloby wiec istniec urzadzenie,
+> ktore kiwalo by cialem wokol roznych osi i mierzyloby moment
+> bezwladnosci dla tychze roznych osi obrotu. Nastepnie po prostych
+> wyliczeniach :| otrzymywalibysmy ladny trojwymiarowy obraz ciala.
+
+Po pierwsze bardzo mi sie podoba pomysl w sensie niekonwencjonalnego
+podejscia do zagadnienia. Brawo!
+Po drugie niestety jest takie twierdzenie ze jak znamy momenty
+bezwladnosci wzgledem 3 osi glownych to znamy juz wszystkie.
+3 liczby to za malo zeby powiedziec cos blizszego o budowie ciala :-(
+Nalezaloby kiwac poszczegolnymi fragmentami ciala (najlepiej 
+niewielkimi) z osobna. To akurat sie robi, nazywa sie USG ;-)
+
+pozdrowienia
+
+krzys
+
+(NIEDYSKRECJE 1)
+................niedyskrecje..to..dzia³..gdzie.
+                mo¿esz.poczytaæ.prywatne.mejle.
+                co...do...mnie.przychodzi³y..i.
+                co........ja.........wysylalem.
+
+(...)a co mam zrobic aby w przyszlosci dostawac wiecej takich "glupot"?
+Andrzej Daniel Nowinski
+  n__@mofnet.gov.pl(...)
+(...)
+<<<Pioterek, to i tak nie do opisania, wiêc sam wkrótce zobaczysz mam nadziejê,
+o co mi chodzi.>>> no to pewnie znowu ja bede musial garnek myc, cos tak czuje.
+(...)
+k__a@alpha.net.pl
+<<no chlopaki i co robiliscie w tym chelmie. Grzech dojechal do mnie,
+spoko gosc. A wam sie nie udalo, ale potem sie z nim w pociagu
+spotkaliscie, nie? i paczke dostaliscie?.>>
+spotkalismy, paczke dostalismy, thx za slajdofilm
+w chelmie na dworcu spedzilismy upojna noc, teraz jestem podziebiony i leze w lozku, jest git
+obszerniejsze sprawozdanie z wyjazdu napisze wkrotce; ono moze wejdzie do 'mld#2'.(...)
+
+ptaki
+
+Nieraz ktoœ dokarmia ptaki i myœli, ¿e on to ma takie dobre serce i tak ptakom pomaga i ¿e one mo¿e jeszcze powinny byæ mu wdziêczne, a on pójdzie do nieba. Ale zastanówmy siê: za³ó¿my ¿e ka¿dy ptak który do¿yje wieku dojrza³ego ma w ci¹gu swojego ¿ycia 10 piskl¹t (wiêc w zasadzie jest to 10 piskl¹t na parê). Teraz tak: jeœli z tych 10 piskl¹t wy¿ywaæ bêdzie do wieku rozrodczego sztuk 2 to iloœæ ptaków (na tym obszarze) bêdzie z grubsza utrzymywaæ siê na sta³ym poziomie. Jeœli bêdzie prze¿ywaæ mniej ni¿ 2, to iloœæ ptaków bêdzie systematycznie maleæ; a jeœli wiêcej, ni¿ 2 to iloœæ ptaków bêdzie ros³a. Ale poniewa¿ z oczywistych przyczyn iloœæ ptaków na danym obszarze nie mo¿e rosn¹æ w nieskoñczonoœæ, to w koñcu zacznie im brakn¹æ po¿ywienia i zaczn¹ zdychaæ tak, ¿e iloœæ ptaków znowu ustali siê na jakimœ poziomie. Te obliczenia oczywiœcie s¹ ³adnie przybli¿one, ale fakty s¹ takie; ¿e iloœæ ptaków musi byæ sta³a lub maleæ - wiêc okreœlony procent ca³ej populacji ptaków musi gin¹æ co roku. To, jak du¿a bêdzie ta sta³a iloœæ ptaków na danym terenie zale¿y od ró¿nych czynników, m.in. od iloœci po¿ywienia, które maj¹. Jeœli dokarmiamy ptaki to jest ich wiêcej na danym terenie, a poniewa¿ ten sam procent od wiêkszej liczby wynosi wiêcej, wiêc te¿ wiêcej ich bêdzie zdychaæ co roku. I taki to humanitaryzm karmnikowy.
+
+
+.ELF...niedyskrecje.dwójka
+
+(...)Witaj Macku,
+w pierwszych slowach mego listu mam do ciebie spora prosbe, ktora zarysowalem ci juz w swoim poprzednim imejlu. Chodzi mi wlasnie o sprawozdanie. Otoz Wojtek Knura (przeciez od nas z roku) byl na takim samym statku jak moj i przed wyplynieciem prosilem go, zeby podeslal mi swoje sprawozdanie imejlem, po zzipowaniu go.
+Mial podeslac mi je 8 maja, a tymczasem juz jest 28.05.2000 a sprawozdania ani widu ani slychu. Czort wie, moze nie mogl wyslac, moze zapomnial, moze wyslal a nie doszlo. Jak bede w Europie to przedzwonie do niego, ale kiedy to bedzie? Mam
+do ciebie wobec tego taka prosbe: bywasz ty przeciez w akademiku (a moze tam mieeszkasz?) wiec czy moglbys kiedys wpasc do Wojtka i go o to zapytac? Moze bys wzial od niego na dyskietce material i osobiscie mi podeslal, jesli on ma jakies klopoty? Oj Macku, jaki bylbym ci wdzieczny, w nagrode otrzymalbys prenumerate moich zinow. Bo teraz to jestem w kropce: czy niektore rzeczy robic samemu, czy nie?
+Jak zas chodzi o twoja niemoznosc zapisania sie na 'fabryke kaszlu' to napisalem juz do filipsa w tej sprawie. Zreszta jak cos to jego adres to: ______@acid.ch.pw.edu.pl
+(...)
+
+-----------------0-0-0-0-0-0
+Wiem ju¿ o co chodzi!!! W³aœnie co to odkry³em, pod wp³ywem programu telewizyjnego o Alanie Turingu.
+Przecie¿ zobacz: jak to jest ¿e w œwiecie nic do siebie nie pasuje. Na przyk³ad:
+- laski lec¹ na przystojniaków
+- jestem przystojniakiem
+- laski na mnie nie lec¹
+I gdzie tu sens, gdzie logika?
+Albo z tym prawdopodobieñstwem: w ca³ej historii œwiata istnia³o oko³o 14 miliardów ludzi. Z nich ja to tylko jeden. Wiêc prawdopodobieñstwo ¿ebym by³ sob¹ jest jak jeden do 14 miliardów. A jednak jestem sob¹. Jak to wyjaœniæ?
+Albo weŸ rzuæ kostk¹. Wypad³a jakaœ liczba - jedna z szeœciu mo¿liwych. Prawdopodobieñstwo jej wypadniêcia by³o równe jedna szósta. Ma³o prawdopodobne, ale mo¿liwe.
+A teraz zrób to jeszcze raz: znowu wypad³a jakaœ liczba, jedna z szeœciu! Dwa razy pod rz¹d takie zdarzenie: to ju¿ 1/6 * 1/6 = 1/36 !!!!
+A teraz rzuæ kostk¹ sto, dwieœcie, piêæset razy pod rz¹d! Ca³kowite zaprzeczenie zdroworozs¹dkowym zasadom prawdopodobieñstwa!
+Co wiêc widzimy? ¯yjemy w œwiecie, w którym nic do niczego nie pasuje. Czemu? Jak to wyt³umaczyæ? Jak to zrozumieæ, ¿eby mózgu nie rozwali³o?
+Zrozumienie sp³ynê³o na mnie nagle. Otó¿ chodzi o to, ¿e
+ŒWIAT JEST ZASZYFROWANY.
+Rzeczy nie s¹ tym, na co wygl¹daj¹. One s¹ pozamieniane. Ktoœ podmieni³ maszynê do szycia na letni ob³ok, letni ob³ok na œmiech z kalekiego staruszka, œmiech z kalekiego staruszka na telewizor marki "Rubin", telewizor marki "Rubin" na W³adys³awa Cz., operatora koparki, W³adys³awa Cz. na uczucie porannego uniesienia które prze¿ywa Urszula S. kiedy po przebudzeniu wygl¹da przez okno, zaœ to uczucie znowu¿ podmieni³ na maszynê do szycia.
+Gdybyœmy potrafili z powrotem odnaleŸæ prawdziwe znaczenie rzeczy i faktów œwiat z powrotem odnalaz³by swój harmonijny porz¹dek. Trzeba tylko poznaæ sposób szyfrowania i, jak s¹dzê, klucz. Ale jak przejrzeæ w jaki sposób zaszyfrowano œwiat? Chyba najpierw trzeba by odkryæ kto i przy u¿yciu jakich urz¹dzeñ go zaszyfrowa³...
+Podejrzewam, ¿e dokona³a tego cywilizacja rzêdu nad. Takie cywilizacje tocz¹ ze sob¹ wojnê wszechœwiatów, wojnê, której poj¹æ nie jesteœmy w stanie. Miêdzy wszechœwiatami nie ma komunikacji jako takiej, ale wojna trwa, wojna na tworzenie rzeczywistoœci i zap³adnianie niskich cywilizacji ideami. Stworzono nas i zaszyfrowano, abyœmy stali siê przekazem dla innej cywilizacji rzêdu nad. Jak¹ informacjê niesiemy? Mo¿e propozycjê przymierza przeciwko innej cywilizacji rzêdu nad? Mo¿e list z proœb¹ o zaprzestanie walk i rozpoczêcie wspólnych prac nad poznaniem sensu tego wszystkiego? A mo¿e po prostu obelgi, jakie jeden wróg wysy³a drugiemu? A mo¿e informacji któr¹ niesiemy nie jesteœmy w stanie poj¹æ - bo do tego musielibyœmy byæ istotami rzêdu nad?
+Jedno jest pewne - ju¿ dziœ musimy rozpocz¹æ prace nad rozszyfrowaniem rzeczywistoœci. W ten sposób nie tylko nasz œwiat z powrotem odzyska utracony sens, ale bêdziemy mogli skontaktowaæ siê z istotami rzêdu nad.
+
+     |  |  |
+   +---------+   Buffers Files Tools Edit Search Mule Help
+   +] MLD-02 |
+   +---------+
+     |  |  | 
+Z innych zaœ gier m³odzie¿owych ulubion¹ w szko³ach powszechnych jest gra w "Telefonistê". Polega ona na tym, ¿e bior¹ ksi¹¿kê telefoniczn¹ województwa warszawskiego. Jeden chowa siê za wêg³em i wybiera z niej jakiœ numer poczem g³oœno go wymawia. Wtedy drugi bierze od niego ksi¹¿kê i zadaniem jego jest ten numer w ksi¹¿ce odnaleŸæ i podaæ nazwisko osoby, do której ten numer nale¿y.
+A slyszeliscie o tym mega-teleturnieju co ma byc w marcu?
+Ma to zakasowac wszystko, co bylo do tej pory, "Big Brother" czy "Agenta" na TVN
+
+
+CONTENTS: aaa_base aoutlibs bash bash1 bzip2 cpio devs find
+aaa_base: Basic Linux filesystem package teleturniej wejdŸ do unii
+
+
+Teleturniej: "Wejdz do Unii"
+Grajacymi bedzie caly Narod Polski, a stawka wejscie polski do unii eur. juz w kwietniu br.
+Na terenie calego kraju beda ustawione kamery, beda rozne zadania, a w jury bedzie papiez, W. Szymborska, Pinochet i Regan.
+Znacie jakies szczegoly?
+--------------------------------------------------
+jak chodzi o teleturniej "wejdz do unii" to podobno bedzie tak, ze gdzies w Polsce schowaja niebieska szarfe, trzeba bedzie ja znalezc i odniesc na najblizszy urzad pocztowy. To bedzie jedno zadanie, za piec punktow.
+--------------------------------------------------
+>ciekaw¹ konkurencjê w teleturnieju "wejdŸ do unii" wdra¿aj¹ bary mleczne w
+>poznaniu. Wymieniaj¹ sztuæce - z aluminiowych na plastykowe. pod arkadami i
+>w duo-je¿yckim na przyk³ad wymienili tylko no¿e na razie, w apetycie ju¿
+>wszystkie. jeszcze nie jad³em w caritasie, ale dzisiaj pójdê sprawdziæ.
+>to jest konkurencja pod tytu³em: "polacy kradn¹ sztuæce".
+
+tak, i chodzi o to ze te plastikowe sztuæce s¹ znakowane z Brukseli ¿eby nie by³o oszustw. Ukradzione sztuæce nale¿y sk³adaæ w urzêdach pocztowych na terenie ca³ego kraju.
+Na stronie CNN w programie "Buisness Watch" tym gie³dowym gdzie lec¹ napisy w dole ekranu z indexami gie³dowymi widzia³em ostatnio jak pisa³o: <<POLAND--forks stolen so far--12,345--knives--387>>. Gruby goœæ mówi³, ¿e przewiduj¹ tendencjê zwy¿kow¹.
+-----------------------------------------------
+co do teleturnieju to podajê kolejne namiary na kamery do odcinków
+pilota¿owych - poznañ dworzec gówno.
+s¹ te¿ od jakiegoœ czasu kamery przed wejœciem na sk³ot, bo se pe¿ot
+zafundowa³. z tego to ju¿ podobno puszczaj¹ powtórki na rtl po 23.00
+
+moja robocza propozycja konkurencji:
+mo¿na by siê wspinaæ po szczeblach kariery - widowiskowe!
+ciekaw¹ konkurencjê w teleturnieju "wejdŸ do unii" wdra¿aj¹ bary mleczne w
+poznaniu. Wymieniaj¹ sztuæce - z aluminiowych na plastykowe. pod arkadami i
+w duo-je¿yckim na przyk³ad wymienili tylko no¿e na razie, w apetycie ju¿
+wszystkie. jeszcze nie jad³em w caritasie, ale dzisiaj pójdê sprawdziæ.
+to jest konkurencja pod tytu³em: "polacy kradn¹ sztuæce".
+
+dzisiaj o 16.30 w teleturnieju weŸmie udzia³ konfederacja pracy - bêd¹
+pikietowaæ pod kafe g³os, bo w³aœciciel wyrzuci³ wszystkich pracowników w
+dniu, w którym 6 poinformowa³o go, ¿e za³o¿y³o zwi¹zek...
+---------------------------------------------
+ja slyszalem, ze ten teleturniej poprowadzi Krzysztof Ibisz na zmiane z
+Michnikiem. w poznaniu te kamery do odcinków pilotazowych zamontowali juz pod kaponiera.
+y
+------------------------------------------
+root@darkstar:/home/piotr# ps -a | wyspa  ma  sto  na  sto  i  koralowy   port
+  PID TTY          TIME CMD      | wœciek³y ¿ar dzieñ i noc i ten jedyny sport
+  116 tty1     00:00:34 mc       |                    (...inna pios)
+  143 ttyp0    00:19:03 mpg123   |     mo¿na   palce   wy³amywaæ u r¹k
+  144 ttyp0    00:01:07 mpg123   |     po sto razy pytaæ czyj by³ b³¹d
+  167 tty3     00:00:21 mc       |
+  314 tty2     00:00:01 mc       | ->PAPA DANCE
+ 1216 tty4     00:00:00 bash     |
+ 1241 ttyp1    00:00:15 emacs    |  ^C
+ 1255 tty5     00:00:00 bash     |
+ 1257 tty4     00:00:00 mc       |
+ 1265 tty5     00:00:00 ps       |
+------------------------------------------
+Ta historia
+któr¹ teraz us³yszycie jest o Zenku
+Zenku Szybkorêku
+; powiem œciœlej:
+Jest o Zenku profesjonaliœcie, tak, profesjonaliœcie.
+A dlaczego? 
+A dlaczego Szybkorêku?
+- A dlatego, ¿e mia³ szybkie rêce
+i do szczêœcia nie potrzeba by³o mu nic wiêcej.
+To on.
+To typek niegrzeczny.
+W kapeluszu prochowcu i okularach s³onecznych.
+Wiecznie
+ma pysk nieogolony
+i do tego wszystkiego nosi spodnie typu "dzwony".
+Co tu mówiæ,
+ma swój styl, imid¿ i ma gre;
+ka¿dy o tym wie:
+¿e to on ¿e to on jest najlepszy
+¿e to on ¿e to on szybkie r¹czki ma
+¿e to on ¿e to on jest najlepszy
+¿e to on na z³odziejskim fachu siê zna.
+Wiêc krad³
+co chcia³ jak chcia³ gdzie chcia³
+Wielk¹ przyjemnoœæ z tego mia³.
+Lecz wpad³ w na³óg fatalny 
+bo alkoholizm by³ nieuleczalny.
+Czym wiêcej pi³ tym mniej obrabia³.
+Czym mniej obrabia³ tym mniej zarabia³.
+W wyniku czego:
+To by³o skutkiem:
+¯e wszystkie pieni¹dze przelicza³ na wódkê.
+Zenek z natury by³ bardzo sprytny
+Dla prawa raczej nieuchwytny.
+Lecz przez pijañstwo i g³upotê ³apali go co pi¹t¹ robotê.
+No có¿.
+Sporo przesiedzia³.
+¯e musi siê zmieniæ dobrze o tym wiedzia³.
+By³o go staæ na wiele wiêcej.
+Powiedzia³bym: na bardzo wiele.
+Robota pali³a mu siê w d³oniach,
+pracowa³ w tygodniu a nawet w niedzielê.
+
+
+\end {ZERRO}
+TERMINATED
+
+
+.............................elmo..start..elmo
+
+
+
+
+STOSUJE SIÊ Z PRZEPISU LEKARZA:
+Zanim przyst¹pisz do czytania mojej czêœci zinaaaaa@, odpowiedz na poni¿sze pytanie:
+CZY TWÓJ TATO JEST HYDRAULIKIEM?
+a) TAK -jeœli wybra³eœ t¹ odpowiedŸ to odwracasz zina do góry nogami i czytasz od koñca z zamkniêtymi oczami.
+b) NIE -jeœli wybra³eœ t¹ odpowiedŸ to nie mo¿esz czytaæ tego zinaaa
+c) TEN ELMO TO JEST CHYBA G£UPI -jeœli wybra³eœ ta odpowiedŸ to czytasz zina normalnie, czyli od lewej do prawej, od góry do do³u.  
+
+
+MOJ¥ CZÊŒÆ ZINA UCZCIJMY PIÊCIOMA SEKUNDAMI CISZY:
+1
+2
+3
+4
+6
+7
+8
+9
+5
+Koniec CZIszy
+We wstêpi chcia³em zazazazanczyæ, ¿e krzyœ to pies na baby, a te ró¿ne dowcipy to ludzie z zamoœcia wymyœlaj¹, nie tylko elmozpalermo.
+
+R E BBBBBBBUSY
+Rebus SYTUACYJNy 1:
+Mama: Arek, ale ty masz syf w tym pokoju, lepiej byœ posprz¹ta³. WeŸ zabierz te ubrania, wynieœ te szklanki to mycia, odkurz i wynieœ œmieci. Burdel tu u ciebie jak nic, zabierz te œmieci z biurka i wynieœ te¿ œmieci od Szymona, bo dzisiaj twoja kolej.  Odp. Smieciarka
+
+Rebus sytuacyjny 2:
+-Alka, ale Ci siê owoce w tym roku uda³y. Ohoho, te jab³uszka s¹ wyœmienite, a gruszeczki, no pysznoœci, wezmê tez od ciebie wiœnie to konfitury porobiê. MMMMMMMMM, ali owoce s¹ najlepsze.    Odp.malina
+
+Rebus sytuacyjny 3:
+-Czeœæ Alka, ale ty prytê pijesz. Widzê, ¿e z wód¹ to ty te¿ za pan brat. No wiesz ale browar to byœ sobie mog³a odpuœciæ, a ty tylko pijesz i pijesz. Odp.alkaholik
+
+Rebus sytuacyjny 4:
+Czeœæ Alka, co tam, czego nie odbierasz komórki, roz³adowa³a ci siê bateria? A jak¹ masz Ni-mh, czy litowo jonow¹?     Odp.baterie alkaiczne
+
+Rebus sytuacyjny 5:
+-Cze alka! OOOO, widzê, ¿e se komóreczkê kupi³aœ? To ty teraz mobilna jestes w koñcu, co to za klocek ten twój aparat? Motorolka? Philips? Nokia? Nie? To co to jest?  Odp.alcatel
+
+rebus sytuacyjny 6:
+-Cze Alka, ty dalej grasz na commodorku? Byœ se lepiej peceta kupi³a, przecie¿ wiem, ¿e ty masz du¿o kasy. Co ty gadasz, ¿e nie ma takich gier na peceta? Przecie¿ wiem, ¿e s¹. W co ty grasz?..... A to te¿ widzia³em na peceta, nawet pod dosik chodzi. Odp. Alkanoid
+
+rebus sytuacyjny 7:
+-cze alka, widze, ¿e wróci³aœ z Warszawy. Jecha³aœ tras¹ ³azienkowsk¹? Odp.alcatras
+
+
+<<<dzien.dobry.od.dzis.piszemy.malymi.literami.iso.88592.i.bez.polskich.liter.¿eby.inne.narody.tez.mogly.czytac>>>
+
+
+
+[[[WYTWÓRNIA FILMÓW BARDZO KRÓTKOMETRA¯OWYCH "SPLEŒNIA£Y POMIDOR" PRZEDSTAWIA]]]
+Scenariusz pierwszy:>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+£azienka. Bardzo dobrze wyposa¿ona. Elegancka wanna. Na pó³kach drogie perfumy. W wannie pe³nej piany le¿y umiêœniony mê¿czyzna w okularach takich ala lata 80. Ma w³osy na klacie. Razem z nim le¿y d³ugow³osa blondynka z du¿ym biustem. W tle leci spokojna klubowa nutka. Rozmawiaj¹. Œmiej¹ siê. Nagle kobieta mówi coœ na ucho facetowi. Ten oburzony krzyczy "CO?". Muzyka przestaje graæ. Facet wstaje. W zwolnionym tempie widaæ wy³aniaj¹ce siê poszczególne czêœci cia³a z wody. Tempo coraz bardziej zwolnione. Najazd na cz³onek faceta, który powoli, pod wp³ywem ruchu wstaj¹cego z wanny, obija siê o jedno udo, a nastêpnie o drugie. Nag³e przyspieszenie akcji. Tempo normalne 1:1. Facet, mocno kopie w podbródek blondynki. Tempo znów zwalnia. G³owa blondynki pod wp³ywem si³y zostaje odrzucona do ty³u i uderza w wannê. Blondynka osuwa siê pod wodê. Widaæ kolejno zanurzaj¹ce siê czêœci g³owy. END
+Scenariusz drugiPokój stylizowany na póŸnego Gierka. Szklanki, stare radio itp. Stara kobieta, ale bez przesady, smaruje GS'owskim no¿em, mase³ko na chleb. Nagle z rêki wypada jej kromka chleba. Tempo bardzo zwolnione. Widaæ jak kromka wiruje w locie. Czas trwania lotu (nierealny) oko³o 10 sekund. W koñcu kromka spada na ziemiê na stronê mas³em NIE posmarowan¹. END 
+
+_,.-~``~-.,_plaszczymy........pytonga_,.-~``~-.,_dla.estetyki_,.-~``~-.,_
+`~-.,__,.-~'estetyka.plaszczy.pytonga`~-.,__,.-~'dla......nas`~-.,__,.-~'
+
+
+MENSTRUACJA DLA PATAFIANÓWChcia³bym zaapelowaæ o ratowanie ¿ycia, znanego aktora. Odgrywa on rolê drugoplanow¹ w bardzo popularnym serialu "Klan". Chodzi mi tu o aktora odgrywaj¹cego rolê paroletniego Jasia. Jaœ ma nie³atwe ¿ycie, a czekaj¹ go jeszcze trudniejsze chwile. Bowiem  Jaœ w rzeczywistoœci nie jest ch³opcem, tylko dziewczynk¹. I ja siê tu nie zbijam, tylko piszê prawdê. Drodzy czytelnicy, zastanówmy siê nad jego(jej) przysz³ymi losami, kiedy pójdzie do szko³y. To bêdzie dla niego(niej) koszmar. Bêdzie wytykany i szykanowany przez kole¿anki i kolegów. Niejednokrotnie us³yszy z ust ró¿nych kanalii s³owa: "Transwestytka, Lesbijka". Dziewczynka, posiadaj¹ca duszê aktora-artysty, niew¹tpliwie o duszy romantyczki, wiot³a i bardzo prze¿ywaj¹ca wszelkie stany mo¿e siê za³amaæ. Popaœæ w depresjê. A st¹d ju¿ tylko krok do samobójstwa. Wiêc apelujê. Ratujmy j¹. Grzech proponuje dwa wyjœcia, oba akceptujê i cytujê <<<<pojechaæ do Warszawy i zrobiæ ma³¹ akcjê pod Telewizj¹ (mo¿na siê np. przykuæ do czegoœ, albo wprowadziæ g³odówkê rotacyjn¹ -
+ka¿dy po 2 godziny, zawieszan¹ w dodatku na czas posi³ków). Albo jeszcze lepiej: jako Zbrojna Bojówka Obrony Moralnoœci wedrzemy siê si³¹ na plan i tam zrobimy zamieszanie. >>>>>koniecytatu.
+PS. Teraz to ju¿ tego aktora zmienili, ale jak se artyku³ pisa³em to jeszcze gra³. Widaæ, ¿e Gregpio siê postara³, bojówkê zorganizowa³ co przynios³o pewne efekty!....,.,.,.,,,,,,,,,,,,,.....,.,.,.,.,,,;',;,'.'.,',.',.',.',.','.
+--------------------------------------------------------------------------------
+wirtualna szko³a zaprasza na nauke liczenia.123.zaczynamy:12345678910i od konca10987654321
+----------------------------------------------------------------------------------------------------
+z a b a w e c z k i
+jakaœ firma powinna zaj¹æ siê produkcj¹ zabawek dla dzieci z rodzin patologicznych, produkowaliby misie, które przeklinaj¹. Czy Kena alkoholika i Barbie prostytutkê. Przydatny by³by równie¿ zestaw ma³ego ¿ula.
+:"""""""""""""""""""""""""~~~~~!":"~:":!~":!"~:""""""
+>>>>>>>a w osiemnastowiecznej francji to za stosunek analny siê karê œmierci dostawa³o>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>i co?>>>>>>>>>>>>>>>>>>>>>g³upio ci, nie?>>>no wiedzia³em.]]]]]]]
+.....???/////;';'''''''''''''''''''''''
+SZTUKA:
+Jak siê jest w szkole to fajne psikusy mo¿na robiæ innym uczniom, ostatnio co mi siê wymyœli³o: Idziemy do kibla i obsikujemy sobie rêce, wychodzimy z kibelka i wszystkich chlapiemy i witamy siê z ludŸmi, oczywiœcie wszyscy siê bêd¹ pytali co my takie mokre rêce mamy, no i tu siê przyznajemy, ¿e je obsikaliœmy, ale i tak nikt nie bêdzie chcia³ uwierzyæ, ale to ju¿ ich sprawa.
+
+SZALETY
+Razem z kolegami wymyœliliœmy, alby zrobiæ w mieœcie sieæ szaletów miejskich, coœ ala MC Donald. By³yby porozstawiane w strategicznych punktach miasta, gdzie przewija siê du¿o ludzi. Z zewn¹trz szalety kusi³yby reklamami i bilboardami. A w œrodku: jako babcie klozetowe pracowa³yby modelki z Elite Model Look, kabiny by³yby o ró¿nym standardzie. A klienta to kusilibyœmy promocjami np. dwa sikania-jedno sranie gratis. Ciekawie by by³o urz¹dzaæ ró¿ne promocje np. Zestaw Mega Kupa- sikanie, sranie i podwójny papier toaletowy. Podpisalibyœmy kontrakt z bibliotek¹ i jedn¹ z jej filii otworzylibyœmy w naszych szaletach, tak samo by³oby z kolporterem prasy. Chyba ka¿dy coœ czyta, gdy siedzi na kiblu!
+
+KOMPUTERY:
+Ciekawym pomys³em jest, aby zrobiæ klawiaturê do komputera dla pianistów, oni niew¹tpliwie przyzwyczajeni s¹ do klawiszy bia³ych i czarnych w u³o¿eniu fortepianowym. I tak samo zrobilibyœmy w komputerze bia³e klawisze by³yby to literki i numerki, a czarne to znaki specjalne i ¹¿œæ³ñó.
+A co Lecho wymyœli³?:) jak s¹ czcionki times new roman, czy courier new, to zrobiæ czcionke braila, ¿eby œlepi mogli czytaæ. ;) A tak co wiêcej to ja bym zrobi³ taki system operacyjny, w ogóle nie l ogiczny. By³aby masa niepotrzebnych katalogów, przewa¿nie pustych, których nie da³oby siê skasowaæ. Sterowniki myszy znajdowa³yby siê w katalogu KLUSKI, a sterowniki klusek w katalogu STEROWNIKI OBUDOWY. Jak powiedzia³em o tym krzyœkowi, to on powiedzia³, ¿e jest ju¿ taki system i siê Windows nazywa.
+
+SZKO£A:
+W tym roku mam maturkê i kombinujê jak mogê by przejœæ po najmniejszej linii oporu. No i wymyœlam g³upoty zamiast siê uczyæ , a sobol mnie tu na imprezy zaprasza, a mam mnie puszczaæ nie chce. No, ale do rzeczy. Egzaminy na studia np. informatyke powinny wygl¹daæ w nastêpuj¹cy sposób.:::Belferostwo karze zainstalowaæ ci japoñskojêzyczn¹  wersjê Windowsa. Zainstalujesz- dosta³eœ siê. Nie zainstalowa³eœ- nie dosta³eœ siê. POROSTE NIE? Albo karz¹ w³o¿yæ ci kartê AGP w miejsce PCI i musisz tam coœ odgi¹æ, tu z³amaæ.
+Natomiast matematyka: nale¿y wypisaæ wszystkie liczby od 1 do miliona w 1 godzinê. JA siê oferujê do sprawdzania tego.
+
+PREZENTY:
+Czêsto chodzimy na imprezy, prawda? Czêsto s¹ jakieœ œwiêta, ale jak trzeba zrobiæ jakiœ prezent, to mamy problem, nie? No to co ja tak wymyœli³em z franiem trochê i z kelvinem.
+Prezent 1.1: prezent pod tytu³em "COŒ OD SIEBIE< BARDZO OSOBISTEGO" prezent bardzo szybki do realizacji. Ma³o praktyczny, ale niew¹tpliwie bêdzie przypomina³ obdarowanemu o nas. Otó¿. Obcinamy sobie kawa³ek czêœci naszego cia³a. Np. palec z rêki, palec od nogi, wyd³ubujemy oko. £adnie pakujemy i dajemy w prezencie.
+Prezent 2.1: To jest fajne do realizacji i wogle, pewnie ³adnie wygl¹da. Szukamy starej du¿ej przezroczystej butelki szklanej. Kombinujemy du¿o ró¿nokolorowych galaretek i dodatkowo ¿elatynê. Rozpuszczamy pierwsz¹ galaretkê, dodajemy jeszcze du¿o ¿elatyny. Wlewamy trochê do butelki i dolodówki. Butelkê nie nale¿y stawiac tak normalnie tylko o coœ oprzeæ, jak zastygnie to tak samo robimy z drug¹ galaretk¹ i dolewamy do butelki. Powinna wyjœæ fajna kolorowa kompozycja.....;{{{{{}}}]]]]]]][][][][][][]]][[==-=-=-=...
+
+MAFF1A:
+Zastanawia³em siê, czy mafai ma swoj¹ stronê internetow¹? www.mafiapolska.org.pl A jak nie ma to ja siê oferujê, ¿eby zrobiæ. TAKO¯, proponujê zrobiæ mapkê strefy wp³ywów, i co najwa¿niejsze cenntik....Stronê zrobiê za wci¹gniêcie do szer4egów jednej z takich organizacji, mogê byæ ich webmasterem.
+
+
+
+
+ART.:::
+Opatentowywuje to w tym zinie, ¿eby potem nie by³o, ¿e to ktoœ wczeœniej wymyœli³. Nowa propozycja na NET:ART. Zrobiæ stronê z pracami w JPG'aCH w najwiêkszym skopmresowaniu. Tytu³: "KOMPRESJA"
+
+WYPISY Z SENNIKA z roku 1987
+B r o d a w k i- miêæ we œnie, ¿a³oba
+C a p- przysni ci siê, niebezpieczna znajomoœæ przed tob¹
+C e p- wzi¹æ do rêki, uwa¿aj na partnera
+D r a t w a- przyœni ci siê, ¿ycie w najbli¿szych latach bêdziesz mia³ nieciekawe.
+E s e n c j ê- nalewaæ we œnie, bêdziesz niewierny lub zdradzony
+F A B R Y K A- przyœni ci siê, czeka ciê dobry i korzystny interes.
+F e b r ê- mieæ we œnie, jestes zmienny w swych zamiarach; widzieæ u kogoœ, szczêœcie bez przeszkód.
+K A S Z E L- s³yszeæ go podczas snu, wró¿y tajemnicê.
+K u p ê- gnoju widzieæ, bardzo dobrze
+£ a j n o- oznacza bogactwo lub pieni¹dze; chodziæ po nim, choroba lub bieda; pobrudzonym nim byæ, wstyd.
+M o d r e- buciki przyœni¹ ci siê, choroba w domu; modre sukienki, powodzenie
+R u m -piæ we œnie, dobry interes
+S o b o l a- chwyciæ we œnie, nieszczêœcie
+S z l a f m y c ê- mieæ na g³owie, bêdziesz pod pantoflem ¿ony, nieciekawa praca
+S z y n k ê- widzieæ , otrzymasz prezenty' jeœæ we œnie, powiêkszy ci siê rodzina lub maj¹tek
+W s z y- mieæ we œnie, przykra podró¿, wszy na ubraniu, unikniesz cierpieñ
+Z E R O- widzieæ, przed tob¹ zysk
+¯ y t n i ó w k ê- piæ we œnie, bêdziesz dzielny
+
+TEATRZYK KRZYSIA;
+Jak siê z krzysiem wraca ze szko³y, imprezy, lub idzie do szko³y, na imprezê to on jak zwykle odstawia bardzo ró¿norakie schizy. No i takie dwie scenki
+SCENKA 1.1
++ pañskie nazwisko?
+- Kowalski bez f
++ no jak bez F? Przecie¿ w nazwisku Kowalski nie ma literki F
+- no to przecie¿ mówiê, ¿e bez F!
+SCENKA 1.2
+Po wizycie w barze krzyœ z panew¹ poszli sikaæ do bramy. Jeden pod jedna œcianê, drugi pod druga œcianê. Wyjêli co mieli i zaczynaj¹ sikaæ. Nagle krzyœ z bulwersacj¹:
+- JA TU NIE BÊDÊ SIKA£
+- Dlaczego?
+- Bo mi siê nie chce SIKAÆ
+
+SUPER DOM
+Wczoraj z franiem na mecz szliœmy i pogoda by³a nie za bardzo, wiêc wymyœliliœmy, ¿e mo¿na by w mieœcie postawiæ taki ogromny budynek na 5 km kwadratowych. W tym budynku by³aby czêœæ mieszkalna i sklepy. Nie by³oby trzeba w ogóle wychodziæ na dwór. Do sklepu, czy do szko³y chodzi³oby siê  w klapkach. By³yby jakieœ ³aweczki, gdzie spotykaliby siê ludzie. I fajnie by by³o. GUT
+
+SKOKI NARCIARSKIE:
+Ma³ysz triumfuje. Skoki to teraz nasz sport narodowy. Czasami jednak zawody s¹ odwo³ywane z powodu z³ych warunków atmosferycznych. Tak sobie wymyœli³em, ¿eby zbudowaæ tak¹ halê, gdzie odbywa³yby siê skoki. Hala nie musia³aby byæ wbrew pozorom bardzo du¿a. Skoczkowie wyje¿d¿aliby z takiej rynny, ustawionej na zewn¹trz. Górna czêœæ rynny koñczy³aby siê oko³o 20m przed wyskokiem, ¿eby skoczkowie zd¹¿yli zorientowaæ siê kiedy trzeba skakaæ. Skocznia mia³aby punkt K tak mw 70m.
+Skoki 1.2. w miastach bardzo p³askich powinno siê budowaæ skocznie K1, lub K2, trzeba rozwijaæ sport narodowy.
+
+PIOTR GULCZYÑSKI alias EL maciek ELMO EL. MARKIZ DE SADELMO. Z zespo³u muzycznego, kt(r)y jeszcze nic nie nagra³ o Nazwie PRIZERVATIVA I I?R  prezentuje sowich kolegów i kole¿anek przez pozdrowienie::::UHUHUHUHUUHUHL:
+Kolega versja 5.0 PL Lecho alias Krzyœ, kolega 4.5 ENG beta 2- Krzyœ alias Franio. Kolega v6.666 K3lvi|\|,  Koledzy v4.0 bez obs³ugi ramek: Czajnik i Panewa alias Panewa i Czajnik. No a teraz kole¿anki, które maj¹ fajna bieliznê: KLaRRRrrA@@@@@@, Alllll alalal UUU, Ba$$$$$$$$ia U,,.../././././;.'/.././.;'.;'.;bzzzzz mucha ci nasra³a na ramiê.popatrz.
+
+KacKloc
+Chcia³em poruszyæ pewn¹ kwestiê, która nurtuje moj¹ osobê ju¿ od dawna.  Otó¿, sytuacja przedstawia siê nastêpuj¹co. Zawsze po imprezie, chce siê zrobiæ kupê. I nie jest to jedynie moja opinia, lecz wielu osób. Chyba tak ka¿dy ma, ¿e jak siê napije alkoholu, to pierwsz¹ rzecz¹, któ¹ robi siê rano jest w³a£nie KUPA. Nadali£my temu nazwê KACKLOC.
+
+Moje wynalazki, inne ni¿ podpaski.
+Czêsto id¹c ulic¹ mam problem z wyrzuceniem jakichœtam papierków, które niejednokrotnie walaj¹ mi siê po kieszeniach. Poprostu w Polsce jest za ma³o œmietników, nie to co w Hiszpanii, gdzie kosze stoj¹ co 20m. Mam super pomys³, który mam nadziejê sprawdzi³by siê nie tylko w realiach leniwej Polski. Otó¿, proponujê stworzyæ elektroniczne œmietniki, które same by siê porusza³y, tzn. jeŸdzi³y na kó³kach, czy tam jakichœ g¹sienicach, to nie ma znaczenia. Ale co najwa¿niejsze, to ka¿dy kto chcia³by skorzystaæ z takiego œmietnika posiada³by pilot, którym, gdy mia³by coœ do wyrzucenia, przywo³ywa³by ten œmietnik. Dzia³a³oby to na zasadzie, który œmietnik jest bli¿ej, ten podje¿d¿a. Jeœli pañstwo chcia³oby na tym zarobiæ, to proszê bardzo: wprowadzamy abonamencik na piloty, coœ jak komórki, tylko, ¿e du¿o taniej.
+
+Psikusy w mieœcie.
+Kiedyœ, dawno, wymyœli³ to ktoœ z zamoœcia tzn. Franio, Lecho, Panewa, Czajnik, albo Ja. Niepamiêtam, kto, wiêc lepiej wymieniæ wszystkich, ¿eby nie pope³niæ b³êdu. Chodzi o to, aby porobiæ takie kartki samoprzylepne z rozk³adem jazdy identyczne jak na przystankach, tylko pozmieniane nazwy ulic, numery autobusów itp. No i zrobi³em coœ takiego i z Kelvinem zakleiliœmy dzisiaj 15 rozk³adów jazdy na 15 przystankach.
+
+ANIKIETA
+Prezentujê wyniki ankiety onegdaj przeprowadzonej wœród licealistów III  LO w Zamoœciu.
+1. JAK CZÊSTO SIÊ MASTURBUJESZ?
+-codziennie 38%
+-co 2 dni 20%
+-rzadziej 18%
+-co tydzieñ 12,7%
+-brak odpowiedzi 5%
+-co miesi¹c 3%
+-co dwa tygodnie 1%
+
+2.CZY ZJADASZ STRUPY?
+-nie 61%
+-tak 38%
+
+3.CZY ZJADASZ PRYSZCZE?
+-nie 70%
+-tak 29%
+
+4.JAK CZÊSTO ROBISZ KUPÊ?
+-jedna dziennie 47%
+-wiêcej ni¿ jedn¹ dziennie 21%
+-jedna na dwa dni 18%
+-rzadziej 7%
+-jedna na tydzieñ 3%
+-brak odpowiedzi 1%
+
+5.CZY GOLISZ W£OSY NA RÊKACH?
+-nie 69%
+-tak 29%
+-brak odowiedzi 1%
+
+
+
+
+

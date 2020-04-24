@@ -1,0 +1,835 @@
+{
+ Ogl±daj u¿ywaj±c czcionki o sta³ej szeroko¶ci, np. Courier New.
+ Szeroko¶æ 83 kolumny
+ Polskie literki w standardzie Windows.
+}
+------------------------------------------------------------
+   \  | |     __ \     miewali¶my                        zin
+  |\/ | |     |   |                                  fabryki
+  |   | |     |   |        lepsze                     kaszlu
+ _|  _|_____|____/
+                |  | _ |      dni                       elmo
+             _  |_ |_| |                              filips
+             _  |_ |_| |                                zero
+               _| _|  _|
+
+mo¶æ->bia³ystok->warszawa->zamo¶æ->bia³ystok->warszawa->zamo
+------------------------------------------------------------
+
+                                                          {}tre¶ci zawarte:--+
+                                                                             |
+------ W czêsci filipsa -----------------------------------------------------+---------------
+cze¶æ; zaczne mo¿e od mojej czê¶ci, bo oni siê guzdraj± i nic tu jeszcze nie przys³ali (no oprucz elma, który dostarczy³ tekst). No wiêc w numerze w czê¶ci filipsowej co nastêpuje: * Teoria Mail-Artu * O nowym programie komputerowym * Nauka i ¯ycie * K±cik ³amacza umys³u * Listy do redakcji * Pleonazmy * opowiadanie Buliego * trochê obrazków * i inne
+------ W czêsci sobola ----------------------------------------------------------------------
+filips siê czepia ¿e ja siê guzdram z nadsy³aniem tekstów a to wina awaryj. w mojej czê¶ci poczytasz na tematy naukowe, rozrywkowe i refleksyjne. trochê o robakach i dziadku piesku, o tym jak ch³op magistrów przechytrzy³, trochê znaczków. ³adna gra m³odzie¿owa, krasnoludki, potrawy z kamieni, robert stasiak dziêkuje za listy, wybory 2000 - analiza i ocena. zapraszam!
+------ W czêsci elma ------------------------------------------------------------------------
+Dzieñ dobry. Ja siê nazywam Maciej i na mnie Elmo mówi±. Drzewiej robi³em ró¿ne g³upie ziny, a teraz co by nie mówiæ robiê ju¿ ziny inteligentne,  jak przysta³o na miarê fabryki kaszla. B±d¼ co b±d¼ w mojej czê¶ci zina przeczytasz o Papie¿u, i o tym jak my z Krzy¶kiem po mie¶cie chodzimy i o tym gdzie jest daleko, a  gdzie jest blisko i o ¶winiach i innych rzeczach, wiêc zapraszam Ciê drogi czytelniku do mi³ej lektury. Dziêkujê.
+---------------------------------------------------------------------------------------------
+
+
+                                                           Czê¶ci wspólne - zamiast wstêpu...
+                                          czyli to co siê autorom nie zmie¶ci³o gdzie indziej
+
+MY TO NIERAZ Z KRZY¦KIEM!  ___
+                          | __|
+                          | _|lmo kluska donosi na wstêpie:
+                          |___|
+My to nieraz z Krzy¶kiem wracamy ze szko³y, albo ³azimy po mie¶cie i wymy¶lamy ró¿ne dziwne rzeczy. To chyba dobrze, ¿e ja i Krzysiek jeste¶my, bo tak to nikt by nie wymy¶li³, ¿e ¶wiat jest tak beznadziejnie zrobiony. A co nie? No jak nie, jak tak. Kiedy¶ jechali¶my autem i wymy¶lili¶my, ¿e dobrze by by³o, gdyby by³y jednorazowe samochody, takie co po rozbiciu wyrzuca siê na ¶mietnik, ale nie na z³om, tylko do takiego zwyk³ego kontenera. Albo fajne by by³y jednorazowe samochody ca³e ze szk³a. Wtedy po wypadku, auto by siê rozbija³o i nic by z niego nie zostawa³o. Stwierdzili¶my te¿, ¿e konstrukcja temperatury Polski pozostawia wiele do ¿yczenia. No bo tak. Wychodzimy do szko³y rano. I jest zimno, to siê bierze kurtkê. A potem wracamy ze szko³y i jest ciep³o, a kurtkê trzeba nie¶æ w rêkach, albo w plecaku. A kurtka jest ciê¿ka. I to powinno byæ inaczej, na zasadzie. Ciep³o-ciep³o, zimno-zimno. Wychodzisz rano do szko³y, jest zimno, bierzesz kurtkê. Wracasz, ze szko³y jest ciep³o, kurtkê zostawiasz w szkole. Wychodzisz do szko³y, jest ciep³o, wracasz ze szko³y jest zimno i bierzesz ze szko³y wcze¶niej zostawion± kurtkê. Wychodzisz do szko³y jest zimno... itd. Itp. Chcieli¶my równie¿ zdementowaæ pog³oski, ¿e Papie¿ urodzi³ siê i ¿y³ w Wadowicach. Jak kto¶ tam by³, to wie, jak blisko ko¶cio³a jest jego domniemany dom. A to jest tylko pic. W rzeczywisto¶ci Papie¿ urodzi³ siê w Wólce Pierdziachowskiej, ale to trochê g³upio brzmia³o, wiêc jego dom przenie¶li w pe³nej konspiracji do Wadowic, takiego ma³ego miasteczka, ¿eby nikt nie wiedzia³ gdzie to jest i wogle. I kolejna wa¿na informacja. Pluskwa milenijna zaczyna dzia³aæ. Tak, czy kto¶ widzia³, ¿eby w pa¼dzierniku i na pocz±tku listopada by³a taka ³adna pogoda? Kiedy¶ to ju¿ ¶nieg pada³, a teraz to siê chodzi tylko w bluzie. Kropka.
+
+> Hej,
+> Powiedz mi moze, kto to jest ta 
+dziewczynka na okladce "Miewali¶my lepsze dni" ?
+
+Napisz ze to jest Kasia Lesicz [...] I jeszcze raz pisze "KASIA LESZICZ" no i w zinie zaznacz, ze na okladce jest ona.
+   ___
+  / __|
+  \__ \
+  |___/obol pozdrawia ch³opców i dziewczêta:
+pozdrowienia dla: wszystkich pomagaj±cych w kolporta¿u, zw³aszcza dla qixa i gariona, dla kolegów i kole¿anek: karaluh, heniek m, cienio, marta t., ulka s. z warszawy, dla grupy artystycznej Przyjaciele Stefana B., w tej liczbie dla Defa, Quixa, Azzara, dla metysa, sancza, szoszona, piszpunta, dla szczecinian: grzeska, poni, dominika, piotrka, ariela, adasia z myslowic, agenta z nowej soli.
+
+  ___
+ | __|
+ | _|
+ |_|ilips:
+Wracaj±c dzi¶ ze szko³y zacz±³em siê zastanawiaæ, czemu wszystkie p³on±ce ¶mietniki ¶mierdz± tak samo. Ba¶ka zasugerwa³a i¿ mo¿e to za spraw± ¶mieci, które to we wszystkich p³on±cych ¶mietnikach s± takie same, czyli: skórki od banana, stare pety, puszki po koli, skasowane bilety, pude³ka po papierosach, kapsle itede.
+
+---------------------ELMO PISZE:-----------------------------------------------------------
+
+ELMO ZAPYTOWUJE, ZERO OPOWIADA
+
+Wiêc tak:procentowo: (chodzi o wyniki badañ statystycznych)
+25% - MAM ALE NIE ODDAM
+37,5% - NIE MAM ALE MOGE MIE
+C37,5% - MIALEM ALE ZGUBILEM
+ Ciekawie by³oby wiedzieæ co¶ wiêcej o respondentach... stan maj±tkowy itepe.Ale i tak mogê pokusiæ siê o wyci±gniêcie pewnych wniosków.
+INTERPRETACJA:
+Ci co maj± ale nie oddadz± - to "dzieci wojny". Wiedz±, ¿e mo¿e jeszcze byæ ciê¿ko, a ka¿dy jest ich potencjalnym wrogiem. To ci, którzy w poci±gu buty przypinaj± k³ódk± do rurki. Oni o sobie mówi±, ¿e "znaj± ¿ycie"
+Ci co nie maj± ale mog± mieæ - to biznesmeni, kombinatorzy, klasa bia³ych skarpetek. Wiedz± ¿e wszystko mo¿na zdobyæ, a nawet je¶li nie to trzeba robiæ dobr± minê. Oni nie pytaj± co tylko za ile.
+Ci co mieli ale zgubili - to prawdziwi Polacy. To tacy jak oni psuj± p³ytki chodnikowe, gubi± wagony towarowe z wêglem i powoduj± wypadki na bezkolizyjnych skrzy¿owaniach. Oni wiedz±, ¿e je¶li co¶ dzia³a to dlatego, ¿e _jeszcze_ siê nie popsu³o.
+ Wyobra¼my sobie sieæ powi±zañ pomiêdzy tymi grupami:
+Grupa B - chce wykorzystywaæ grupy a i c i ¿yæ ich kosztem. Grupa c daje siê obskubywaæ, bo to potwierdza ich wizjê ¶wiata; co wiêcej - nie wini± za to cz³onków grupy b, tylko "z³y ¶wiat"
+Grupa A - próbuje byæ taka ostro¿na, ¿e sama siê podk³ada grupie b, co tylko potwierdza ich wizjê ¶wiata i tak ko³o siê zamyka.
+Widaæ, ¿e ka¿da z tych grup jest w mniejszo¶ci - wiêc w przypadku ka¿dej z nich mo¿na spodziewaæ siê wyst±pienia syndromu "oblê¿onej twierdzy" - tak wiêc wojna wszystkich przeciwko wszystkim.
+Jednak izolacjonizm najmniejszy bêdzie w przypadku grupy b - sensem ich ¿ycia jest kombinowanie, a taka dzia³alno¶æ powoduje, ¿e potrzebni s± im inni - przez co ci "inni" w pewien sposób staj± siê czê¶ci± ich ¶wiata. W ten sposób grupa ta, choæ liczebnie nie najliczniejsza realnie jest "wiêkszo¶ci±" - poniewa¿
+poprzez kontakty jej kultura oddzia³ywuje z kulturami a i c, przez co staje siê dominuj±c±. 
+Grupy a i b - teoretycznie jako grupy "dojone" mog³yby siê zjednoczyæ przeciwko grupie b - mia³yby wtedy 62,5% i stanowi³yby wiêkszo¶æ - ale tak siê raczej nie stanie. Po pierwsze dlatego, ¿e ich postawy s± diametralnie ró¿ne ("mam ale chc± mi zabraæ" a "nie mam ale i tak by mi zabrali"), poza tem nie istniej±
+dla nich ¿adne wspólne p³aszczyzny dzia³ania. Poza tem ka¿da z tych grup wychodzi na dojeniu lepiej, ni¿ wysz³aby na sojuszu z drug± grup± przegranych - kto krowê doi ten jej dogl±da, jak wiadomo, za¶ sojusz ludzi sparali¿owanych lêkiem przed zmianami z lud¼mi, którzy przegrywanie uczynili sensem ¿ycia musia³by stworzyæ chimerê niezdoln± do ¿ycia. 
+wasz
+zer0
+ps. O¶wiadczam, ¿e je¶li tekst ten stanie siê dowodem w postêpowaniu karnym to i tak wyprê siê jego autorstwa.
+
+
+-------PANIE, CZY DALEKO DO MIÊSNEGO?   -*
+Profesor elmo wita pañstwa w kolejnym artykule po¶wiêconym z³o¿ono¶ci ¶wiata. Dzi¶ zajmiemy siê problemem "gdzie jest bli¿ej". Otó¿, wyobra¼my sobie tak± sytuacjê.
+
+zachód     JA              1               2        wschód
+
+LEGENDA:
+zachód- zachód, w naszym przypadku Niemcy
+Ja- Ja, w tym miejscu siê znajdujemy
+1- obiekt oznaczony numerem pierwszym, mo¿emy za³o¿yæ, ¿e jest to pies lub krowa.
+2- obiekt oznaczony numerem drugim, mo¿emy za³o¿yæ, ¿e jest do kot, lub koñ.
+wschód- wschód, w naszym przypadku Rosja
+odleg³o¶æ miêdzy obiektami 1 i 2 wynosi 500m.
+
+Sytuacja, wydaje siê bardzo prosta. Stoimy w miejscu, widzimy dwa obiekty 1 i 2, i oczywiste jest, ¿e do obiektu pierwszego jest bli¿ej ni¿ do drugiego, ale czy tak jest naprawdê? Otó¿, nie zawsze. Zak³adamy, oczywi¶cie, ¿e poruszamy siê po najprostszej drodze, czyli po linii prostej. Wychodzimy z obiektu JA i zmierzamy do obiektu 1, gdy dochodzimy widzimy, ¿e obiekt drugi znajduje siê nadal w znacznej odleg³o¶ci, czyli po prostu jest daleko. W takiej sytuacji, mo¿emy u¿yæ tzw. drugiego wyj¶cia, czyli- idziemy zamiast w kierunku obiektu 1, na zachód, dochodzimy do Niemiec wschodnich i idziemy dalej po drodze prostej. Idziemy i idziemy. Przechodzimy ca³± kulê ziemsk± dooko³a i dochodzimy do obiektu oznaczonego numerem dwa. Obiekt pierwszy widzimy w odleg³o¶ci 500m, czyli niedaleko w stosunku do tego co ju¿ przeszli¶my. Dok³adniej mówi±c obwód kuli ziemskiej wynosi 6378160 m, a zatem jest to 0,000078392 tego co przeszli¶my, czyli "blisko". i takim oto sposobem, doszli¶my szybciej do punktu 2, ni¿ do punktu 1, a co najwa¿niejsze mieli¶my blisko z punktu 2 do 1.
+
+
+----CO TAM S£YCHAÆ W WATYCANIE? -*
+Ostatnio siê zastanawia³em, czy Papie¿ ma mo¿e email i tak jak ja codziennie odbiera pocztê. Ciekawe te¿, jaki adres ma Papie¿, i czy jest zapisany na jak±¶ listê dyskusyjn±, fajnie by by³o gdyby Papie¿ te¿ nale¿a³ do fabryki kaszlu i robi³ wlepki. Papie¿ du¿o podró¿uje to móg³by wklejaæ w ró¿nych czê¶ciach ¶wiata. Ja zbieram bilety autobusowe, a jakby Papie¿ by³ w fabryce kaszlu to móg³by mi przysy³aæ du¿o biletów. Ciekawe te¿ jaki adres email ma Papie¿. Na pewno przy zak³adaniu serwera watykan.com znalaz³o siê paru cwaniaczków i zarezerwowa³o sobie takie emaile, jak karolwojtyla@watykan.com ,czy janpawelII@watykan.com ,i Papie¿ musia³by sobie wymy¶leæ jaki¶ inny adres np. karolek99@watykan.com ,a mo¿e Papie¿ ma email na wirtualnej polsce, albo na kki, ale o tym nikt nie wie.
+
+
+-----¦WINIA -*
+Ka¿dy mê¿czyzna w swoim ¿yciu powinien wykonaæ trzy czynno¶ci. Wybudowaæ dom, posadziæ drzewo i zabiæ ¶winiaka. Jakkolwiek z pierwsz± i drug± czynno¶ci± nie powinno siê mieæ problemu, tak pewne  problemy mog± wyst±piæ przy zabijaniu ¶wini. Zanim przejdziemy do sedna sprawy, zastanówmy siê po co nam martwa ¶winia. Otó¿, Polska to kraj kombinatorów, jestem pewien, ¿e ju¿ nied³ugo zdobêdziemy kolejnego Nobla tym razem z dziedziny kombinatoryki, a ¶winia jest wy¶mienitym materia³em na pokarm. Zabijaj±c ¶winiê mo¿emy wykarmiæ przez miesi±c 4 osobow± rodzinê. ¦winiê mo¿emy równiez wyptroszyæ i u¿ywaæ do straszenia s±siadów. Mo¿emy j± równie¿ postawiæ w pokoju i spokojnie d³ubaæ w nosie, czy gdzie siê nam ¿ywnie podoba. Je¶li ¿ona nazwie Ciê ¶wini±, mo¿esz ze spokojem odpowiedzieæ, ¿e u nas w domu to s± same ¶winie. Ju¿ wiemy po co nam jest ta ¶winia, teraz nale¿y j± ukra¶æ. Niestety nie opiszê tutaj tego procederu, gdy¿ kradzie¿ ¶wiñ jest ca³kowicie nielegalna, natomiast ich zabijanie jak najbardziej. Kiedy mamy ju¿ kawa³ ¶wini, zwabiamy j± do najbli¿szego wie¿owca, zaci±gamu do windy, potem na dach i pozorujemy samobójstwo prze wypchniêcie ¶wini z dachu. Nie polecamy jednak tego sposobu, gdy¿ na dole ze ¶wini raczej nie bêdzie co zbieraæ. Znamy ju¿ podobne przypadki upozorowania samobójstwa sto³u ogrodowego i wiemy, ¿e po spadniêciu na ziemiê, cia³o to nie odbija siê, lecz rozbija. Drugim proponowanym przez nas sposobem zabicia ¶wini jest upozorowania samobójstwa, przez powieszenie. Jest to bardziej humanitarny sposób, gdy¿ ¶winia jest przyzwyczajona do niskich wysoko¶ci i nie boi siê tak bardzo jak przy locie z wierzowca. A wiêc, stawiamy ¶winiê na sto³ku, zawi±zujemy pêtlê i wykopujemy taboret spod racic. Nastêpnie dzownimy na Policjê i przera¿onym g³osem mówimy, ¿e znale¼li¶my powieszon± ¶winiê. Kiedy przyjedzie Policja, zapewne nie bêdzie chcia³a nam uwierzyæ, ¿e ¶winia sie sama powiesi³a i bêdziemy g³ównymi podejrzanymi w tej sprawie, a co mo¿e prowadziæ do wsadzenia do wiêzienia. By temu zapobiec, za wczasu, czyli przed powieszeniem ¶wini preparujemy list po¿egnalny o tre¶ci m.w: "Nie chcê...nie mogê ju¿ ¿yæ na tym ¶wiecie, gdzie ¿yj±  same ¶winie, panie Buzek, nie chce pan daæ rolnikom pieniêdzy, z czego ja bêdê ¿y³a, co ja bêdê jad³a kiedy mój gospodarz nie bêdzie mia³ pieni±¿ków na wykarmienie mnie. Koñczê z tym, wolê umrzeæ tu powieszona, ni¿ byc przetrzymywana g³odna jak w obozie koncentracyjnym....¦winia" Po przeczytaniu tej tre¶ci listu, policja napewno uwierzy, ¿e by³o to samobójstwo. O zgon bêdzie siê obwinia³o premiera Buzka, jednak chroni go immunitet, wiêc sprawa zostanie odroczona. 
+Zabi³e¶ ¶winiê, zatem mo¿esz uznaæ siê za prawdziwego mê¿czyznê, Polaka z krwi i ko¶ci, Polaka z rodziny polskiej i katolickiej.
+
+Olisadebe (czytaj Elmo i Lecho) 
+
+
+
+------WIEDZA O SOBIE -*
+Jednym z najnudniejszych przedmiotów szkolnych jest oczywi¶cie WOS alias Wiedza O Spo³eczeñstwie. A najbardziej uci±¿liw± czynno¶ci± jest przygotowywanie prasówki z trzech ostatnich dni. By trochê urozmaiciæ nudne ¿ycie maturzysty proponowaliby¶my wprowadziæ na miejsce tego przedmiotu, inny o nazwie nawet prawie takiej samej: WOS-wiedza o sobie. Ka¿dy za zadanie mia³by przygotowaæ ostatnie swoje trzy dni. Wszyscy byliby pod³±czeni do wykrywacza k³amstw i tym samym nie mo¿na by by³o podawaæ fa³szywych informacji. Je¿eli jednak tak by siê sta³o, osoba ta ra¿ona by by³a pr±dem. Oczywi¶cie jak to w klasie maturalnej (podejrzewam, ¿e w innych równie¿) na pocz±tku wszyscy wziêliby szansy. I dopiero teraz zaczê³oby siê robiæ ciekawie. Nikt nie chcia³by siê zg³osiæ na ochotnika, no mo¿e niektórzy co siê ucz± ca³y czas, ale tu o nich nie mówimy. Je¶li, dzieñ WOS'u by³by po sobocie lub niedzieli to oczywi¶cie opowie¶ci by³yby ciekawsze. Mo¿na by³oby siê dowiedzieæ ile kto przem³óci³ kwintali pszenicy przez weekend, czy ile razy jaka¶ kole¿anka sika³a w sobotê. I dziêki temu przedmiotowi wszyscy czwartoklasi¶ci, lekko podbudowani na pewno dotrwaliby do matury.
+
+--------ILE ¯ELU TRZEBA NA£O¯YÆ, ¯EBY W£OSY STA£Y DO WTORKU. --*
+Kiedy¶ chcia³em usprawniæ ¿ycie w mojej rodzinie, proponowa³em miêdzy innymi, ¿eby wprowadziæ kartki na obiad. Ka¿dy z rodziny przychodzi³by do kuchni, dawa³ mamie kartkê i dopiero wtedy ona wydawa³aby obiad. Je¶li zapomnia³oby siê kartki, lub zgubi³o to mama nie mog³a by wydaæ obiadu, bo przecie¿ nie wiedzia³aby, czy mo¿e nie jeste¶ jakim¶ oszustem i chcesz zje¶æ obiad na sêpa. Kolejn± moj± propozycj± by³o zrobienie tablicy informacyjnej w domu. I tak nie trzeba by by³o rozmawiaæ z innymi cz³onkami rodziny, tylko np. tato przyczepia³by karteczkê z informacj±, ¿e jutro idzie z kumplami na piwo i obiad ma byæ o 18, a nie jak zwykle o 16.
+
+----------POMYS£Y, IDEE, FARFOCLE -*
+My¶l±c o przysz³o¶ci, proponowa³bym komu¶ kompetentnemu (a takich osób nie znam) wynalezienie lusterka cyfrowego. Nad lusterkiem umieszczona by by³a malutka kamerka, która pokazywa³aby to co siê dzieje przed ni±.  Potrzebny by by³ te¿ ciek³okrystaliczny ekran, bardzo p³aski. W takim lusterku mo¿na by by³o siê przejrzeæ, powiêkszyæ wybran± czê¶æ cia³a, np. ¿eby wycisn±æ pryszcza, czy ewentualnie pomniejszyæ, by nie widzieæ pryszczy.
+
+
+-REBUS -*
+(w tym miejscu w wersji papierowej byl rebus)
+"wielkie pozdrowienia dla lecha, bo to my schizujemy w zamo¶ciu"
+Odp. Genitalia
+
+
+
+filips pisze:
+---------------------------------------------------------------------------
+FAJANS vs konfitury-9
+---------------------------------------------------------------------------
+to jest czê¶æ FilipSa * to jest czê¶æ FilipSa * to jest czê¶æ FilipSa * to jest czê¶æ 
+---------------------------------------------------------------------------
+
+
+G£UPI NIE ZNACZY M¡DRY
+
+Odnosz±c siê do pomys³u sobola, ¿eby za³o¿yæ wytwórniê g³upiego oprogramowania. Moim pomys³em jest nowy system plików. Aby zrozumieæ o co mi chodzi przedstawie po krótce system który dzia³a m.in. w linuxie. Wiêc tak: ka¿dy plik ma 3 atrybuty r=read, w=write, x=execute (pomijam takie co¶ jak grupy, ownera czy others co nie jest istotne dla wy³uszczenia idei). Czyli np. jak plik ma atrybut x to mo¿na go uruchomiæ, r - mo¿na go czytaæ, w - mo¿na w nim zapisywaæ. Moim pomys³em jest rozszerzenie tego stystemu. Do ka¿edego rodzaju atrybutu - r,w,x - by³y by dodatkowe zastrze¿enia, wzorowane na rozk³adzie jazdy PKSu. Np.: N - kursuje w dni robocze od poniedzia³ku do pi±tku, b+ - nie kursuje 25XII i drugiego dnia ¦wi±t Wielkiej Nocy, f - kursuje w dni nauki szkolnej itede. Sk³adnia: 
+r:atrybut1,atrybut2,...|w:atrybut1,atrybut2,...| x:atrybut1,atrybut2,...
+np.:
+r:N,b+,g|w:N|x:b+,c,e
+co oznacza, ¿e plik mo¿na czytaæ (r) w dni robocze pon-pt (N), oprócz 25XII i drugiego dnia ¦wi±t Wielkiej Nocy (b+) i oprócz 1 stycznia (np. g). Itede.
+
+NA £ATWIZNÊ
+
+Aby ³atwiej mo¿na by³o u³o¿yæ puzle (albo klocki) mo¿na by produkowaæ puzle (albo klocki) sk³adaj±ce siê z dwóch (albo nawet jednego) elementu.
+Albo z drugiej strony: aby by³o trudniej mo¿na by wyprodukowaæ puzle z³o¿one z 10000 elementów, które przedstawia³o by bezchmurne niebo. Albo jeszcze z kolei wracaj±c do pierwszego pomys³u takie w³a¶nie puzle (z bezchmurnym, niebieskim niebem) tyle ¿e wszystkie elementy pasuj± do siebie w dowolnej konfiguracji (np. s± to kwadraty 2x2cm).
+
+DZIEÑ ENERGETYKI
+
+Dnia 8 wrze¶nia br. odby³a siê uroczysta akademia z okazji przypadaj±cego dnia poprzedniego Dnia Energetyka. Wyrecytowany zosta³ tak¿e poni¿szy wiersz, z podzia³em na role.
+
+Dzieñ Energetyka
+s³owa: GosiaA, FilipS, Misiek
+
+7 wrze¶nia - ¶wiêto pracuj±cych mas
+a szczególnie tych, co grzej± nas.
+Bo to dzieñ energetyki
+która sprawia, ¿e dzia³aj± kontakty i styki;
+to oni daj± nam ciep³o
+by w piekarniku ciasto siê piek³o,
+oraz dostarczaj± pr±d
+tak, ¿e mamy go po t±d.
+Mikser dzia³a, ¶wiat³o ¶wieci,
+ciesz± siê nie tylko dzieci.
+Wiêc ¿e dzisiaj jest Ich ¶wiêto,
+o tym zawsze kolego pamiêtoj!
+
+
+
+GRY I ZABAWY
+
+Wiele jest sposobów na umilenie d³ugiej podró¿y np. poci±giem. Mo¿na zagraæ w karty albo porozmawiaæ z wspó³pasarzerem. Gdy jednak te zabawy znu¿± siê, albo np. gdy nie mamy kart mo¿emy wykorzystaæ ni¿ej podane pomys³y.
+1) Gdy jedziemy poci±giem. Zak³adamy siê z wpo³pasarzerem, czy poci±g ruszaj±c szarpnie wagonami czy nie.
+2) W dowolnym ¶rodku komunikacji. Zabawa w klepanie w rêce. Klepiemy w d³oñmi w d³onie wspólpasarzera na kilka mo¿liwych wariantów:
+a) klepiemy bez ³adu i sk³adu, tak aby po prostu klepaæ. Powoduje to czêsto zdenerwowanie partnera ju¿ po nied³ugim czasie, co mo¿e doprowadziæ do ciekawych zagrywek s³owno-fizycznych.
+b) klepi±c wybijamy rytm znanej lub nieznanej melodii (np. sz³a dzieweczka do laseczka itede). Partner ma za zadanie ogdadn±æ, jaka to melodia.
+c) klepanie ma symbolizowaæ przebieg jakiej¶ - wymy¶lonej przez nas i bêd±cej przedmiotem zagadki - funkcji matematycznej, w której si³a=f(czas klepania). Najpro¶ciej odgadn±æ gdy y=const. Ale po nabraniu odpowiedniej wprawy mo¿na odgadywaæ funkcje y=ax+b, y=x^2, y=x^3, y=ae^x, y=log(x) itepe. Zaznaczyæ tu nale¿y, i¿ aby pokazaæ warto¶ci ujemne, mo¿na klepaæ w odwrotn± stronê d³oni.
+
+Uzbad
+
+PREZYDENT RP
+W zwiazku z ciaglym zapychaniem mi skrzynki pocztowej wezwaniami do odbycia sluzby wosjkowej, zaplacenia podatku, uiszczenia abonamentu RTV i innymi bezuzytecznymi smieciami, ktorych i tak nie czytam, prosze o natychmiastowe usuniecie mnie z listy obywateli twojego panstwa.
+
+Buli
+
+opowiada³, ¿e przed lekcj± historii wesz³o dwóch kolesi do szafy na mapy. No i lekcja siê zaczê³a i pani sprawdza listê: Kowalski - i z szafy - "jestem" [...], Nowak - z szafy "jstem". Ale baba nie zaczai³a, ze cos nie tak. No i lekcja trwa, a jeden z kolegów w szafie pu¶ci³ b±ka, tak ¿e a¿ musieli wyj¶æ z szafy. I zapytali babki, czy mog± siê zwolniæ z lekcji bo im siê niedobrze zrobi³o.
+
+Listy do redakcji
+
+Droga Redakcjo!
+Jestem pocz±tkuj±c± wegetariank±, a moj± dewiz± jest zdrowo siê od¿ywiaæ. Mam zatem do Was dwa pytania:
+1) Tata mój uczy³ mnie zam³odu, ¿e najlepiej wychodzi bimber w proporcjach 1410. Niestety bimber taki jest bardzo tucz±cy (ok. 1230kcal/100g). Jakie powinny byæ proporcje, je¶li zamiast cukru wezmê s³odzik?
+2) W jakich proporcjach nale¿y zmieszaæ sk³adniki przy produkcji wegetariañskiego zacieru z soi?
+Z pozdrowieniami, Alicja, 15.
+
+
+
+Ciep³o-zimno.
+
+Gosia upiera siê, ¿e nie ma czego¶ takiego jak "zimno". ¯e nie mo¿na powiedzieæ, ¿e "zimno wlatuje przez okno". Ale w³a¶ciwie dlaczego? Wyobra¼my sobie tak± sytuacjê: w ciep³ym pokoju otwieramy okno. Zamiast mówiæ o propagacji zaniku ciep³a - do pokoju wlatuje powietrze o mniejszej temperaturze przez co ciep³o Q jest oddawane z powietrza pokojowego do strumienia powietrza z zewn±trz, mo¿na i wrêcz wygodniej jest powiedzieæ, ¿e do pokoju wlatuje zimno. Posuñmy siê dalej. Nie ma takiej wielko¶ci fizycznej jak "wolno¶æ". Ale przecie¿ mówimy, ¿e np. ¶limak jest wolny. No i co to znaczy? Proponuje zatem zdefiniowaæ wolno¶æ jako odwrotno¶æ szybko¶ci. Jednostk± wolno¶ci w uk³adzie SI by³ by s/m (czytaj: sekunda na metr). Mo¿na by zatem u¿ywaæ, np. celem unikniêcia powtórzeñ (np. w wypracowaniu) sformu³owania, ¿e samochód sportowy jest "ma³o wolny" itepe. Tak samo mo¿na by stosowaæ wielko¶æ fiz.: "nisko¶æ" - odwrotno¶æ wysoko¶ci, "krótko¶æ" odwrotno¶æ d³ugo¶ci itede.
+
+Nielegalnie
+
+Zawsze lubi³em ³amaæ niezbyt m±dre przepisy. W tym celu np. wywozi³em ksi±¿eczkê wojskow± za granicê (wbrew pouczeniom na ostatniej stronie) i nie trzyma³em siê uchwytów w autobusie (wbrew wyci±gowi z przepisów) itepe.
+
+Szablon na wczoraj:
+(w tym miejscu w wersji papierowej jest szablon zrobiony przez filipsa)
+Co ciekawe postaæ pochodzi ze znaczka poczty polowej który ma tytu³ "Pierwszy Polak w Kosmosie".
+
+Pleonazmy [bez polskich fontow]
+
+Ta oto lista skomponowana zosta³a onegdaj przeze mnie i W³odka Nata; umieszczona by³a te¿ w internecie na nieistniej±cych ju¿ stronach Frontu Wyzwolenia Arbuzów. Przytaczam j± celem udostêpnienia szerszemu spektrum czytelników (?)
+Przy okazji dziêkujê za wydatnê pomoc mojej pani wychowawczyni, bez której lista ta nie bylaby az tak obszerna. 
+* akwen wodny 
+* bezglosna cisza 
+* bezsensowny nonsens 
+* chlew dla swin 
+* ciemnoskory Murzyn 
+* cofnac sie do tylu (na wstecznym) 
+* dziewietnasta wieczorem 
+* empiryczne doswiadczenie 
+* folklor ludowy 
+* geneza powstania 
+* hermetycznie szczelny 
+* inauguracja rozpoczecia 
+* jednooki cyklop 
+* kleczec na kolanach 
+* kobieta plci pieknej 
+* kwadrat o wszystkich 4 bokach rownych 
+* leciwy starzec 
+* lektura do czytania 
+* miesiac styczen 
+* myszka Mickey Mouse 
+
+
+
+K±cik £amacza Umys³u
+
+Rebus:
+(w tym miejscu w wersji papierowej jest rebus)
+
+
+-----------------------
+Mail-Art. Trochê Teorii:
+
+Pochodzi z katalogu wystawy "Mail-Art. -Sztuka Poczty". by Guy Bleus.
+
+Komunikacja jest przekazywaniem informacji. Sztuka poczty jest sztuk± komunikacji (za po¶rednictwem poczty, telegrafu, teleksu, telefaksu, komputera, telefonu...). W swej najbardziej krañcowej formie sztuka komunikacji jest sztuka pozbawion± materialnego obiektu (np. sztuka telefonu). Jej produkty to tylko rezultaty (rejestracja) procesów. Produkty (przedmioty, wspomnienia...) s± mniej wa¿ne ni¿ procesy (dzia³ania). Sztuka poczty jest tak¿e sztuk± procesualn±. W sztuce poczty dzia³ania oparte na wzajemno¶ci s± w zasadzie wa¿niejsze ni¿ dzie³a. W swej najlepszej formie sztuka poczty jest zawsze dzia³alno¶ci± zbiorow±, bezpo¶rednim lub po¶rednim dialogiem. [...]
+Tak czy owak, sztuka poczty prowadzi tak¿e do wielu innych problemów komunikacyjnych, takich jak: nieporozumienia, brak odpowiedzi na wysy³kê, niedotrzymywanie zg³oszenia, zagubienie zg³oszenia w medium pocztowym, nieobecno¶æ X w katalogu, nieobecno¶æ Y na li¶cie pocztowej, nieotrzymanie zaproszenia przez Z, etc., etc... Bardzo trudno wyja¶niæ te problemy pocz±tkuj±cym artystom poczty lub ludziom spoza sztuki poczty. Sztuka poczty jest tak okropnie "ludzka"! Bywa ¼ród³em rado¶ci, bywa oceanem irytacji. [...]
+C. Wzory komunikacji
+Sztukê poczty mo¿na sprowadziæ do "wzorów" komunikacji. Wzory te mo¿na podzieliæ na "(pó³-)bezpo¶rednie" lub "po¶rednie". Wiêcej informacji na temat niebezpo¶rednich wzorów komunikacji znale¼æ mo¿na w katalogu sztuki poczty pt. "Are You Experienced? L.H.F.S." (Bruksela, 1981, mikrofilm nr 17). Przedstawione dalej wzory s± (pó³-)bezpo¶rednie:
+
+1) £añcuch, por. listy ³añcuchowe
+A -> B -> C -> D -> E
+2) Ko³o, por. pokazy sztuki poczty, przedsiêwziêcia sztuki poczty, zgromadzenia
+	 D
+	 |
+C <-> A <-> B
+	 |
+	 E
+
+3) Okr±g, por. zbiorowe kola¿e, zbiorowe prace audio-, etc.
+	A
+     / \
+    E   B
+    |   |
+    D - C
+
+4) Kombinacja 1). 2) lub 3) np. 2) i 2) (=Commonpress; Bambu; Care).
+
+
+Nauka i ¿ycie
+
+Mam pomys³. Chodzi o to, ¿e miewam czêsto problemy z tym, jak siê ubraæ rano wychodz±c z domu. Bo nie umiem jako¶ skorelowaæ grubo¶ci ubrania z temperatur± odczytan± na termometrze. Poza tym, temperatura to nie wszystko. Dochodzi jeszcze s³oñce, wiatr i opad atmosferyczny. 1/2 biedy, jak w domu jest tata - on mi zawsze powie, jak siê ubraæ (a mama zawsze mówi, ¿e jest zimno). No wiêc pomys³ polega na tym, ¿eby opracowaæ program, wzór mat. albo algorytm który by dzia³a³ tak:
+Wej¶cie: dane atmosferyczne (temp, V wiatru, opad, zachmurzenie)
+Wyj¶cie: Liczba
+Nastêpnie otrzyman± liczbê porównywa³o by siê ze skal±, na której u góry naniesiona by³a by podzia³ka z liczbami a na dole obrazki ubrania. I tak np. przy 1 by³ by obrazek t-szerta, przy 2 - koszuli flanelowej, 3 - sfetra, 4 - polaru itede. Podzia³ka ponadto powinna pozwalaæ na ³atw± inter- i ekstrapolacje.
+
+Stopka  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Nu Pagadi Zajac w internecie: http://www.npz.z.pl
+Przygotowywujê te¿ stronê o starych polskich pude³kach zapa³ek.
+Odpowied¼ do rebusu: nie wszystko z³oto co siê ¶wiêci garnki lepi±.
+Pozdorwienia: GosiaA, Fabryka Kaszlu, Ziutek za info, Ales Holub (Czechy), Micha³ Segit (kosmos);
+A, sobol, co z t± gr± rpg o go¶ciach z kozmosu?
+
+
+
+
+
+
+
+==============
+G£OS ¦MIETNIKA 
+==============
+Czyli ta czê¶æ zina "Miewali¶my lepsze dni" któr± opiekuje siê
+                                                   -------ZERO
+Zapraszam do czytania
+
+0123456789 ABCDEFGHIJKLMNOPRSTUVWXYZ
+THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
+êó±¶³¿¼æñ
+
+Najpierw parê s³ów o mnie. Nazywam siê Zero, jestem m³ody i przystojny, wiêc dziewczyny mówi± na mnie Enrique. Jestem silny i trenujê sztuki walki. Nieraz lubiê sobie je¼dziæ na dyskotekê swoim samochodem. Poza tym jestem artyst±.
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++ Przeciwko niektórym bezpodstawnym spekulacjom +
++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Wielu autorów zajmuj±cych siê rozwa¿aniami nt. kierunku, w którym zmierza ludzko¶æ - miêdzy innymi Karaluh z Augustowa - przewiduj±, ¿e w przysz³o¶æi wynaleziona zostanie tzw. fura bez konia. Fura taka mia³aby poruszaæ siê sama, bez udzia³u konia b±d¼ jakiegokolwiek innego zaprzêgniêtego zwierzêcia, i to z prêdko¶ci± znacznie przekraczaj±c± prêdko¶æ zwyk³ej fury. (niektórzy autorzy podaj± ¿e 7 wiorst taka fura robi³aby w nieca³e trzy pacierze). Mit takiej fury jest bardzo ¿ywy nawet w¶ród gminu, w zesz³ym roku g³o¶na by³a sprawa kowala spod Raciborza który rzekomo mia³ skonstruowaæ tak± furê, napêdzan± spalaniem oleju ziemnego. W niniejszym artykule chcia³bym wykazaæ, ¿e skonstruowanie fury bez konia jest naukowo niemo¿liwe, tak teraz jak i w przysz³o¶ci.
+Ka¿dy wie jak zbudowana jest fura - posiada cztery obite blach± ko³a, dyszel i furê w³a¶ciw±. I w³a¶nie kwestia dyszla czyni niemo¿liwym zbudowanie fury bez konia. Bowiem jak ³atwo zauwa¿yæ kiedy do fury nie zaprzêgniemy konia dyszel le¿y lu¼no i opiera siê o ziemiê, w ten sposób hamuj±c furê i czyni±c jej ruch niemo¿liwym.
+
+   a_teraz_co¶:
+Z ¿ycia robali:
+
+(1)
+- gdzie idziesz?                    - na basen
+===========?==={*}                -----------(O)
+
+(2)
+- mogê z tob±?                   - a masz czepek?
+=========?...=={*}               -----!!?----(O)
+(c.d.n)
+
+
++++++++++++++++++++++++++++++++++++++
++ Po co kombinowaæ lepiej przepiszê +
++++++++++++++++++++++++++++++++++++++
+To nie moje ale ³adne:
+
+The tao that can be tar(1)ed
+is not the entire Tao.
+The path that can be specified
+is not the Full Path.
+
+We declare the names
+of all variables and functions.
+Yet the Tao has no type specifier.
+
+Dynamically binding, you realize the magic.
+Statically binding, you see only the hierarchy.
+
+Yet magic and hierarchy
+arise from the same source,
+and this source has a null pointer.
+
+Reference the NULL within NULL,
+it is the gateway to all wizardry.
+
+
+- Ooooooooo! - Powiedzia³ Dziadek Piesek.
+
++++++++++++++++++++++
++ Prawdziwa sztuka  +
++++++++++++++++++++++
+
+Kiedy organizuje siê jak±¶ prywatkê m³odzie¿ow± albo imieniny to mo¿na robiæ ró¿ne psoty i sztuki ¿eby rozerwaæ m³odzie¿.
+sztuka nr 1). Palenie w³osów ³onowych. Sposób wykonania:
+- k³adziemy siê na ziemi (najlepiej na kocu)
+- zdejmujemy spodnie
+- odchylamy majtki na tyle, bo ods³oniæ w³osy ³onowe - albo wogóle zdejmujemy majtki
+- zapalniczk± podpalamy w³osy
+W³osy mog± paliæ siê nawet kilkana¶cie sekund. P³omieñ idzie w górê, wiêc oparzenie siê nie grozi (chyba, ¿e robi siê to na stoj±co). Jak ju¿ za bardzo parzy to mo¿na miejscami przyt³umiaæ p³omieñ d³oni±, tak, ¿eby siê rozprzestrzenia³ w miarê równomiernie.
+sztuka nr 2). Palenie albo zdrowie. ¯ywy obraz. Sposób wykonania:
+- z koca robimy parawan
+- w s±siednim pustym pokoju prosimy kolegê ¿eby nam na pupie namalowa³ twarz (k³adziemy siê na boku, na lewym po¶ladku malujemy oczy i nos, a odstêp miêdzy po¶ladkami po namalowaniu warg s³u¿y jako usta).
+- wk³adamy spodnie i wracamy do towarzystwa
+- prosimy kogo¶ (a chwilê o papierosa
+- za parawanem zdejmujemy majtki i wk³adamy w pupê pal±cego siê papierosa
+- kolega ods³ania parawan
+Mo¿na te¿ graæ w ró¿ne gry i zabawy:
+SZPADEL/ Gra w szpadel jest prosta ale bardzo fajna. Chodzi w niej o to, kto siê mocniej stuknie szpadlem w nogê.
+
+Dziadek Piesek zakaszla³ i wyjrza³ przez okno:
+- A jak, panie, ten tego ten....
+- Z robakami?
+- No w³a¶nie tak, z robakami, panie redaktorze.
+
+Czy jeste¶ tego pewna?      Tak, ca³kowicie. 
+--------------o}       /@/--OOOOOOOOOOOOOO----
+
+
++++++++++++
++ Z ¿ycia +   
++++++++++++---------------------------------->
+Za dawnych czasow poczatków komputeryzacji (ZX81, Spektrum itp) mojego ojca znajomego córka jak siê uczy³a czytaæ to nie mog³a czego¶ tam przeczytac. To mówi± do niej: to przeczytaj po literach. Na to ona: "A-L-A-spacja-M-A-spacja-A-S-A".
+
+
+
+<Z CYKLU NA DROGACH I BEZDRO¯ACH EWOLUCJI OKRYTONASIENNYCH>:
+~¦lepa dró¿ka i brakuj±ce ogniwo:~
+
+        +------------------------------------------------------>>>>>>
+        |   +-----(0)
+--------+---+---------------+                        +--->>>
+                            |             +----------|
+                            |             |          +---------------------------->>>>
+                            +----(???)----+
+                                          +------------------->>>>>>>
+
+
+
+O tym, jak ch³op magistrów przechytrzy³-+
+         cykl                           | 
+<---------------------------------------+
+  Nieraz kiedy mi przyjdzie co¶ do g³owy to piszê na ró¿ne grupy dyskusyjne.
+
+(-czê¶æ-pierwsza-)(-krasnoludki-)(-czê¶æ-pierwsza-)
+
+Zapyta³em raz na pl.sci.fizyka
+
+Nieraz zastanawiam siê nad tym w jaki sposób krasnoludki postrzegaj± rzeczywisto¶æ. Na ten trop nasunê³o mnie spostrze¿enie, ¿e owady (niektóre) mog± chodziæ po ka³u¿y, podpieraj±c siê na napiêciu powierzchniowym, natomiast ja nie mogê. Tak wiêc dla tego owada woda jawi siê jako substancja ca³kiem inna ni¿ ta, któr± znam ja. Ale wnikaæ co te¿ sobie my¶li taki owad to nieproste, wiêc pos³ugujê siê
+tutaj pojêciem krasnoludka, który ma podobn± do mojej budowê cia³a tylko jest proporcjonalnie mniejszy (przyjmijmy, ¿e to mo¿liwe). Tzn. ma wzrost 18 mm - 100 razy mniejszy od mojego, masê 100^3 razy mniejsz± itp - ale jego mózg i narz±dy zmys³ów dzia³aj± na takiej samej zasadzie, jak moje. Po prostu jest to taki 'ja'
+pomniejszony 100 razy.
+Tak wiêc jak taki krasnoludek postrzega rzeczywisto¶æ? Przede wszystkim wszystko wydaje mu siê 100 razy wiêksze ni¿ mi. Dla mnie kwiatek o wysoko¶ci 5 cm jest niewielki, dla niego jest 2 razy wiêkszy od niego - tak, jakby mia³ 5 krasnoludkowych metrów. Proste i zrozumia³e, nie?
+Ciê¿ar. Dla krasnoludka wszystko jest ciê¿sze ni¿ dla mnie. Ile razy ciê¿sze? Mo¿na by powiedzieæ, ¿e skoro wymiary liniowe s± dla niego 100 razy wiêksze, wiêc
+objêto¶ci 1000000 razy wiêksze, no i ciê¿ary równie¿. Wiêc to co dla mnie wa¿y 1 gram dla krasnoludnka wa¿y 1 tonê. Ale czy na pewno? Ciê¿ar ocenia siê podnosz±c badany przedmiot w rêku. Jasne, ¿e je¶li by³bym 2 razy silniejszy to wszystko
+sta³oby siê dla mnie pozornie (?) 2 razy l¿ejsze. A ile razy s³abszy jest krasnoludek od cz³owieka? Mi siê wydaje, ¿e chyba nie 100^3 tylko 100^2 razy. Bo si³a
+miê¶ni jest proporcjonalna do ich pola przekroju a nie objêto¶ci. Chyba. Trzeba
+by spytaæ na pl.sci.biologia. Tak, to logiczne... Ale nie bêdê t³umaczy³ bo siê
+zamotam... Grunt, ¿e ja rozumiem. Zreszt± tak chyba kiedy¶ pisali w "Szkie³ku i
+Oku". Ale w takim razie - skoro objêto¶ci s± wiêksze milion razy a ciê¿ary tylko dziesiêæ tysiêcy to wszystkie ciê¿ary w³a¶ciwe dla krasnoludka s± sto razy mniejsze! Nie dziwota wiêc ¿e mrówki tak lekko sobie d¼wigaj± wielkie - w porównaniu z ich rozmiarami - ig³y, patyczki itp. Tak wiêc dla krasnoludka woda ma gêsto¶æ 10 gram na decymetr sze¶cienny. Litr wody wa¿y 10 gram... Wiadro wody ile mo¿e
+mieæ - 25 litrów - wa¿y 250 gramów - æwieræ kilo. Wiêc dlatego pewnie krasnoludki s± takie pracowite. W naszym ¶wiecie "Syrenka" (samochód) wa¿y z tonê. Za to krasnoludkowa syrenka dla krasnoludka wa¿y 10 kilo. Dziwne, no ale tak naprawdê wychodzi. Trzeba zrewidowaæ bajki... Zreszt±, sam krasnoludek dla siebie wa¿y z pó³ kilo.
+A jak krasnoludek odbiera czas? Czy dla niego czas leci wolniej, szybciej, czy tak samo jak mi? O, to jest ju¿ do¶æ skomplikowana kwestia... Bo w zasadzie mo¿na by³oby pomy¶leæ, ¿e skoro mózg ma mniejszy, to impuls nerwowy szybciej przeleci z jednego koñca mózgu w drugi, wiêc te¿ jego mózg bêdzie pracowa³ szybciej od mojego, wiêc ¶wiat zewnêtrzny bêdzie wydawa³ mu siê wolniejszy... I to sto razy wolniejszy... Bo ¶rednia odleg³o¶æ miêdzy dwoma neuronami bêdzie sto razy mniejsza... Wiêc za tym id± zaraz dalsze konsekwencje.
+Co z przyspieszeniem ziemskim? Dla mnie wydaje siê, ¿e swobodnie i bez oporów spadaj±cy przedmiot po pierwszej sekundzie ma prêdko¶æ ok. 10 m/s. (v = g*t; g=9.81 m/s^2, t = 1 s). Ale poniewa¿ krasnoludkowa sekunda to tylko 0.01 ludzkiej sekundy wiêc po 1 krasnoludkowej sekundzie cia³o to bêdzie mia³o prêdko¶æ tylo 0.1
+ludzkiego metra na ludzk± sekundê. No ale jeszcze przeliczmy tê prêdko¶æ z ludzkich metrów na sekundê na jednostki krasnoludkowe. Ludzki metr to 100 metrów krasnoludkowych, ludzka sekunda to 100 krasnoludkowych sekund. Tak wiêc prêdko¶ci krasnoludek odbiera tak samo jak my! Wiêc przyspieszenie ziemskie dla krasnoludka
+wydaje siê byæ 100 razy mniejsze ni¿ dla nas... oko³o 0.1 m/s^2. Wiêc tak, prêdko¶ci odbiera jako takie same, wiêc przyspieszenia jako 100 razy mniejsze... Aha, no tak, i dlatego przyspieszenie ziemskie jest dla niego 100 razy mniejsze. Wiêc tak: wyobra¼my sobie ¿e ja zrzucam swój ludzki telefon ze sto³u a krasnoludek
+zrzuca swój krasnoludkowy telefon z krasnoludkowego sto³u. I porównajmy te obie
+sytuacje. Dla mnie mój telefon wa¿y a niutonów i spada z przyspieszeniem b, poniewa¿ jest przyci±gany przez Ziemiê o masie c. Krasnoludkowy telefon o ciê¿arze a/100 krasnoludkowych niutonów spada z przyspieszeniem b/100 poniewa¿ jest jest przyci±gany przez Ziemiê o masie c. Krasnoludkowy telefon o ciê¿arze a/100 krasnoludkowych niutonów spada z przyspieszeniem b/100 poniewa¿ jest przyci±gany przez Ziemiê (zak³adam, ¿e krasnoludek chocia¿ ma swój ma³y krasnoludkowy
+telefon, samochód i domek to jednak ¿yje na naszej Ziemi. Gdyby ¿y³ na Ziemi krasnoludkowej, 100 razy mniejszej od naszej czê¶æ spraw wygl±da³aby inaczej. Ale o tym zaraz); aha, no wiêc jest przyci±gany przez Ziemiê o masie... w³a¶nie, jak
+to jest z masami? W jaki sposób oceniamy masê cia³a? Masê bezw³adno¶ciow± oceniamy patrz±c, jakie przyspieszenie bêdzie mia³o cia³o po przy³o¿eniu do niego danej si³y. Wiêc tak. Je¿eli ja popchnê z ca³ej si³y fortepian to nabêdzie on przyspieszenia d. Je¶li krasnoludek popchnie z ca³± swoj± si³± (obiektywnie mniejsz± od mojej 100^2 razy) krasnoludkowy fortepian (obiektywnie maj±cy masê 100^3 razy
+mniejsz± od ludzkiego) to _ja_ przyspieszenie tego fortepianu oceniê jako 100 razy wiêksz±. Ale to przyspieszenie krasnoludkowi z kolei wyda siê 100 razy mniejsze. Wiêc w sumie: je¶li ja popchnê z ca³ej si³y swój fortepian, a krasnoludek swój to obaj zaobserwujemy to samo przyspieszenie - wiêc krasnoludkowi jego fortepian wydaje siê mieæ masê bezw³adno¶ciow± tak± sam± jak mój fortepian dla mnie, choæ jego ciê¿ar jest dla krasnoludka 100 razy mniejszy ni¿ dla mnie ciê¿ar mojego fortepianu. No wiêc krasnoludek masê w³a¶ciw± (mam na my¶li masê jednostkowej
+objêto¶ci danej substancji) ró¿nych substancji ocenia tak samo jak ja. Ale jak wspomnia³em rozwa¿am na razie przypadek krasnoludka ¿yj±cego na naszej ludzkiej Ziemi, która krasnoludkowi wydaje siê mieæ objêto¶æ 100^3 razy wiêksz± ni¿ mi - wiêc i masa Ziemi wynosi dla niego (100^3)*c.
+Wracaj±c do przyk³adu z telefonem: przyspieszenie z jakim spada telefon i tak nie zale¿y od ciê¿aru telefonu. Ale zauwa¿my, ¿e choæ jest (to spadanie) spowodowane przyci±ganiem masy 100^3 raza wiêkszej to i tak ten telefon spada ze 100 razy mniejszym przyspieszeniem... Wiêc dla krasnoludka sta³a grawitacji (du¿e G we wzorze F = G*((m1*m2)/d^2) ) jest 100^4 razy mniejsza ni¿ dla mnie... Tak? Nie! Nie uwzglêdni³em, ¿e dla krasnoludka ¶rodek naszej wspólnej Ziemi znajduje siê w
+odleg³o¶ci 100 razy wiêkszej. Wiêc w sumie G jest tylko 100^2 (dziesiêæ tysiêcy) razy mniejsze.
+A jak to wszystko wygl±da³oby, gdyby krasnoludek ¿y³ na krasnoludkowej Ziemi, 100 razy (liniowo) mniejszej od naszej?
+0^3 raza wiêkszej to i tak ten telefon spada ze 100 razy mniejszym przyspieszeniem... Wiêc dla krasnoludka sta³a grawitacji (du¿e G we wzorze F = G*((m1*m2)/d^2) ) jest 100^4 razy mniejsza ni¿ dla mnie... Tak? Nie! Nie uwzglêdni³em, ¿e dla
+krasnoludka ¶rodek naszej wspólnej Ziemi znajduje siê w odleg³o¶ci 100 razy wiêkszej. Wiêc w (...)
+      Na to odpowiedzial Kr**sztof Mn*** <km@****.lodz.****.pl>:
+co nastepuje:
+	~pocz±tek~cytatu~
+Sobol wrote:[dlugie ale ladne]
+
+Swietna zabawa, polecam! 
+Tez sprobowalem, wyszly mi odrobinke inne wyniki. Wszystko oczywiscie zalezy od przyjetych zalozen, modele moga byc rozne.  Zacznijmy od dlugosci. To oczywiste, przy skali s dlugosc l -> s*l Niech krasnoludkowy metr=10cm. Sily - swietnie zauwazyles ze zaleza od powierzchni przekroju. I to nie tylko sila miesni, ale tez wytrzymalosc kosci itp. Czyli F~s^2 czyli 1 niuton krasnoludkowy = 0.01N  Teraz czas. Tu wlasnie wszystko zalezy od zalozen. Najprostsze: droga, jaka ma do przebycia impuls nerwowy jest proporcjonalna do dlugosci ciala. W konczynach to prawda, ale w mozgu? A kto wie ile neuronow ma krasnoludek?! Tyle samo czy 1000x mniej? No ale zostanmy przy najprostszej wersji - t -> s*t czyli 1 krasnoludkosekunda = 0.1s Teraz uwaga - predkosc v -> v bez zmian! Krasnoludek biega tak samo szybko jak my. Czy to ma sens? Chyba tak, wystarczy popatrzec jak szybko biegaja wiewiorki.  Przyspieszenie a -> s^-1 *a (dlugosc/czas^2) czyli 1 krasnoludkometr/(k)s^2 = 10m/s^2 czyli dla krasnoludkow g jest 10x mniejsze.  A masy? F=m*a, dla krasnoludkow s^2*F=m'*s^-1*a, czyli m'=m*s^3 a zatem masa skaluje sie tak jak objetosc, gestosc zostaje stala! 1krasnoludkokilogram=1g  Zauwazmy ze krasnoludek majac 1/100 sily czlowieka ma do utrzymania tylko 1/1000 tego ciezaru. Czy nie oslabna mu od tego miesnie? Gdyby duzo cwiczyl, spokojnie moglby podniesc 10x tyle ile wazy. O ile wiem, niektore owady tez to potrafia. A jak pieknie by skakal! Wysokosc skoku ~ sila*dlugosc nogi/m*g nie zalezy od skali. Krasnoludek skacze jak czlowiek. A widzieliscie jak skacze kot? Moim zdaniem wyzej niz czlowiek... Praca i energia. Praca skaluje sie jak s^3 czyli 1krasnoludkodzul=0.001J Czyli zeby wykonac te sama prace krasnoludek musi tyle samo (w swoich jednostkach) zjesc. Ale musi jesc 10x czesciej z uwagi na roznice czasu - moc skaluje sie jak s^2...  Co ciekawe jak s^2 skaluje sie tez szybkosc utraty ciepla (proporcjonalna do powierzchni ciala), wiec i z innych powodow musialby jesc wlasnie tyle. Ale jakby jadl za duzo, roztylby sie 10x szybciej (objetosc wynosi przeciez 1/1000 czlowieka).  Wrocmy do predkosci. Opory tarcia sa oczywiscie 10x mniejsze z powodu mniejszego g. Opory powietrza - tu jest problem z liczba Reynoldsa, ktora jest 10x mniejsza, ale to jeszcze nie taka straszna roznica. No wiec opor ~rho*v^2*S czyli skaluje sie jak s^2 (jak powierzchnia), czyli tak jak sila. Tak wiec sil starczy na poruszanie sie, ale z przyczepnoscia moga byc klopoty. Krasnoludzkie samochody beda buksowac i z trudem wyrabiac na zakretach. To znaczy ich mechanika ruchu bedzie taka sama jak naszych, ale sa duzo wrazliwsze na wiatr i aerodynamike. Za to kierowcy maja 10x szybszy refleks. Prawa grawitacji i innych jednostek (elektrycznosc, magnetyzm, napiecie powierzchniowe, lepkosc...) nie chce mi sie przeliczac. Moze ktos to dokonczy... 
+Pozdrawiam
+   krzys  
+
+
+
+Na to vdron*@en***.net.pl odpisa³:
+Z tego wszystkiego sobie pomysla³em, ¿e gdyby rozpatrywaæ zmiany skali nie tak du¿e jak podane, to wynika³oby z tego, ¿e na przyk³ad ludzie ni¿si maj± "lepiej" ni¿ ludzie wy¿si. To by wyjasnia³o, dlaczego ludzie mali np. Napoleon, byli tacy wielcy. ;))  
+
+
+  ~~~~~~
+ALE ~wróæmy do g³ównych zagadnieñ politycznych epoki...
+oto nadci±ga..........
+dzia³ szaradziarski...
+szary i dziarski......
+........PO£AM SE G£OWÊ
+
+--------------->
+GRA M£ODZIE¯OWA
+
+Przedstawiam grê planszow± pt. "M³odzie¿ nie ma ¿adnych perspektyw". W tê grê mo¿na graæ samemu, mo¿na te¿ graæ z kolegami. Tak czy siak zawsze gra siê tylko jednym pionkiem. Do gry potrzebne jest:
+- pionek. Jak ju¿ wspomnia³em - jeden.
+- specjalna plansza, której wzór zamieszczam poni¿ej:
+
+      +----+
+      |    |
+      |    |
+      +----+
+
+Jak widaæ plansza sk³ada siê tylko z jednego pola o kszta³cie kwadratu. Gra polega ¿e:
+Ustawiamy pionek na polu. Nastêpnie nie mamy go gdzie przestawiæ. Pionek musi do koñca gry staæ na tym polu a my siê frustrujemy.
+
+
+
+{ Uwaga! Je¶li dotar³e¶ a¿ do tego miejsca zina do mo¿esz dopisaæ sobie 3 punkty za wytrzyma³o¶æ ! Brawo! }
+
+
+
+
+--------------Polska m³odzie¿
+Polska m³odzie¿ ma ju¿ dosyæ ludzi, którzy mówi± jej jak maj± ¿yæ i co maj± je¶æ. Polska m³odzie¿ nie chce d³u¿ej byæ tuczona batonikami, czekolad± i ¿ó³tym serem. To czego naprawdê potrzebuje polska m³odzie¿ to
+POTRAWY Z KAMIENI
+Do robienia potraw z kamieni potrzebne s± przede wszystkim kamienie. Kamienie mo¿na nazbieraæ gdzie¶ w parku albo na podwórku, nie za du¿e ale takie w sam raz. Ju¿ samo zbieranie kamieni jest fajne. W jesienne przedpo³ednie, kiedy dzieci s± w szkole a normalni w pracy wybieramy siê na spacer. Najlepiej znale¼æ miejsce, gdzie mo¿emy pochodziæ sobie miêdzy drzewami, grzebaæ w usch³ych, ale wilgotnych li¶ciach, niespiesznie ogl±daæ kamienie, wa¿yæ je w rêce, oceniaæ fakturê i dotykalno¶æ. Nie ka¿dy kamieñ nadaje siê na potrawê. I na to nie ma ¿adnej zasady - to siê po prostu wie.
+Potem koniecznie trzeba je umyæ i wygotowaæ, ¿eby czego z³ego nie zje¶æ razem z potraw± kamieniow±. Tak naprawdê to nie wiem, czy w kamieniach nie ma np jakich¶ paskudztw mineralnych, o³owiu itp, ale mam siln± wiarê, ¿e wiêkszo¶æ z tego, co najgorsze w gor±cej wodzie siê wykazi. Taki ugotowany kamieñ wyci±gamy prosto z wrz±tku i k³adziemy na talerzyk, no i wtedy on b.fajnie wygl±da kiedy tak szybko schnie.
+ Jak na razie opracowa³em kilka potraw z kamieni, ale w praktyce wypróbowa³em tylko jedn± - ciastka z kamieniami.
+Ciastka z kamieniami robimy tak: robimy kruche ciasto (je¶li nie wiesz jak robi siê kruche ciasto to zapytaj mamy albo kole¿anki, albo sprawd¼ w ksi±¿ce kucharskiej), wiêc robimy to ciasto, oblepiamy nim kamienie i
+pieczemy w piekarniku. Zrobi³em, jad³em. Oki, tylko trzeba uwa¿aæ, ¿eby nie nadziaæ siê zêbem na kamieñ. Trochê dziwnie cz³owiek siê czuje jak je takie co¶, ale oki.
+Oprócz tego mo¿na te¿ robiæ herbatê z kamieni.
+
+
+
+
+Robaki nie martwi± siê nadwag±. Robaki martwi± siê jak s± za d³ugie
+
+-----------------------------------------------------(0)
+
+     - znam genialn± dietê - 3 centymetry w tydzieñ
+---------------------------------------------------<*}
+
+
+
+W Z³otej Kurce
+Ostatnio bêd±c w Warszawie kole¿anka powiedzia³a dla mnie: "Nie id¼ ty Piotrek do innego baru mlecznego, tylko do Z³otej Kurki", który uprzednio by³ dla mnie nieznany. Bar ten mie¶ci siê przy ulicy Marsza³kowskiej ko³o placu Konstytucji. Wszed³szy witaj± nas na ¶cianach dwie ³adne mozaiki: przedstawiaj±ce zwierzêta domowe, co¶ w stylu socrealu z lat 60-tych, tak na mój gust. Ale prawdziwy zachwyt
+prze¿y³em spojrzawszy na jad³ospis znajduj±cy siê na ¶cianie; wybór (zw³aszcza jak chodzi o wegetki) nie jest mo¿e a¿ taki jak w poznañskim barze "Pod Arkadami", ale ceny naprawdê dorównuj± tej legendzie barów mlecznych. Wybra³em sobie nastêpuj±cy zestaw: kasza gryczana bez t³uszczu, do tego pieczarki duszone w ¶mietanie, do tego surówka z czerwonej kapusty, do tego kisiel ze ¶mietan± i kakao. W sumie zap³aci³em 2 z³ote 90 groszy, a na¿ar³em siê jak przys³owiowa ma³pa kitu, naprawdê na porcjach tam nie oszczêdzaj±. Poza tem ziemniaki bez t³uszczu kosztuj± 22 grosze i s± smaczne. Potrawa jakiej nie polecam to ry¿ ze ¶mietan± i cukrem - zreszt± w ma³o którym barze umiej± to zrobiæ dobrze.
+Ogólnie oceniam, ¿e jest to najlepszy bar mleczny w Warszawie - z tych, w których bywa³em.
+
+
+{ pole 128 - mleczarnia. Je¶li umiesz wymieniæ 15 potraw z sera mo¿esz dopisaæ sobie 3 punkty do inteligencji }
+
+
+
+-----------------GRA M£ODZIE¯OWA
+puzzle
+	Kiedy¶ Filips proponowa³, ¿eby zbudowaæ puzzle jednoelementowe. Ja za¶ parê lattemu potrzebowa³em do czego¶ 4 lusterka, wiêc kupi³em je na rynku od ruskich. Potem zarzuci³em my¶l zbudowania pog³êbiacza odleg³o¶ci, a lusterka zostaly. Wiêc
+z m³odsz± siostr± bawi³em siê ¿e s± to puzzle, z których 3ba zbudowaæ w³asn± twarz.
+
+
+-----------
+ze slownika
+
+Na pewnej grupie dyskusyjnej pan B. ostatnio napisal, ze slowa 'socjalizm' uzywa zgodnie z definicja podana w slowniku jez. polskiego. (kiedy byla dyskusja czy
+socjalizm moze byc bezpanstwowy). Pomyslalem sobie ¿e to ¶wietny pomysl i ¿e ja
+te¿ zacznê u¿ywaæ s³ów zgodnie z ich definicj± ze slownika. Otwar³em slownik jez. polskiego (wyd.1982, redaktor naukowy prof. dr Mieczyslaw Szymczak) i oto co tam widze:
+
+cipka - ¿ III, CMs. ~pce, lm D. ~pek, pot. pieszcz. <<kura, zw³aszcza m³oda, niedu¿a>>
+---koniec definicji---
+
+æpaæ ndk I, æpam, æpasz, æpaj±, æpaj, æpa³, æpany, posp. <<je¶æ ¿ar³ocznie>>: Æpaæ pajdê chleba
+---koniec definicji---
+
+I tak to bywa z definicjami ze s³ownika.
+Ot, taka ciekawostka.
+
+
+
+
+
+
+- czy napisa³e¶ ju¿ do Stasiaka?
+------------------------------------(?)~
+
+	...zapyta³ Robak Leon dziadka pieska...
+Byæ mo¿e pamiêtamy z poprzedniego numeru pisemka: istnieje akcja, ¿eby pisaæ g³upie emajle do Roberta Stasiaka. Robert uwielbia takie e-maile!!! (rozmawia³em z nim ostatnio, mówi ¿e dosta³ parê... Dziêki, wierni czytelnicy!!!). Robert Stasiak, mieszkaniec Dzier¿oniowa, dziêkuje wam za wszystkie g³upie emalje. Poproszê go, ¿eby po tym numerze podforwardowa³ mi najciekawsze a ja je opublikujê!
+----UWAGA-UWAGA-UWAGA--!
+ Robert Stasiak zmieni³ ostatnio adres emaljowy. Czy to mu co¶ pomo¿e? he he... NIE! Oto jego nowy adres!:!:!:
+ROCO@POLAND.COM
+ (zreszt± gdyby zwróci³o ci imejla wys³anego do Stasiaka to mejlnij do mnie - adres w stopce - a ja sprawdzê, co jest grane)
+>>> jakie tematy poruszaæ bêdziemy tym razem w mejlach do Stasiaka? Polecam nastêpuj±ce:
+1) dziêkujemy mu za sam fakt istnienia, który to fakt przynosi chlubê ziemi, która ma fawor go nosiæ
+2) prosimy go o sprecyzowanie co mia³ na my¶li pisz±c, ¿e: "obraz myszkuje a kreska stoi w miejscu".
+3) wyja¶niamy mu, ¿e Mieszko I nie by³ królem, poniewa¿ nie by³ koronowany.
+
+{ Pole 1: Muzeum Ogólnokszta³c±ce imienia khr. Je¿eli wiêcej ni¿ 7 nauczycieli nie lubi³o ciê w szkole dopisz sobie 4 punkty w rubryce 'skazany na geniusz' }
+
+========================
+WYBORY 00
+Analiza i ocena
+|
+Je¶li mia³bym oceniæ wp³yw tegorocznych wyborów prezydenckich na schizê polsk± to oceni³bym go pozytywnie, choæ nie tajê, ¿e z wyborów na wybory zauwa¿am sta³± tendencjê spadkow±.Dwaj czo³owi kandydaci nie popisali siê niczym szczególnym, poza tym ¿e przybrali sobie pseudonimy pochodz±ce od popularnych narkotyków m³odzie¿owych. Poza tym
+jednak niezbyt siê postarali, a piosenki mieli md³e i nijakie, zw³aszcza, w porównaniu z piêknym utworem Kwa¶niewskiego z ostatnich wyborów, który a¿ tu przytoczê. Chwyty chyba s± proste, ja gram CaFG - przynajmniej w refrenie.
+
+OLE OLEK    (Top One)
+1.Kadêcjê ju¿ Lech zakoñczy³ sw±
+  Najwy¿szy czas aby zmieniæ go
+  Choæ wielu jest takich którzy chc±
+  ja jedno wiem ¿e to bêdzie on
+
+  ref.Ole olek wygraj
+      Ole olek na prezydenta tylko ty
+      Ole olek dzisiaj
+      Ole olek wybierzmy przysz³o¶æ oraz styl
+
+2.Prezydent to taki kto¶ jak ty
+  Polityk co ma realne sny
+  i program, wiêc to napewno ty
+  poprowad¼ kraj poprzez reform dni
+
+No a w tym roku zobaczmy co nam zaoferowano: ech, a¿ szkoda na to elektronicznego papieru, wiêc rzucê tylko pierwsz± zwrotkê:
+
+
+
+"Dom wszystkich - Polska"
+My z ró¿nych piêter, w ró¿nych mieszkaniach
+Ka¿dy z widokiem na twoj± stronê
+Ale siê s±siad s±siadom k³ania
+Bo to ¿yjemy z³±czeni domem
+i ciep³o snuje siê nutka swojska
+Dom wszystkich - Polska"
+
+No dajcie spokój, to pasowa³oby mo¿e do serialu na Polsacie, ale na wybory spodziewa³em siê czego¶ ciekawszego.
+Najlepsz± piosenkê chyba to mia³ Lepper:
+
+Ju¿ mówili, ¿e to bêdzie w koñcu raj
+Mlekiem i miodem bêdzie p³yn±æ kraj
+Bo czerwone wybiela³o
+Europejskie nadci±ga³o
+Ale skutków nie przewidzia³ chyba nikt
+Nagle w kraju za du¿o ludzkich r±k
+A w rolnictwie na alarm dzwon
+Tylko jeden nam pomaga
+Kiedy k³ody rzuca w³adza
+I nie milknie, i nie milknie jego g³os
+
+Ref.: Ten kraj jest nasz i wasz
+Nie damy biæ siê w twarz
+Bêdziemy walczyæ jak lwy
+I nie przeszkodzi nikt
+
+Stan±³ Andrzej i powiedzia³ wreszcie "do¶æ"
+Miêso zjedli, rolnik dosta³ tylko ko¶æ
+Kiedy nasi wykarmili
+Wschodni± stronê w jednej chwili
+I dla siebie, i dla siebie mieli do¶æ
+Nie bêdziemy dalej czekaæ, s³uchaæ mów
+Dotowany Zachód wlaz³ ju¿ nam za próg
+Na Zachodzie maj± ¶linkê
+Zajadaj±c polsk± szynkê
+Ale u nas nie chc± p³aciæ za ni± nic
+
+Ref.: Ten kraj jest nasz i wasz...
+
+Cierpliwo¶ci ju¿ za du¿o mówi± wam
+I co chwilê kto¶ ma cudny plan
+We¼my sprawy w swoje rêce
+Bez protestu nic nie bêdzie
+A ja stanê, a ja stanê piersi± w pier¶
+
+Polskie ch³opy to nie takie byle co
+Maj± honor, ale te¿ i z³o¶æ
+Wreszcie stan± wszyscy murem
+By pod Sejmem krzykn±æ chórem
+Ile mo¿na, ile mo¿na jeszcze tak
+
+Jak chodzi o odjechanych kolesi to tak naprawdê by³o ich dwu: zletka odjechany J.Korwin-Mikke, no i wschodz±ca gwiazda, którego pierwszy raz zobaczy³em - Bogdan Paw³owski, z tajemnicz± blondyn±! (no, co prawda to nie to, co Indianka tymiñskiego, ale zawsze co¶). Nie wiem, dla mnie siê pan Bogdan P. kojarzy³ z dziadem borowym.
+
+I tak to.
+
+ps. W powy¿szym artykule piszê jedynie o swoich skojarzeniach schizowych, abstrahuj±c zupe³nie od jakiej¶ oceny politycznej.
+ps2. No, i zapomnia³bym o generale Wileckim. Ale to nie trzeba pisaæ, to wystarczy poptrzeæ.
+
+{ pole nr 2 - lodówka Dziadka Pieska. Zajrzyj do swojej lodówki - je¶li masz tam co najmniej 3 zepsute/ zgni³e/ sfermentowane/ cuchn±ce/ sple¶nia³e towary dopisz sobie 4 do ogólnej punktacji }
+-------------<>  zas³yszane przez robaki:
+997
+- Dwaj napastnicy zaszli mnie od ty³u. Jeden wykrêci³ mi rêce i przytrzymywa³ mnie, podczas gdy drugi bi³ mnie piê¶ci± po twarzy i kopa³ w podbrzusze
+- I co pan zrobi³, jak zareagowa³ pan w tej sytuacji?
+- Próbowa³em to wszystko obróciæ w ¿art
+
+
+{ pole nr 5: bravo girl. (Je¶li jeste¶ mê¿czyzn±)&&(Je¶li w swoim ¿yciu choæ raz ubra³e¶ siê w spódnicê) to wtedy -> (do dzia³u 'psychodewiacje' dopisujesz sobie 2 punkty. Biustonosz - 5. Damskie majtki - 12.) Dziewczêta dopisuj± sobie do tego¿ dzia³u po 2 punkty za ka¿dy jêzyk programowania, w którym umiej± napisaæ program wypisuj±cy 100 pierwszych liczb pierwszych } 
+================= ===== =============    ============= ===          =====================
+pora.na.co¶.w.temacie.czyli.................
+-*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- Historia o Emilce
+na podstawie listu do "Bravo girl", spisane z pamiêci:
+
+Emilka chodzi do 7 klasy szko³y podstawowej i jest, jak to siê mówi, przy ko¶ci. To znaczy nie jest gruba, ale taka raczej puszysta - na pewno ponad normê. W zwi±zku (jak s±dzi) z tym Emilka nie ma powodzenia u ch³opców. Inne jej kole¿anki nieraz ch³opcy podrywaj±, ogl±daj± siê na ulicy, rzucaj± papierkami w kinie. Emilka nawet nie my¶li, ¿e mog³aby siê jakiemu¶ ch³opcu podobaæ.
+U Emilki w szkole uczy siê jeden ch³opiec, Wojtek. Ostatnio Emilka zauwa¿y³a, ¿e nieraz jak idzie do szko³y to Wojtek na ni± siê patrzy, czasem te¿ na przerwach na ni± spogl±da. Emilka nie wie co tym my¶leæ. Z jednej strony nie wydaje jej siê, ¿e mog³aby mu siê podobaæ, ale z drugiej on tak na ni± patrzy... Z jednej strony ba³aby siê o¶mieszyæ, ale z drugiej czêsto my¶li ¿e powinna podej¶æ, zagadaæ, ¿e mo¿e on po prostu jest tak samo jak ona nie¶mia³y...
+
+
+Rebus sytuacyjny:
+- Jêdrzeju! Co zrobi³e¶ z saganem! Te naczynie by³o w naszym rodzie od trzech wieków!
+- Panie Forsajt, to nie ja, klnê siê na dytko, to Mirek, to on go po³ama³ a skorupy schowa³ w piwnicy(...)
+>>>>>rozwi±zanie: poni¿ej. ¯eby je odczytaæ usuñ co drug± literê poczynaj±c od trzeciej:
+SaegharnjRuordluuFoonrastadj³t±ó¼w
+
+{ pole nr 8:dó³. Je¶li dzisiaj jest ci smutno dopisz sobie 5 punktów do dzia³u 'skazany na geniusz'}
+
+==#==
+-----------------------+
+czarodziejski telefon  |
+                       +------->  ???  
+Nie kazdy wie, ze Pogotowie Stra¿y Granicznej ma swój bezp³atny numer dla donosicieli - 0_800_422322. Jesli chce siê z³o¿yæ donos na jakich¶ nielegalnych imigrantów mo¿na tam za darmo zadzwoniæ i siê powywewnêtrzniaæ. Niektórzy dzwoni± tam
+i plot± banialuki, ¿eby w ten sposob utrudniaæ pracê ³apaczom ludzi; no có¿, gdybym do tego zachêca³ to by³oby to karalne; ba, ale ja podajê tê informacjê tylko w celach informacyjnych.
+
+
+
+
+A teraz w cyklu 'poznajemy przedmioty codziennego u¿ytku' mam zaszczyt przedstawic panstwu:
+
+---------Pierwszy_Na_Bia³ostocczy¼nie-
+---------Geniuszu________Ojczy¼nie----
+
+wykonany w ASCII schemat cepa:
+  |
+  |  <-----(1)
+  |
+  |
+ ( ) <-----(2)
+  |
+  |
+  |  <-----(3)
+  |
+
+(1) -> bijak
+(3) -> trzymad³o
+(2) -> przegub
+
+
+{ pole nr 6 - zbuntowany anio³. do ogólnej punktacji dopisz sobie punkty za na³ogi: fajki - 1 pkt - przynajmniej 3 papierosy dziennie // alkohol - 2 pkt - przynajmniej 1 kieliszek wódki/ 1 szklanka wina/ 1 butelka piwa - tygodniowo // marijuana - 3 pkt - przynajmniej 1 skrêt na 3 dni // amfa - 4 pkt - przynajmniej jedno wci±gniêcie tygodniowo // rzachanie - 50 pkt - przynajmniej jedna samara tygodniowo. w przypadku butexu dziewczeta dostaja nie 50 a 60 pkt }
+
+.---.   .-..   .-.   .---. .-.-   -..-.    -.   ..   ...    .-.-.   .--    -.-    ---   ... .-
+-----// poza gr±:w³a¶nie ogl±dam film `zbuntowany anio³` - super !!! na pewno lepszy ni¿ braveheart
+
+
+O tym, jak ch³op magistrów przechytrzy³-+
+         cykl                           | 
+<---------------------------------------+
+(-czesc-druga-)(-zimny-ogieñ-)(-czesc-druga-)
+
+Raz na pl.sci.chemia zapyta³em wiedziony ciekawo¶ci±:
+
+~~Czy mo¿liwa jest taka reakcja chemiczna która:
+a) mo¿e zachodziæ tylko w niskiej temperaturze a w wysokiej nie
+b) jest endotermiczna (mam na my¶li, ¿e pobiera ciep³o z otoczenia)
+Je¶li tak, to mo¿na by³oby to wykorzystywaæ do robienia zimnych
+ognisk. Np. w Afryce. Murzyni wykopywali by taki specjalny minera³,
+dotykali by go kawa³kiem lodu i wtedy on zaczyna³by buzowaæ i ch³odziæ
+wszystko dooko³a. Murzyni mogliby siê przy nim ch³odziæ a nawet
+przyrz±dzaæ na takim zimnym ogniu lody i ch³odnik.~~
+
+na to Bray***@h*t*a*l.com odpowiedzia³:
+~~Czas przej¶æ siê do lekarza! ¯yczê zdrowia.~~
+-----// takich komentarzy by³o wiêcej...
+
+na to speedy**@2com.pl napisa³:
+~~Hej
+no dobra to ja sie zlituje nad klientem
+Rozpuszczanie w wodzie niektórych soli (chlorek amonowy bodajze) jest silnie
+endotermiczne, nie pamietam juz do ilu sie mieszanina och³adza ale chyba
+nawet do -35 st?
+Moze mnie jaki nieorganiczny podeprze?~~
+
+-------// no ale przeciez mi nie chodzilo o to, czy istnieja reakcje endotermiczne... tylko czy moga byc takie reakcje endotermiczne, ktore moga zachodzic tylko w niskiej temperaturze.
+
+Ktos potem napisal, ze z reguly przekory wynika³oby, ¿e reakcje endotermiczne powinny byæ inicjowane wysok± temperatur±, a egzotermiczne - nisk±; ale przyk³ad prochu temu przeczy. Ale zgubi³em tego posta.
+
+Ale potem kto¶ wreszcie powiedzia³ do rzeczy:
+~~ Jesli dobrze pamietam termodynamike, to wiekszosc samorzutnych procesow, to reakcje egzotermiczne (im nizsza temperatura, tym czesciej tak sie wlasnie dzieje). W zasadzie nie ma powodu, dla ktorego proces samorzutny nie moglby byc endotermiczny. Kryterium samorzutnosci jest ujemna energia (entalpia) swobodna. delta G = delta H - Tdelta S
+G - entalpia swobodna    H - entalpia (dla r. egzotermicznej "H" jest ujemne!)    T - temperatura    S - entropia
+Dla reakcji endotermicznych, powinna temu towarzyszyc szczegolnie dodatnia zmiana entropii. I wtedy jest to zupelnie realne. W niskich temperaturach udzial czynnika entropowego jest niewielki, dlatego tak trudno jest podac przyklad czysto chemicznego samorzutnego procesu endotermicznego. Reakcje w rodzaju: FeCl3x6H2O + Na2CO3x10H2O w zasadzie niewiele roznia sie od przykladu z rozpuszczaniem soli w wodzie lub potluczonym lodzie... Wynalazek "zimnego plomienia" wydaje sie byc zupelnie nieprawdopodobny; zjawisko plomienia jest zwiazane nieodlacznie z wydzielaniem sie energii... http://pc69.wbc.lublin.pl/ChemFan/Dydaktyka/PotrzasanieGroszkami.html 
+tomasz pl****ski~~
+
+
+
+
+
+      |    cel: robert stasiak~~~~~~~~~~~~~~~~
+      |    namiar: roco@main.wsm.szczecin.pl~~
+      |
+-----[ ]-----
+      |    pamiêtaj! napisz g³upiego imejla!~~
+      |    robert stasiak czeka!~~~~~~~~~~~~~~
+      |
+
+cambio dolor
+
+Dziadek Piesek dzwoni³ dzisiaj do mnie i poprosi³, ¿ebym jeszcze napisa³ co¶ o skorupkach od jajek. Oto one:
+
+ka¿dy dla jajek -> O  O  O  O  O
+O  O  O  O  <- jajka dla ka¿dego
+
+Co robiæ ze skorupkami od jajek? Tylko ju¿ przed rozbiciem jajka trzeba je umyæ. potem wysuszamy je i mielemy w maszynce do kawy. Potem jemy 2 ³y¿eczki dziennie jako cenne ¼ród³o wapnia. To nie ¿art, naprawdê to dzia³a.
+
+===============================
+escenas del capritulo anterior:
+
+Dzi¶ mi siê fajny sen ¶ni³. na balkonie by³ kot i ptaszek. Kiedy ptaszek lata³ to kot próbowa³ go z³apaæ, a¿ wyskakiwa³ na zewn±trz, ale unosi³ siê tak sprytnie, jak w wodzie. W koñcu wzi±³ szpadel i wyskoczy³ z siódmego piêtra, ale ten szpadel hamowa³ jego spadek, jak spadochron, i kot lekko, krêc±c siê, spada³. Potem jak siê obudzi³em to pomy¶la³em: 'no nie, to nie mo¿e byæ, przecie¿ nawet sam szpadel bez kota spada³ by szybko, wiêc co dopiero z kotem. Sen jak po Thioridazinie.
+
+
+Pan upokarza cz³owieka! to jest wstrêtne!
+{ pole nr 9 - upokorzenie. mo¿esz dopisaæ 7 pkt do dzia³u psychodewiacje, je¶li zwierzysz siê komu¶, ¿e marzysz o tym, by praæ jego bieliznê }
+
+
+
+
+
+
+W dniach ostatnich przeprowadzi³em ankietê nt ulubionych programów w telewizji:
+a) edukacyjnych
+b) dobranocki
+c) programy dla dzieci
+
+Nie wiem, ba³agan mam w rzeczach, mo¿e zgubi³em jakie¶ odpowiedzi; teraz na dwu komputerach dzia³am. Ale mo¿e nie w ka¿dym b±d¼ razie wyniki wysz³y jak nastêpuje:
+
+A-> programy edukacyjne
+   "Chochlikowe psoty czyli zmagania z ortografia" - 8 pkt
+   "Przybysze z Matplanety" - 5 pkt
+   "997" - 5 pkt
+   "Muzzy come back" - 4 pkt
+   
+
+B-> dobranocki
+   "Reksio" - 10 pkt
+   "Bolek i Lolel" - 10 pkt
+   "S±siedzi" - 5 pkt
+   "Przygód kilka wróbla Æwirka" - 5 pkt
+   "Pomys³owy Dobromir" - 5 pkt
+   "Za³oga J" (chyba G?) - 5 pkt
+   "Uszatek" - 5 pkt
+   "Porwanie Baltazara G±bki" - 5 pkt
+   "Muminki" - 5 pkt
+   "Smutny motyl Emanuel" - 5 pkt 
+   "Deszczowy kawaler i makowa panienka" - 4 pkt
+   "Zwirek i Muchomorek" - 4 pkt
+   "Wodnik Szuwarek i jego stuff" - 3 pkt
+   "Pszczolka Maja" - 2 pkt
+
+
+C-> programy dla dzieci
+   stara "Ciuchcia" - 7 pkt
+   "Ulica Sezamkowa" - 7 pkt
+   "Prof. Miodek" - 5 pkt
+   "Drops" - 5 pkt (jeden z respondentów stwierdzi³, ¿e by³a fajna czixa)
+   "Teleranek" - 4 pkt 
+   teatrzyk "Ciuchci" - 4 pkt
+   "5-10-15" - 4 pkt
+
+
+--------------------------------------------------------------------------------------------------
+Ostatnio wspó³pracujê z przedmiotami. Ostatnio przeprowadzam akcjê zapêtlenie:
+a) mycie myd³a myd³em
+b) sadzanie krzes³a na krze¶le
+c) rozcieñczanie wody wod±
+
+..............................
+W tym miejscu urywa siê rêkopi
+s piotra s. ktokolwiek zna mie
+jsce jego pobytu proszony jest
+o bezzw³oczny kontakt z organa
+mi............................
