@@ -12,7 +12,7 @@ Do państwa Sz. na świeta zawsze przyjeżdżała mama pana Sz. I zawsze mówił
 
 [Moja](filips) siostra mówiła, że wieczorem wczoraj((tzn. 2005-01-09)) słyszała pod oknem rozmowę meneli:
 
-- Jutro o 800 wychodzę z psem.\\
+- Jutro o 800 wychodzę z psem.<br/>
 - Dobra, to ja coś kupię.
 
  --- //[Mateusz] 2005-05-29 23:13//
@@ -70,7 +70,7 @@ Dziś w pracy, jak zadzwonił telefon, to tak zadzwonił, że aż spadła słuch
 
 ### Dlaczego zima zaskakuje drogowców
 
-Opowieść z wizyty u rodziny. Znajoma miała w rodzinie drogowca. I go kiedyś spytała, dlaczego zima zaskakuje drogowców. No i on odpowiedział:\\
+Opowieść z wizyty u rodziny. Znajoma miała w rodzinie drogowca. I go kiedyś spytała, dlaczego zima zaskakuje drogowców. No i on odpowiedział:<br/>
 -- to jest tak, że drogowcy zaczynają wypatrywać zimy w połowie października (żeby nie być zaskoczonym). Ale już w połowie listopada kończy się budżet przeznaczony na obserwatorów, więc kończą się obserwacje. A potem jak przychodzi zima, to drogowcy są zaskoczeni.
 
  --- //[Filip Stefaniak] 2005-09-16 14:29//
@@ -93,7 +93,7 @@ Dobra kobieta, żyła 97 lat, pogrzeb w N., nigdy nie złościła się na wnuczk
 
 ### Opowieść Macieja C. jak jego tata był we wojsku
 
-Tło sytuacyjne: dawno, jakieś kilka lat temu; grupa znajomych, opowiadania różne ciekawe, zeszło na historie z wojska. Bo wiadomo, we wojsku najfajniejsze przygody.\\
+Tło sytuacyjne: dawno, jakieś kilka lat temu; grupa znajomych, opowiadania różne ciekawe, zeszło na historie z wojska. Bo wiadomo, we wojsku najfajniejsze przygody.<br/>
 
 Głos zabiera Maciej. *"Gdy mój tata był w wojsku..."* (tu wszyscy słuchacze zamieniają się w słuch) *"Gdy mój tata był w wojsku,* mówi Maciej *to raz wracał z jednostki do domu pociągiem..."* (tu wszyscy słuchacze zamieniają się w jeszcze większy słuch, bo wiadomo - podczas powrotów najfajniej - alkohol, wygłupy) // "... to raz zasnął."// - mówi Maciej (tu poziom napięcia wśród słuchaczy sięgnął zenitu. Każden ginął w domysłach, co też mogło się przytrafić). *"Zasnął i śpi. I...* (tu Maciej dramatycznie zawiesił głos...) *... zasnął i przejechał stację.*
 
@@ -104,10 +104,10 @@ Koniec.
 
 ### Uderzenie mapą
 
-Jedna koleżanka biła kolegę mapą turystyczną po głowie. Kolega pyta:\\
-- Jolcia, czemu mnie bijesz mapą?\\
-- Bo to bitmapa.\\
-\\
+Jedna koleżanka biła kolegę mapą turystyczną po głowie. Kolega pyta:<br/>
+- Jolcia, czemu mnie bijesz mapą?<br/>
+- Bo to bitmapa.<br/>
+<br/>
 (ale jak się mówi, to jest śmieszniej, bo można powiedzieć beat-mapa.)
 
  --- //[Filip Stefaniak] 2006-01-02 20:31//
@@ -138,7 +138,7 @@ Do państwa Sz. na świeta zawsze przyjeżdżała mama pana Sz. I zawsze mówił
 
 [Moja](filips) siostra mówiła, że wieczorem wczoraj((tzn. 2005-01-09)) słyszała pod oknem rozmowę meneli:
 
-- Jutro o 800 wychodzę z psem.\\
+- Jutro o 800 wychodzę z psem.<br/>
 - Dobra, to ja coś kupię.
 
  --- //[Mateusz] 2005-05-29 23:13//
@@ -196,7 +196,7 @@ Dziś w pracy, jak zadzwonił telefon, to tak zadzwonił, że aż spadła słuch
 
 ### Dlaczego zima zaskakuje drogowców
 
-Opowieść z wizyty u rodziny. Znajoma miała w rodzinie drogowca. I go kiedyś spytała, dlaczego zima zaskakuje drogowców. No i on odpowiedział:\\
+Opowieść z wizyty u rodziny. Znajoma miała w rodzinie drogowca. I go kiedyś spytała, dlaczego zima zaskakuje drogowców. No i on odpowiedział:<br/>
 -- to jest tak, że drogowcy zaczynają wypatrywać zimy w połowie października (żeby nie być zaskoczonym). Ale już w połowie listopada kończy się budżet przeznaczony na obserwatorów, więc kończą się obserwacje. A potem jak przychodzi zima, to drogowcy są zaskoczeni.
 
  --- //[Filip Stefaniak] 2005-09-16 14:29//
@@ -219,7 +219,7 @@ Dobra kobieta, żyła 97 lat, pogrzeb w N., nigdy nie złościła się na wnuczk
 
 ### Opowieść Macieja C. jak jego tata był we wojsku
 
-Tło sytuacyjne: dawno, jakieś kilka lat temu; grupa znajomych, opowiadania różne ciekawe, zeszło na historie z wojska. Bo wiadomo, we wojsku najfajniejsze przygody.\\
+Tło sytuacyjne: dawno, jakieś kilka lat temu; grupa znajomych, opowiadania różne ciekawe, zeszło na historie z wojska. Bo wiadomo, we wojsku najfajniejsze przygody.<br/>
 
 Głos zabiera Maciej. *"Gdy mój tata był w wojsku..."* (tu wszyscy słuchacze zamieniają się w słuch) *"Gdy mój tata był w wojsku,* mówi Maciej *to raz wracał z jednostki do domu pociągiem..."* (tu wszyscy słuchacze zamieniają się w jeszcze większy słuch, bo wiadomo - podczas powrotów najfajniej - alkohol, wygłupy) // "... to raz zasnął."// - mówi Maciej (tu poziom napięcia wśród słuchaczy sięgnął zenitu. Każden ginął w domysłach, co też mogło się przytrafić). *"Zasnął i śpi. I...* (tu Maciej dramatycznie zawiesił głos...) *... zasnął i przejechał stację.*
 
@@ -230,10 +230,10 @@ Koniec.
 
 ### Uderzenie mapą
 
-Jedna koleżanka biła kolegę mapą turystyczną po głowie. Kolega pyta:\\
-- Jolcia, czemu mnie bijesz mapą?\\
-- Bo to bitmapa.\\
-\\
+Jedna koleżanka biła kolegę mapą turystyczną po głowie. Kolega pyta:<br/>
+- Jolcia, czemu mnie bijesz mapą?<br/>
+- Bo to bitmapa.<br/>
+<br/>
 (ale jak się mówi, to jest śmieszniej, bo można powiedzieć beat-mapa.)
 
  --- //[Filip Stefaniak] 2006-01-02 20:31//
@@ -241,14 +241,14 @@ Jedna koleżanka biła kolegę mapą turystyczną po głowie. Kolega pyta:\\
 ### Karp bez ogona
 
 Moja koleżanka K. opowiadała taką historię. Pewna Ania pamiętała od dzieciństwa jak w Wigilię jej mama robiła karpia w galarecie. Zawsze jednak ucinała mu ogon, ale nie sam ogon, tylko tak z 5 cm od końca. Kiedy Ania wyszła za mąż to wypadło przygotować jej karpia w galarecie w rodzinnym domu męża. Za sprawą teściowej, która patrzyła jej na ręce - wszyscy poczęli zastanawiać się czemu to Ania ogon karpiowi ucięła tak szczodrze. Jednak Ania nie potrafiła odpowiedzieć na to pytanie. Następnego dnia, kiedy gościła z mężem u swojej rodzinki zagadnęła mamę czemu karpiowi ogon się ucina, a nie głowę np. i aż tyle, na co mama zwróciła się do swojej mamy, a babci Ani z tymże pytaniem.
-Babcia odpowiedziała:\\
+Babcia odpowiedziała:<br/>
 - Aaaaa, bo brytfankę miałam taką fajną, ale krótką.
 
  --- //[Sławek] 2007//
 
 ### Opowieść obieżyświata
 
-Kiedyś wracałem z Egi pociągiem z Lublina do Krakowa i przysiadł się obok pewien gość wyglądu powszedniego jak i ten nasz pociąg. Obok siadła również jego żona (jak się okazało). Gość ten miał wielką potrzebę mówienia, więc najpierw porozglądał się, poprzypatrywał nam i zaczął do nas mówić. Jego monolog traktował o podróżach jakie w życiu odbył i jak ciekawy jest świata i ile zobaczyć można i nauczyć się, że się w głowie nie mieści. Opowiadał, że nawet w Kanadzie był, na wybrzeżu oceanu. Mówił akurat o tym ile można na świecie zobaczyć i nagle przypomniał sobie jakby o żonie i powiedział tak:\\
+Kiedyś wracałem z Egi pociągiem z Lublina do Krakowa i przysiadł się obok pewien gość wyglądu powszedniego jak i ten nasz pociąg. Obok siadła również jego żona (jak się okazało). Gość ten miał wielką potrzebę mówienia, więc najpierw porozglądał się, poprzypatrywał nam i zaczął do nas mówić. Jego monolog traktował o podróżach jakie w życiu odbył i jak ciekawy jest świata i ile zobaczyć można i nauczyć się, że się w głowie nie mieści. Opowiadał, że nawet w Kanadzie był, na wybrzeżu oceanu. Mówił akurat o tym ile można na świecie zobaczyć i nagle przypomniał sobie jakby o żonie i powiedział tak:<br/>
 - A to moja żona. Pielęgniarką była całe życie. To niech pan powie co ona mogła widzieć...
 
  --- //[Sławek] 2007//
@@ -256,8 +256,8 @@ Kiedyś wracałem z Egi pociągiem z Lublina do Krakowa i przysiadł się obok p
 
 ### Z Grekiem najlepiej dogadać się po grecku
 
-Opowiedział mi to krakowski dominikanin.\\
-Braciszkowie chodzili po górach w Grecji i schodzili do przystanku autobusowego na grecki autobus kursowy. Nie szli jednak zwartymi szeregami lecz ciągnęli się jak nie wiem. No i jak pierwsi doszli na przystanek, to ci z tyłu dochodzili, a ci bardziej z tyłu też dochodzili - tylko że byli jeszcze dalej od tego przystanku. I jak brakowało już ich niewielu, tzn. widać było w oddali ostatnich kilku, którzy nie doszli... wtedy nadjechał autobus. Wsiedli więc ci co byli na przystanku do środka, a dwóch czy trzech stanęło w drzwiach i pokazywało że tam jeszcze idą. Kierowca jednak zaczął zamykać drzwi. Nie znajdując odpowiedniejszych słów zaczęli krzyczeć: "Kyrie eleison!" i kierowca zaczekał.\\
+Opowiedział mi to krakowski dominikanin.<br/>
+Braciszkowie chodzili po górach w Grecji i schodzili do przystanku autobusowego na grecki autobus kursowy. Nie szli jednak zwartymi szeregami lecz ciągnęli się jak nie wiem. No i jak pierwsi doszli na przystanek, to ci z tyłu dochodzili, a ci bardziej z tyłu też dochodzili - tylko że byli jeszcze dalej od tego przystanku. I jak brakowało już ich niewielu, tzn. widać było w oddali ostatnich kilku, którzy nie doszli... wtedy nadjechał autobus. Wsiedli więc ci co byli na przystanku do środka, a dwóch czy trzech stanęło w drzwiach i pokazywało że tam jeszcze idą. Kierowca jednak zaczął zamykać drzwi. Nie znajdując odpowiedniejszych słów zaczęli krzyczeć: "Kyrie eleison!" i kierowca zaczekał.<br/>
 
 (W odpowiedzi na liczne listy informuję, że "Kyrie eleison" znaczy po grecku "Panie, zmiłuj się nad nami".)
 
@@ -266,15 +266,15 @@ Braciszkowie chodzili po górach w Grecji i schodzili do przystanku autobusowego
 ### Jak kupowałem baterię na Placu Wszystkich Świętych w Krakowie
 
 Czasem potrzebuję baterii i raz zapragnąłem jej zakupu idąc Placem Wszystkich Świętych w Krakowie. Zaszedłem więc do kiosku z prasą, tytoniem, papierosami i takimi tam, nachyliłem się do wąskiego okienka (zawsze zaglądam jak coś kupuję) i zobaczyłem tam panią siedzącą na krześle. Powiedziałem do niej tak:
-- Dzień dobry. Jakie ma pani paluszki?\\
+- Dzień dobry. Jakie ma pani paluszki?<br/>
 - Takie - odpowiedziała i wystawiła przez okienko obie dłonie.
 
 --- //[Sławek] 2007//
 
 ### Jak zmieniłem trasę pociągu
 
-Jak wyjeżdżaliśmy na majówkę to ja z Karolką wsiadałem w Krakowie Płaszowie, a reszta miała wsiąść na Głównym. Nie mogliśmy otworzyć drzwi środkowych wagonu rowerowego i musieliśmy wpychać się bocznymi. Jak na złość otwierały się drzwi z drugiej strony, ale kto by obchodził pociąg? Przyszła konduktorka i powiedzieliśmy jej że na Głównym dosiądzie się jeszcze 8 osób więc wzięła się za drzwi, ale też nie mogła otworzyć. Przyszedł konduktor i też nie otworzył, przyszli w końcu dwaj panowie w kaskach i też nie otworzyli chociaż jeden nawet kopał.\\
-Konduktorka najpierw się dziwiła bardzo drzwiom a potem zmartwiła się, więc powiedziałem jej na pociechę, że jakoś załadujemy te rowery z sakwami przez wąskie drzwi. I jak jej to powiedziałem to zmartwienie zniknęło i tylko wyskoczyła do budki kolejarskiej na peronie i zadzwoniła na główną dyspozytornię z pytaniem po której stronie na Głównym będą drzwi. Okazało się, że po tej samej co na Płaszowie, więc powiedziała im, żeby zrobili tak, żeby nie były po tej samej tylko po innej.\\
+Jak wyjeżdżaliśmy na majówkę to ja z Karolką wsiadałem w Krakowie Płaszowie, a reszta miała wsiąść na Głównym. Nie mogliśmy otworzyć drzwi środkowych wagonu rowerowego i musieliśmy wpychać się bocznymi. Jak na złość otwierały się drzwi z drugiej strony, ale kto by obchodził pociąg? Przyszła konduktorka i powiedzieliśmy jej że na Głównym dosiądzie się jeszcze 8 osób więc wzięła się za drzwi, ale też nie mogła otworzyć. Przyszedł konduktor i też nie otworzył, przyszli w końcu dwaj panowie w kaskach i też nie otworzyli chociaż jeden nawet kopał.<br/>
+Konduktorka najpierw się dziwiła bardzo drzwiom a potem zmartwiła się, więc powiedziałem jej na pociechę, że jakoś załadujemy te rowery z sakwami przez wąskie drzwi. I jak jej to powiedziałem to zmartwienie zniknęło i tylko wyskoczyła do budki kolejarskiej na peronie i zadzwoniła na główną dyspozytornię z pytaniem po której stronie na Głównym będą drzwi. Okazało się, że po tej samej co na Płaszowie, więc powiedziała im, żeby zrobili tak, żeby nie były po tej samej tylko po innej.<br/>
 Pociąg relacji Kraków Płaszów - Suwałki wjechał na dworzec Główny w mieście Krakowie i zatrzymał się tak, że peron był przy tych drzwiach, co się otwierały.
 
 --- //[Sławek] 2007//
@@ -282,11 +282,11 @@ Pociąg relacji Kraków Płaszów - Suwałki wjechał na dworzec Główny w mie�
 
 ### Jak poszedłem na wagary z Bożeną
 
-Byłem jeszcze w ogólniaku i były to kultowe lata dziewięćdziesiąte. Snując się po mieście popołudniem spotkałem znajomą Bożenę i zacząłem z nią rozmawiać o różnych rzeczach. W trakcie rozmowy ujawniłem swój zamiar nieudania się do szkoły w dniu następnym. I tu usłyszałem z ust Bożeny magiczne: "Idziemy na wagary?!?!". No cóż... do szkoły czasem nie chodziłem z powodu ogarniającego mnie przekonania o konieczności odpoczynku, ale na wagarach nigdy nie byłem, więc żywo się zainteresowałem sprawą. I tu nastąpił pewien problem, bo Bożena zaproponowała spotkanie gdzieś tam o 7 rano, a ja pomyślałem sobie - że nie dość nie iść do szkoły to jeszcze wstawać o przynajmniej 6.30 to przesada, ale 7.30 wydała mi się już rozsądną godzina do pobudki. Ustaliliśmy w końcu, że Bożena przyjdzie do mnie o 8.00 i razem pójdziemy na wagary. Wypytywała też czy rodzice będą w domu i kiedy zapewniłem, że ok. 7.45 dom się wyludni przystała na takie warunki, a ja byłem rad, że pośpię sobie do 7.30, nie pójdę do szkoły i jeszcze zaliczę pierwsze w życiu wagary. Wytłumaczyłem Bożenie gdzie mieszkam, pożegnałem się z nią i z radości, że fajny dzień się zapowiada - włóczyłem się nadal, ale już z kumplami, po mieście do późnej nocy.\\
-Nazajutrz bladym świtem obudził mnie dzwonek do drzwi. Spojrzałem na zegarek, była 8.05. Ku mojemu zdumieniu usłyszałem jak mama otwiera drzwi, po czym nastąpiła taka wymiana zdań:\\
-- Dzień dobry... ... ... czy jest Sławek?\\
-- Tak, proszę.\\
-- To on nie w szkole?\\
+Byłem jeszcze w ogólniaku i były to kultowe lata dziewięćdziesiąte. Snując się po mieście popołudniem spotkałem znajomą Bożenę i zacząłem z nią rozmawiać o różnych rzeczach. W trakcie rozmowy ujawniłem swój zamiar nieudania się do szkoły w dniu następnym. I tu usłyszałem z ust Bożeny magiczne: "Idziemy na wagary?!?!". No cóż... do szkoły czasem nie chodziłem z powodu ogarniającego mnie przekonania o konieczności odpoczynku, ale na wagarach nigdy nie byłem, więc żywo się zainteresowałem sprawą. I tu nastąpił pewien problem, bo Bożena zaproponowała spotkanie gdzieś tam o 7 rano, a ja pomyślałem sobie - że nie dość nie iść do szkoły to jeszcze wstawać o przynajmniej 6.30 to przesada, ale 7.30 wydała mi się już rozsądną godzina do pobudki. Ustaliliśmy w końcu, że Bożena przyjdzie do mnie o 8.00 i razem pójdziemy na wagary. Wypytywała też czy rodzice będą w domu i kiedy zapewniłem, że ok. 7.45 dom się wyludni przystała na takie warunki, a ja byłem rad, że pośpię sobie do 7.30, nie pójdę do szkoły i jeszcze zaliczę pierwsze w życiu wagary. Wytłumaczyłem Bożenie gdzie mieszkam, pożegnałem się z nią i z radości, że fajny dzień się zapowiada - włóczyłem się nadal, ale już z kumplami, po mieście do późnej nocy.<br/>
+Nazajutrz bladym świtem obudził mnie dzwonek do drzwi. Spojrzałem na zegarek, była 8.05. Ku mojemu zdumieniu usłyszałem jak mama otwiera drzwi, po czym nastąpiła taka wymiana zdań:<br/>
+- Dzień dobry... ... ... czy jest Sławek?<br/>
+- Tak, proszę.<br/>
+- To on nie w szkole?<br/>
 Tak to Bożena odwiedziła mnie po raz pierwszy.
 
 --- //[Sławek] 2007//

@@ -12,14 +12,14 @@ Takie oto spalone kawały śmieszą nieraz bardziej niż kawały oryginalne.
 
 |   Kawał   |   Kawał spalony   |
 | ---------- | ------------------ |
-| Do Polski przyjechał Kohl, wiec Kwaśny zaprosił go do restauracji. Kelner pyta się tam Kwacha:\\ - Panie prezydencie, co podać?\\ Na to Olo:\\ - Dla mnie piwo, a dla **Helmuta cola...** | Do Polski przyjechał Kohl, wiec Kwaśny zaprosił go do restauracji. Kelner pyta się tam Kwacha:\\ - Panie prezydencie, co podać?\\ Na to Olo:\\ - Dla mnie piwo, a dla **Helmuta pepsi...** ((Zastanawiam się nad takim spaleniem: Do Polski przyjechał Putin, wiec Kwaśny zaprosił go do restauracji. Kelner pyta się tam Kwacha:\\ - Panie prezydencie, co podać?\\ Na to Olo:\\ - Dla mnie piwo, a dla **Putina - Kola...**)) |
-| Dlaczego Miś nie rozpuszcza się w benzenie?\\ Bo jest **polarny**. | Dlaczego Miś nie rozpuszcza się w benzenie?\\ Bo jest **brunatny**. |
-| Przychodzi facet do apteki:\\ - Przepraszam, czy mógłbym **zadzwonić**?\\ - Prosze bardzo.\\ Facet wyciąga dzwoneczek: *dzyń*, *dzyń* | Przychodzi facet do apteki:\\ - Przepraszam, czy mógłbym **zatelefonować**?\\ - Prosze bardzo.\\ Facet wyciąga dzwoneczek: *dzyń*, *dzyń* |
+| Do Polski przyjechał Kohl, wiec Kwaśny zaprosił go do restauracji. Kelner pyta się tam Kwacha:<br/> - Panie prezydencie, co podać?<br/> Na to Olo:<br/> - Dla mnie piwo, a dla **Helmuta cola...** | Do Polski przyjechał Kohl, wiec Kwaśny zaprosił go do restauracji. Kelner pyta się tam Kwacha:<br/> - Panie prezydencie, co podać?<br/> Na to Olo:<br/> - Dla mnie piwo, a dla **Helmuta pepsi...** ((Zastanawiam się nad takim spaleniem: Do Polski przyjechał Putin, wiec Kwaśny zaprosił go do restauracji. Kelner pyta się tam Kwacha:<br/> - Panie prezydencie, co podać?<br/> Na to Olo:<br/> - Dla mnie piwo, a dla **Putina - Kola...**)) |
+| Dlaczego Miś nie rozpuszcza się w benzenie?<br/> Bo jest **polarny**. | Dlaczego Miś nie rozpuszcza się w benzenie?<br/> Bo jest **brunatny**. |
+| Przychodzi facet do apteki:<br/> - Przepraszam, czy mógłbym **zadzwonić**?<br/> - Prosze bardzo.<br/> Facet wyciąga dzwoneczek: *dzyń*, *dzyń* | Przychodzi facet do apteki:<br/> - Przepraszam, czy mógłbym **zatelefonować**?<br/> - Prosze bardzo.<br/> Facet wyciąga dzwoneczek: *dzyń*, *dzyń* |
 | There are only **10** types of people in the world: Those who understand binary, and those who don't. | There are only **ten** types of people in the world: Those who understand binary, and those who don't. |
 | Czym się różni wróbelek? Że ma jedną nóżkę **bardziej** od drugiej. | Czym się różni wróbelek? Że ma jedną nóżkę **dłuższą** od drugiej. ((Jest to ciekawy przykład spalenia kawału abstrakcyjnego. Kawały abstrakcyjne są trudniejsze do palenia od innych. Aby spalić taki żart, należy zmodyfikować go tak, żeby nabrał sensu -- jakiegoś małego, ale jednak sensu.)) |
 | Przychodzi baba do **lekarza**, a lekarz też baba. | Przychodzi baba do **lekarki**, a lekarka też baba. |
 | Przychodzi baba do lekarza, a **lekarz też baba**. | Przychodzi baba do lekarza, a **baba też lekarka**. |
-| Stoi dwóch uczniów na przerwie:\\ - **Za ile** dzwonek?\\ - Za 5 zł. | Stoi dwóch uczniów na przerwie:\\ - **Po ile** dzwonek?\\ - Po 5 zł. |
+| Stoi dwóch uczniów na przerwie:<br/> - **Za ile** dzwonek?<br/> - Za 5 zł. | Stoi dwóch uczniów na przerwie:<br/> - **Po ile** dzwonek?<br/> - Po 5 zł. |
 | Jak blondynka robi dżem? - obiera pączki... | Jak blondynka robi pączki? - ??? ((Jak spalić ten kawał zastanawia się Basia z Warszawy)) |
 
 ### Ogólna metoda palenia kawałów

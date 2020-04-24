@@ -1,6 +1,6 @@
 ### Położenie w czasoprzestrzeni  Pryzmatu Tego Co Jest Teraz  na podstawie dotychczasowych badań.
 
-KLAY, Uzbad\\
+KLAY, Uzbad<br/>
 (Smutek Podlasia)
 
 #### W naszej pracy przedstawiamy kilka hipotez dotyczących umiejscowienia Pryzmatu Tego Co Jest Teraz (PyTeCoJeT'u), jego budowy i funkcji oraz wniosków płynących z tych hipotez. Podjęliśmy także próbę porównania wniosków opartych na tych hipotezach z dotychczasowymi doświadczeniami. Zaproponowaliśmy kilka możliwych doświadczeń.

@@ -19,13 +19,13 @@ You can mark something as <del>deleted</del> as well.
 
 **Paragraphs** are created from blank lines. If you want to **force a newline** without a paragraph, you can use two backslashes followed by a whitespace or the end of line.
 
-This is some text with some linebreaks\\ Note that the
-two backslashes are only recognized at the end of a line\\
-or followed by\\ a whitespace \\this happens without it.
+This is some text with some linebreaks<br/> Note that the
+two backslashes are only recognized at the end of a line<br/>
+or followed by<br/> a whitespace <br/>this happens without it.
 
-    This is some text with some linebreaks\\ Note that the
-    two backslashes are only recognized at the end of a line\\
-    or followed by\\ a whitespace \\this happens without it.
+    This is some text with some linebreaks<br/> Note that the
+    two backslashes are only recognized at the end of a line<br/>
+    or followed by<br/> a whitespace <br/>this happens without it.
 
 You should use forced newlines only if really needed.
 
@@ -79,9 +79,9 @@ DokuWiki supports [doku>Interwiki](doku>interwiki) links. These are quick links 
 
 ### Windows Shares
 
-Windows shares like [this](\\server\share) are recognized, too. Please note that these only make sense in a homogeneous user group like a corporate [wp>Intranet](wp>intranet).
+Windows shares like [this](<br/>server\share) are recognized, too. Please note that these only make sense in a homogeneous user group like a corporate [wp>Intranet](wp>intranet).
 
-    Windows Shares like [this](\\server\share) are recognized, too.
+    Windows Shares like [this](<br/>server\share) are recognized, too.
 
 Notes:
 

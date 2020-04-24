@@ -1,24 +1,24 @@
 # Bary mleczne w Mississauga
 
-*miasto:*  Mississauga, Ontario, Canada    \\
-*nazwa:*  Arkady   \\
-*adres:*  3650 Dixie Rd.            \\
-*przykladowe ceny:*     \\
-*opis:*     \\
-*godziny otwarcia:*     \\
-*informator:*  nie byłem osobiście, któryś z tamtejszych podesłał tutaj: http://pl.wikipedia.org/wiki/Dyskusja:Bar_mleczny   \\
-*aktualizacja:*      Halibutt  \\
+*miasto:*  Mississauga, Ontario, Canada    <br/>
+*nazwa:*  Arkady   <br/>
+*adres:*  3650 Dixie Rd.            <br/>
+*przykladowe ceny:*     <br/>
+*opis:*     <br/>
+*godziny otwarcia:*     <br/>
+*informator:*  nie byłem osobiście, któryś z tamtejszych podesłał tutaj: http://pl.wikipedia.org/wiki/Dyskusja:Bar_mleczny   <br/>
+*aktualizacja:*      Halibutt  <br/>
 
 
 
-*miasto:*  Mississauga, Ontario, Canada    \\
-*nazwa:*  Sobieski Caffee    \\
-*adres:*  377 Burnhamthorpe rd.            \\
-*przykladowe ceny:*     \\
-*opis:*     \\
-*godziny otwarcia:*     \\
-*informator:*  nie byłem osobiście   \\
-*aktualizacja:*      Halibutt  \\
+*miasto:*  Mississauga, Ontario, Canada    <br/>
+*nazwa:*  Sobieski Caffee    <br/>
+*adres:*  377 Burnhamthorpe rd.            <br/>
+*przykladowe ceny:*     <br/>
+*opis:*     <br/>
+*godziny otwarcia:*     <br/>
+*informator:*  nie byłem osobiście   <br/>
+*aktualizacja:*      Halibutt  <br/>
 
 
 

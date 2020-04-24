@@ -1,9 +1,9 @@
 # Bary mleczne w Chojnicach
 
-*miasto:*  Chojnice    \\
-*nazwa:*  Bar Mleczny   \\
-*adres:*  ul. Kościuszki   \\
-*aktualizacja:* przed latem 2001 \\
+*miasto:*  Chojnice    <br/>
+*nazwa:*  Bar Mleczny   <br/>
+*adres:*  ul. Kościuszki   <br/>
+*aktualizacja:* przed latem 2001 <br/>
 
 Powrót do [listy miast](/bary_mleczne)
 

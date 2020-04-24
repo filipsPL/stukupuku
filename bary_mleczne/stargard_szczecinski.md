@@ -4,14 +4,14 @@
 
 
 
-*miasto:*  Stargard Szczeciński    \\
-*nazwa:*  Faraon   \\
-*adres:*     naprzeciwko hali SPÓJNI         \\
-*przykladowe ceny:*     \\
-*opis:*     \\
-*godziny otwarcia:*     \\
-*informator:*     \\
-*aktualizacja:*        \\
+*miasto:*  Stargard Szczeciński    <br/>
+*nazwa:*  Faraon   <br/>
+*adres:*     naprzeciwko hali SPÓJNI         <br/>
+*przykladowe ceny:*     <br/>
+*opis:*     <br/>
+*godziny otwarcia:*     <br/>
+*informator:*     <br/>
+*aktualizacja:*        <br/>
 
 
 Powrót do [listy miast](/bary_mleczne)

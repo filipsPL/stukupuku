@@ -108,9 +108,9 @@
 
 ### Bary Mleczne
 
-[bary mleczne](bary_mleczne) - Największy spis barów mlecznych w sieci. \\
-![bary_mleczne:familijny.jpg](/.attachments/bary_mleczne:familijny.jpg) \\
-[artykuły o barach mlecznych](artykuły_o_barach_mlecznych) - artykuły o barach mlecznych (i nie tylko) ze starych gazet. \\
+[bary mleczne](bary_mleczne) - Największy spis barów mlecznych w sieci. <br/>
+![bary_mleczne:familijny.jpg](/.attachments/bary_mleczne:familijny.jpg) <br/>
+[artykuły o barach mlecznych](artykuły_o_barach_mlecznych) - artykuły o barach mlecznych (i nie tylko) ze starych gazet. <br/>
 
 
 ### Members
